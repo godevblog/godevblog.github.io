@@ -349,7 +349,7 @@ level-groups:
           - name: 52 książki na rok.
             level: II
             prize: nagrody-poziom-2
-            done: falses
+            done: false
             deadline: 2020
 
           - name: 120 książek na rok.
@@ -452,8 +452,8 @@ level-groups:
           - name: Pracuję 100% zdalnie.
             level: I
             prize: nagrody-poziom-1
-            done: false
-            deadline: 2020
+            done: true
+            deadline: 2018
 
           - name: 100% zdalnie i tylko nad własnymi projektami.
             level: II
