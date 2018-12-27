@@ -223,3 +223,18 @@ books:
     category: Marketing 
     readed: 100
     recommendation: true
+
+  - title: Budowanie mikrousług. Sam Newman.
+    image: /assets/images/books/budmik.jpg
+    url: http://ebookpoint.pl/view/90752/budmik.htm
+    category: Architektura 
+    readed: 0
+    recommendation: false
+
+  - title: DDD. Kompendium wiedzy. Vaughn Vernon.
+    image: /assets/images/books/dddpig.jpg
+    url: http://ebookpoint.pl/view/90752/dddpig.htm
+    category: Domain-Driven Design 
+    readed: 0
+    recommendation: false
+
