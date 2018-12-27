@@ -3,7 +3,7 @@ books:
     image: /assets/images/books/domdri.jpg
     url: http://ebookpoint.pl/view/90752/domdri.htm
     category: Domain-Driven Design
-    readed: 84
+    readed: 100
     recommendation: true
    
   - title: DDD dla architektów oprogramowania. Vaughn Vernon.
@@ -143,7 +143,7 @@ books:
     image: /assets/images/books/biegiem-przez-zycie.jpg
     url: http://skarzynski.pl/produkt/biegiem-przez-zycie/
     category: Bieganie
-    readed: 80
+    readed: 100
     recommendation: true
 
   - title: Myśl!... i bogać się. Napoleon Hill.
@@ -192,7 +192,7 @@ books:
     image: /assets/images/books/eventstorming.jpg
     url: https://www.eventstorming.com/
     category: Domain-Driven Design
-    readed: 70
+    readed: 100
     recommendation: true
 
 
