@@ -1,6 +1,6 @@
 ---
 title: Trzy poziomy - podsumowanie grudzień 2018
-date: 2018-12-31
+date: 2018-12-31 11:00
 author: Krzysztof Owsiany
 layout: post
 tags:
