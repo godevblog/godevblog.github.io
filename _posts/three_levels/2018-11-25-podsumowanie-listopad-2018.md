@@ -175,7 +175,7 @@ Miałem trzy wystąpienia na: dotNetConfPl, 4Developers Wrocław, Devstyle Speak
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie październik 2018][previous]**
 
-<!--Następny: **[Trzy poziomy - podsumowanie grudzień 2018][next]**-->
+Następny: **[Trzy poziomy - podsumowanie grudzień 2018][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-pazdziernik-2018

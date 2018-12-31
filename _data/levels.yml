@@ -163,13 +163,13 @@ level-groups:
             level: I
             prize: nagrody-poziom-1
             done: false
-            deadline: 2018
+            deadline: 2019
 
           - name: Ważę 85kg.
             level: II
             prize: nagrody-poziom-2
             done: false
-            deadline: 2019
+            deadline: 2020
 
           - name: Ważę 70kg.
             level: III
@@ -207,7 +207,7 @@ level-groups:
             level: I
             prize: nagrody-poziom-1
             done: false
-            deadline: 2018
+            deadline: 2019
 
           - name: Nagrywam 50 podcastów. 
             level: II
@@ -343,7 +343,7 @@ level-groups:
           - name: 12 książek na rok.
             level: I
             prize: nagrody-poziom-1
-            done: false
+            done: true
             deadline: 2018
 
           - name: 52 książki na rok.
