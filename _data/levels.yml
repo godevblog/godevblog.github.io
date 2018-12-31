@@ -54,10 +54,11 @@ level-groups:
             prize: Wizyta w lokalnym browarze Bielsko-Biała
             done: true
             deadline: 2018
+            grant: true
 
           - name: Pisałem posty przez 365 dni.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2019
 
