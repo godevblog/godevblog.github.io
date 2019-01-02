@@ -538,13 +538,13 @@ level-groups:
             done: false
             deadline: 2019
 
-          - name: Wystąpiłem na 5 konferencjach w rok z (4D, Programistok, BoilingFrogs, InfoShare, RzemiosłoIT, GreenFieldConf, BBQ4, GET.NET, Wroc#, .NET DeveloperDays)
+          - name: Wystąpiłem na 10 konferencjach w rok.
             level: II
             prize: nagrody-poziom-2
             done: false
             deadline: 2020
 
-          - name: Wystąpiłem na 10 konferencjach w rok (4D, Programistok, BoilingFrogs, InfoShare, RzemiosłoIT, GreenFieldConf, BBQ4, GET.NET, Wroc#, .NET DeveloperDays)
+          - name: Wystąpiłem na 2 konferencjach zagranicznych w rok.
             level: III
             prize: nagrody-poziom-3
             done: false
