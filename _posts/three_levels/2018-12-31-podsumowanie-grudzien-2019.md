@@ -7,7 +7,7 @@ tags:
   - podsumowanie
   - 2018
   - Trzy poziomy
-  - Listopad
+  - Grudzień
 comments: true
 permalink: trzy-poziomy-podsumowanie-grudzien-2018
 published: true
