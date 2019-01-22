@@ -12,6 +12,7 @@ plugins:
   - jekyll-paginate
   - jekyll-youtube
   - jekyll-feed
+  - jekyll-redirect-from
   
 include: ['_pages']
 
