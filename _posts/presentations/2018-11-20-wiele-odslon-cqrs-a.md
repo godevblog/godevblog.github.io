@@ -19,6 +19,10 @@ short: Zapraszam na moją kolejną prezentacje. Tym razem opowiadam o CQRS-ie, C
 
 Witaj tutaj slajdy z mojej prezentacji na 4Developers Wrocław dotyczącej CQRS-a.
 
+<div width="640" height="480" style="margin-left:auto; margin-right:auto;">
+<embed width="100%" height="480" src="https://www.youtube.com/embed/3X43CHhr4r0"/>
+</div >
+
 [Slajdy][slides]
 
 [Repozytorium z kodem][github]
