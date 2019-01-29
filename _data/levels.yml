@@ -446,9 +446,10 @@ level-groups:
         levels:
           - name: Pracuję 100% zdalnie.
             level: I
-            prize: nagrody-poziom-1
+            prize: Kosztowanie różnych gatunków Whisky
             done: true
             deadline: 2018
+            grant: true
 
           - name: 100% zdalnie i tylko nad własnymi projektami.
             level: II

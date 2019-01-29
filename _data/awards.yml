@@ -9,6 +9,7 @@ level1:
   - name: Wybrana gra planszowa
   - name: Wizyta w lokalnym browarze
   - name: Wizyta w lokalnym browarze Bielsko-Biała
+  - name: Kosztowanie różnych gatunków Whisky
     grant: true
   - name: Wyjście na koncert, np. Sylwia Grzeszczak
   - name: Wyjście do restauracji Figaro Leszno
