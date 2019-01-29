@@ -120,12 +120,14 @@ div.blog_rss {
 }
 
 aside#sidebar {
-    width: 350px;
+    max-width: 350px !important;
 }
 
 #main-content {
-    width: 900px;
+    max-width: 900px !important;
 }
+
+#content-wrapper { max-width: 1300px !important; margin: 0 auto; }
 
 .centered {
     width: 100%;
