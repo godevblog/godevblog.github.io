@@ -29,3 +29,5 @@ groups:
         url: /private-policy
       - page: Kontakt
         url: /kontakt
+      - page: Liczniki
+        url: /liczniki
