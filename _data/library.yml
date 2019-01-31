@@ -238,3 +238,9 @@ books:
     readed: 0
     recommendation: false
 
+  - title: Medytacja dla zabieganych. Osho.
+    image: /assets/images/books/e_0tr9.jpg
+    url: http://ebookpoint.pl/view/90752/e_0tr9.htm
+    category: Medytacja
+    readed: 100
+    recommendation: true

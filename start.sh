@@ -1,2 +1,2 @@
 #!/bin/bash
-bundler exec jekyll serve
+bundler exec jekyll serve --incremental

@@ -376,7 +376,7 @@ level-groups:
 
       - name: Trener
         inspire: Maciej Aniserowicz, Piotr Gankiewicz
-        base: devarsztaty
+        base: devWarsztaty
         levels:
           - name: Stworzyłem szkolenia online.
             level: I
