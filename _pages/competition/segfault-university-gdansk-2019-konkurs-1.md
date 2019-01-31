@@ -39,7 +39,7 @@ Dwa dni, jeden przeznaczony na warsztaty 💣.
 
 [logo-top]: /assets/images/competitions/segfault-university-gdansk-2019/logo.jpg
 
-[tweet-em]: https://twitter.com/k_owsiany/status/1060257968267112450
+[tweet-em]: https://twitter.com/k_owsiany/status/1091064062522388483
 
 [🎫]: https://segfault-university-gdansk-2019.konfeo.com/pl/groups?_ga=2.110909573.1078189419.1548842665-786339500.1544889072
 [📋]: javascript:CopyToClipboard('University_MrDev')
