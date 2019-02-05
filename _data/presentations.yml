@@ -1,3 +1,12 @@
+- year: 2019
+  presentations:
+    - where: C_tech Wrocław
+      date: 2019-01-07
+      access_date: 2019-01-04
+      title: Świat pełen zdarzeń - EventStorming.
+      link: https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/
+      page: swiat-pelen-zdarzen-eventstorming
+
 - year: 2018
   presentations:
     - where: Rzeszowska Grupa Dev
@@ -5,7 +14,7 @@
       access_date: 2018-12-11
       title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
       link: https://www.meetup.com/pl-PL/rg-dev/
-      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami            
+      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami
 
     - where: DevStyle Speakers 02 - Warszawa
       date: 2018-11-25
