@@ -1,11 +1,53 @@
 - year: 2019
   presentations:
+    - where: Rzeszowska Grupa Dev
+      date: 2019
+      access_date: 2019
+      title: Wszechświat pełen zdarzeń - EventStorming.
+      link: https://www.meetup.com/pl-PL/rg-dev/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: TBD
+      date: 2019-05-16
+      access_date: 2019-05-10
+      title: TBD
+      link: mrdev.pl
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: Białostocka Grupa .NET
+      date: 2019-05-15
+      access_date: 2019-05-10
+      title: TBD
+      link: https://www.facebook.com/groups/bstoknet/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: Krakowska Grupa Developerów .NET
+      date: 2019-04-10
+      access_date: 2019-04-04
+      title: TBD
+      link: https://www.meetup.com/KGD-NET/?chapter_analytics_code=UA-112393717-1
+      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami
+
+    - where: Wrocławska Grupa .NET
+      date: 2019-03-28
+      access_date: 2019-03-24
+      title: TBD
+      link: https://www.meetup.com/wrocnet/
+      page: wszechswiat-pelen-zdarzen-eventstorming   
+
+    - where: C_tech Katowice
+      date: 2019-02-28
+      access_date: 2019-02-10
+      title: Wszechświat pełen zdarzeń - EventStorming.
+      link: https://www.meetup.com/C_tech-Katowice/events/258897835/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
     - where: C_tech Wrocław
       date: 2019-02-07
       access_date: 2019-02-04
       title: Świat pełen zdarzeń - EventStorming.
       link: https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/
-      page: swiat-pelen-zdarzen-eventstorming
+      page: wszechswiat-pelen-zdarzen-eventstorming
 
 - year: 2018
   presentations:

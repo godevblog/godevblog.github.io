@@ -1,5 +1,5 @@
 ---
-title: Świat pełen zdarzeń - EventStorming.
+title: Wszechświat pełen zdarzeń - EventStorming.
 date: 2019-02-05
 author: Krzysztof Owsiany
 layout: post
@@ -8,10 +8,10 @@ tags:
   - c_tech
   - EventStorming
 comments: true
-permalink: swiat-pelen-zdarzen-eventstorming
+permalink: wszechswiat-pelen-zdarzen-eventstorming
 published: true
-image: /assets/images/presentations/swiat-pelen-zdarzen-eventstorming/post.jpg
-image_big: /assets/images/presentations/swiat-pelen-zdarzen-eventstorming/post-big.jpg
+image: /assets/images/presentations/wszechswiat-pelen-zdarzen-eventstorming/post.jpg
+image_big: /assets/images/presentations/wszechswiat-pelen-zdarzen-eventstorming/post-big.jpg
 categories:
   - Prezentacja
   - EventStorming
