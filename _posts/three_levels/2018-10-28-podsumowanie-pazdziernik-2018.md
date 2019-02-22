@@ -84,7 +84,7 @@ Ale nie łamię się i brnę do przodu!!!
 
 ## Softwator
 ### I: Posiadam 1 tyś subskrybentów oprogramowania. 
-* Przeprowadziłem kilka sesji Event Storming-owe.
+* Przeprowadziłem kilka sesji EventStorming-owe.
 
 ## Hipidriver
 ### I: Objechałem w 14 dni z żoną Polskę. 
