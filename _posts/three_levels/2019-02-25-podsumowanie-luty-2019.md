@@ -185,7 +185,7 @@ Objazd polski
 ## eTeacher
 ### I: Stworzyłem 2 kursy online. 
 * To nie takie proste.
-* Konspekt kursu dockera do Eduweb.
+* Konspekt kursu Docker-a do Eduweb.
 
 # Wnioski
 W lutym miało miejsce jedno zdarzenie, 18 na której byłem razem z żoną. To zaowocowało falą niepowodzeń. Pierwsze to nie przespanie nocy i brak organizacji tygodnia następnego. I tak się zaczęło nawarstwiać. Do tego kilka nie planowanych wcześniej wyjazdów urwało grube godziny. 
