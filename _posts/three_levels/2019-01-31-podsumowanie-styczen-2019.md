@@ -52,7 +52,7 @@ Udało się znacznie do przodu posunąć cel nie uwzględniony w zestawieniu. Re
 ## Mówca
 ### I: Wystąpiłem przed 200 osobami. 
 * Organizowanie wyjazdów na grupy .NET.
-* Wystąpię też z nowym tematem 7 grudnia na [C_Tech Wrocław ](https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/)
+* Wystąpię też z nowym tematem 7 lutego na [C_Tech Wrocław ](https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/)
   
 ## Lingwista
 ### I: Znam język angielski na poziomie komunikatywnym.
@@ -71,7 +71,7 @@ Udało się znacznie do przodu posunąć cel nie uwzględniony w zestawieniu. Re
 
 ## Dywersyfikator Hajsu
 ### I: Mam 5 różnych źródeł dochodu. 
-* Wykorzystałem metodę 1:1 by sprawdzić czy kurs oEventStorming-u to dobry pomysł.
+* Wykorzystałem metodę 1:1 by sprawdzić czy kurs o EventStorming-u to dobry pomysł.
 * Dostałem feedback jednak, jak się okazuje ludzie nie do końca wiedzą czym jest EventStorming.
 * Przygotowuję ofertę dla [After.conf].
 
@@ -196,7 +196,7 @@ Ponownie mam też myśli, że może za dużo mam zadań.
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie grudzień 2018][previous]**
 
-<!--Następny: **[Trzy poziomy - podsumowanie luty 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie luty 2019][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-grudzien-2018
