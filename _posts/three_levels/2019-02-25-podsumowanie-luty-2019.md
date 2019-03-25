@@ -40,7 +40,7 @@ Po prostu stałem i patrzyłem jak zaplanowane zadania dopisują się do listy t
 ### II: Pisałem posty przez 365 dni.
 * Podsumowanie luty.
 * Post dotyczący 
-* Post na temat [EventStorming-u]({{site.url}}/eventstroming-co-to-takiego)
+* Post na temat [EventStorming-u]({{site.url}}/eventstorming-co-to-takiego)
 
 ## Mnich
 ### I: Medytowałem przez 30 dni. 
