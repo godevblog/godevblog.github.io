@@ -7,11 +7,11 @@
       link: https://www.meetup.com/pl-PL/rg-dev/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
-    - where: TBD
+    - where: OLMUG - Olsztyn Microsoft User Group
       date: 2019-05-16
       access_date: 2019-05-10
-      title: TBD
-      link: mrdev.pl
+      title: Wszechświat pełen zdarzeń - EventStorming.
+      link: https://www.meetup.com/ol-mug/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: Białostocka Grupa .NET
@@ -24,16 +24,16 @@
     - where: Krakowska Grupa Developerów .NET
       date: 2019-04-10
       access_date: 2019-04-04
-      title: TBD
+      title: Wiele odsłon CQRS-a.
       link: https://www.meetup.com/KGD-NET/?chapter_analytics_code=UA-112393717-1
-      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami
+      page: wiele-odslon-cqrs-a
 
     - where: Wrocławska Grupa .NET
       date: 2019-03-28
       access_date: 2019-03-24
-      title: TBD
+      title: IL — między piekłem a niebem.
       link: https://www.meetup.com/wrocnet/
-      page: wszechswiat-pelen-zdarzen-eventstorming   
+      page: il-miedzy-pieklem-a-niebem
 
     - where: C_tech Katowice
       date: 2019-02-28
