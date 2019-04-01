@@ -39,7 +39,6 @@ Po prostu stałem i patrzyłem jak zaplanowane zadania dopisują się do listy t
 ## Bloger
 ### II: Pisałem posty przez 365 dni.
 * Podsumowanie luty.
-* Post dotyczący 
 * Post na temat [EventStorming-u]({{site.url}}/eventstorming-co-to-takiego)
 
 ## Mnich
@@ -138,7 +137,7 @@ Objazd polski
 
 ## Król
 ### I: Przenocowałem z rodziną 1 noc w zamku. 
-* Brak działąnia
+* Brak działania
 
 ## Społecznik
 ### I: Uczestniczę w 1 spotkaniach ze znajomymi w miesiącu. 
@@ -198,11 +197,11 @@ Być może zmęczenie materiału domagało się takiej przerwy. I wystarczyła m
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie styczeń 2019][previous]**
 
-<!--Następny: **[Trzy poziomy - podsumowanie marzec 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie marzec 2019][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-styczen-2019
-[next]: {{site.url}}/trzy-poziomy-podsumowanie-luty-2019
+[next]: {{site.url}}/trzy-poziomy-podsumowanie-marzec-2019
 
 [post]: /assets/images/2019/02/trzy-poziomy/post.jpg
 [post-big]: /assets/images/2019/02/trzy-poziomy/post-big.jpg
