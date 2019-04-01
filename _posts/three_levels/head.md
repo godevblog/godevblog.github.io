@@ -7,8 +7,6 @@
 * [Nagrody dla poziomu 3].
 * [Nagrody dla poziomu 4].
 
-{% include_relative course.md %}
-
 ----
 
 [Cele]: {{site.url}}/cele
