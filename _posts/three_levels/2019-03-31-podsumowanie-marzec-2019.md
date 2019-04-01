@@ -213,8 +213,8 @@ Poprzedni: **[Trzy poziomy - podsumowanie luty 2019][previous]**
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-luty-2019
 [next]: {{site.url}}/trzy-poziomy-podsumowanie-kwiecien-2019
 
-[post]: /assets/images/2019/02/trzy-poziomy/post.jpg
-[post-big]: /assets/images/2019/02/trzy-poziomy/post-big.jpg
+[post]: /assets/images/2019/03/trzy-poziomy/post.jpg
+[post-big]: /assets/images/2019/03/trzy-poziomy/post-big.jpg
 
 [After.conf]: {{site.url}}/aftger-conf
 [Kursu Trzy Poziomy]: https://trzypoziomy.pl/
