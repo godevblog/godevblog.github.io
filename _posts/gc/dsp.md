@@ -9,7 +9,7 @@
 |**Snapchat**|[www.snapchat.com/add/gocom7](https://www.snapchat.com/add/gocom7)|
 |**Facebook**|[www.facebook.com/PictOgr-1729700930654225](https://www.facebook.com/PictOgr-1729700930654225)|     
 |**Twitter**|[twitter.com/gemu_gocom](https://twitter.com/gemu_gocom)|          
-|**RSS**|[ http://godev.gemustudio.com/category/daj-sie-poznac-2017/feed](http://godev.gemustudio.com/category/daj-sie-poznac-2017/feed)|
+|**RSS**|[ http://mrdev.pl/category/daj-sie-poznac-2017/feed](http://mrdev.pl/category/daj-sie-poznac-2017/feed)|
 
 [procent]: http://devstyle.pl
 

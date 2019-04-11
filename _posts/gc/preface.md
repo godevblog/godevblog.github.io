@@ -1,5 +1,5 @@
 ----
-Artykuł ten jest częścią serii arykułów na temat **Garbage Collector-a**.
+Artykuł ten jest częścią serii artykułów na temat **Garbage Collector-a**.
  
 ![Wysypisko śmieci.][trash]{:.image-li} [Wysypisko śmieci.][1]
 

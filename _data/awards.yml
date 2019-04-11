@@ -6,13 +6,15 @@ level1:
   - name: Film w kinie IMAX
     url: https://www.cinema-city.pl/imax
   - name: Filtr szary regulowany
-  - name: Wybrana gra planszowa
+  - name: Szachy
+  - name: Koncert Arch Enemy - Wrocław 3 czerwiec 2019
+    grant: true
   - name: Wizyta w lokalnym browarze
   - name: Wizyta w lokalnym browarze Bielsko-Biała
+    grant: true
   - name: Kosztowanie różnych gatunków Whisky
     grant: true
   - name: Wyjście na koncert, np. Sylwia Grzeszczak
-  - name: Wyjście do restauracji Figaro Leszno
   - name: Wykup płatnej usługi, np. do medytacji
   - name: Wyjście do restauracji na Sushi
   - name: Wyjazd do Aquaparku
@@ -25,7 +27,7 @@ level1:
 level2:
   - name: Słuchawki z mikrofonem bezprzewodowe
   - name: Głośniki do komputera
-  - name: Zewnętrzna nagrywakra M-Disc
+  - name: Zewnętrzna nagrywarka M-Disc
   - name: Dysk SSD do laptopa 500MB - 1TB
   - name: Plecak do noszenia aparatu
   - name: Wyjście na koncert, np. Metallica
@@ -40,8 +42,8 @@ level2:
 level3:
   - name: Obiektyw FishEye do aparatu Canon
   - name: Obiektyw macro 100/150mm do aparatu Canon
-  - name: Lampa błyskowa/światło do fotografi macro do aparatu Canon
-  - name: Obiektyw supertele 150-600mm do aparatu Canon
+  - name: Lampa błyskowa/światło do fotografii macro do aparatu Canon
+  - name: Obiektyw Supertele 150-600mm do aparatu Canon
   - name: Osłona do aparatu Canon - do nurkowania.
   - name: Canon 5D Mark IV
     url: https://www.canon.pl/cameras/eos-5d-mark-iv

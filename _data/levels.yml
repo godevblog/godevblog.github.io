@@ -30,7 +30,7 @@ level-groups:
           - name: Nagrywałem VLoga przez 30 dni.
             level: I
             prize: nagrody-poziom-1
-            done: false
+            done: true
             deadline: 2019
 
           - name: Nagrywałem VLoga przez 365 dni.
@@ -337,7 +337,7 @@ level-groups:
         levels:
           - name: 12 książek na rok.
             level: I
-            prize: nagrody-poziom-1
+            prize: Koncert Arch Enemy - Wrocław 3 czerwiec 2019
             done: true
             deadline: 2018
 

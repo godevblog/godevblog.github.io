@@ -207,7 +207,7 @@ Chcę tez podkreślić te, które są ważniejsze w danej chwili.
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie luty 2019][previous]**
 
-<!--Następny: **[Trzy poziomy - podsumowanie kwiecień 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie kwiecień 2019][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-luty-2019

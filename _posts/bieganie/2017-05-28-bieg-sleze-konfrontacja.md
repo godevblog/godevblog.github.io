@@ -19,11 +19,11 @@ tags:
 <div id="dslc-theme-content">
   <div id="dslc-theme-content-inner">
 
-      <a href="http://godev.gemustudio.com/assets/images/2017/05/20170527_151432-e1495988221524.jpg"><img class="alignleft wp-image-1195 size-medium" src="http://godev.gemustudio.com/assets/images/2017/05/20170527_151432-e1495988221524-169x300.jpg" alt="Bieg na Ślężę" width="169" height="300" /></a>Pogoda bardzo dopisała w dzień biegu, wszystko przebiegało bardzo dobrze nic nie sugerowało tego co się miało dziać podczas  biegu.
+      <a href="http://mrdev.pl/assets/images/2017/05/20170527_151432-e1495988221524.jpg"><img class="alignleft wp-image-1195 size-medium" src="http://mrdev.pl/assets/images/2017/05/20170527_151432-e1495988221524-169x300.jpg" alt="Bieg na Ślężę" width="169" height="300" /></a>Pogoda bardzo dopisała w dzień biegu, wszystko przebiegało bardzo dobrze nic nie sugerowało tego co się miało dziać podczas  biegu.
     </p>
     
 
-      Po starcie trochę kurzu i truchcik pod prażącym słońcem. Pierwsza górka + słońce i sadło już nie chciało za szybko biec. Jednak udało się szczęśliwy pobiegłem dalej, jednak moja partnerka biegowo - życiowa czyli Żona, **defektowała**, tym samym z  góry wiedziałem że bieg będzie podwójnie ciężki. Z jednej strony wymagająca trasa z drugiej jęczenie, marudzenie i inne efekty specjalne.<a href="http://godev.gemustudio.com/assets/images/2017/05/20170527_141318-e1495988370754.jpg"><img class="size-medium wp-image-1196 alignright" src="http://godev.gemustudio.com/assets/images/2017/05/20170527_141318-e1495988352223-169x300.jpg" alt="" width="169" height="300" /></a>
+      Po starcie trochę kurzu i truchcik pod prażącym słońcem. Pierwsza górka + słońce i sadło już nie chciało za szybko biec. Jednak udało się szczęśliwy pobiegłem dalej, jednak moja partnerka biegowo - życiowa czyli Żona, **defektowała**, tym samym z  góry wiedziałem że bieg będzie podwójnie ciężki. Z jednej strony wymagająca trasa z drugiej jęczenie, marudzenie i inne efekty specjalne.<a href="http://mrdev.pl/assets/images/2017/05/20170527_141318-e1495988370754.jpg"><img class="size-medium wp-image-1196 alignright" src="http://mrdev.pl/assets/images/2017/05/20170527_141318-e1495988352223-169x300.jpg" alt="" width="169" height="300" /></a>
     </p>
     
 
@@ -39,7 +39,7 @@ tags:
     </p>
     
 
-      Najwyraźniej doskwier<a href="http://godev.gemustudio.com/assets/images/2017/05/20170527_132702-e1495988704166.jpg"><img class="size-medium wp-image-1199 alignleft" src="http://godev.gemustudio.com/assets/images/2017/05/20170527_132702-e1495988704166-300x169.jpg" alt="" width="300" height="169" srcset="http://godev.gemustudio.com/assets/images/2017/05/20170527_132702-e1495988704166-300x169.jpg 300w, http://godev.gemustudio.com/assets/images/2017/05/20170527_132702-e1495988704166-768x432.jpg 768w, http://godev.gemustudio.com/assets/images/2017/05/20170527_132702-e1495988704166.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>ał jej brak wiary we własne możliwości. Ale to tak jest jak się osłucha opinii na temat biegów, biegów górskich i biegu na Ślężę od osób nie biegających bądź nigdy nie uczestniczących w biegach górskich.
+      Najwyraźniej doskwier<a href="http://mrdev.pl/assets/images/2017/05/20170527_132702-e1495988704166.jpg"><img class="size-medium wp-image-1199 alignleft" src="http://mrdev.pl/assets/images/2017/05/20170527_132702-e1495988704166-300x169.jpg" alt="" width="300" height="169" srcset="http://mrdev.pl/assets/images/2017/05/20170527_132702-e1495988704166-300x169.jpg 300w, http://mrdev.pl/assets/images/2017/05/20170527_132702-e1495988704166-768x432.jpg 768w, http://mrdev.pl/assets/images/2017/05/20170527_132702-e1495988704166.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>ał jej brak wiary we własne możliwości. Ale to tak jest jak się osłucha opinii na temat biegów, biegów górskich i biegu na Ślężę od osób nie biegających bądź nigdy nie uczestniczących w biegach górskich.
     </p>
     
 
@@ -59,7 +59,7 @@ tags:
     </h2>
     
 
-      Trenując przebiegliśmy wcześniej trasę **10 km** (z 2 km naddatkiem) **Biegu Górskiego w Lesznie**. I teraz powiem jedno &#8222;Co to jest?&#8221;, bo nie bieg górski.:D<a href="http://godev.gemustudio.com/assets/images/2017/05/20170527_090537-e1495989341311.jpg"><img class="size-medium wp-image-1204 alignright" src="http://godev.gemustudio.com/assets/images/2017/05/20170527_090537-300x169.jpg" alt="" width="300" height="169" /></a>
+      Trenując przebiegliśmy wcześniej trasę **10 km** (z 2 km naddatkiem) **Biegu Górskiego w Lesznie**. I teraz powiem jedno &#8222;Co to jest?&#8221;, bo nie bieg górski.:D<a href="http://mrdev.pl/assets/images/2017/05/20170527_090537-e1495989341311.jpg"><img class="size-medium wp-image-1204 alignright" src="http://mrdev.pl/assets/images/2017/05/20170527_090537-300x169.jpg" alt="" width="300" height="169" /></a>
     </p>
     
 
