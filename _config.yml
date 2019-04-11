@@ -1,8 +1,9 @@
 theme: jekyll-theme-architect
-url: http://mrdev.pl
+url: https://mrdev.pl
 blaze: http://blog.blazestudio.pl
-name: MR. Dev
-description: Blog programistyczny.
+name: MrDev
+title: MrDev - blog programisty.
+description: Blog programisty.
 facebook: https://www.facebook.com/MrDev-280928869136591/
 plugins:
   - jekyll-twitter-plugin
@@ -17,7 +18,7 @@ plugins:
 include: ['_pages']
 
 author: Krzysztof Owsiany
-author_email: gocom@o2.pl
+author_email: krzysztof@mrdev.pl
 
 tag_feed_layout: tag_feed
 tag_feed_dir: tag

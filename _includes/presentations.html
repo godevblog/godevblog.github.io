@@ -1,12 +1,20 @@
 <div id="content-wrapper">
     <div class="inner clearfix">
         <section id="main-content">
-            <ul>
                 {% assign today = "now" | date: "%s"  %}
-
+                {% assign current_year = 'now' | date: "%Y" }}
+                {% assign counter = 0  %}
                 {% for year in site.data.presentations %} 
                     {% if year.presentations != nil %}
-                        <h2 class="h2">{{ year.year }}</h2>
+                        {% if current_year contains year.year %}
+                            <h2 class="h2 collapsible active">{{ year.year }}</h2>
+                            <div class="content" style="max-height: 1000px;">
+                        {% else %}
+                            <h2 class="h2 collapsible">{{ year.year }}</h2>
+                            <div class="content">
+                        {% endif %}       
+                        
+                        <ol>
                         {% for presentation in year.presentations %}
                             <li>
                                 {% assign post_in_seconds = presentation.access_date | date: "%s" %}
@@ -16,6 +24,7 @@
                                         {{ presentation.date }}: 
                                     </span>
                                 {% else %}
+                                    {% assign counter = counter | plus: 1 %}
                                     <span class="color_2">{{ presentation.date }}</span>: 
                                 {% endif %}
 
@@ -45,10 +54,12 @@
                             </li>            
                             <br/>
                         {% endfor %} 
-                        <hr/>
                     {% endif %} 
+                    </ol>
+                </div>
                 {% endfor %}
-            </ul>
+            
+            <h2 class="h2">Licznik wystąpień: {{ counter }}</h2>
         </section>
     </div>
 </div>
