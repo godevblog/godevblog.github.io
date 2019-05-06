@@ -19,7 +19,7 @@ short: Wrzesień to miesiąc wyjazdów, i konferencji. Ciężkiej pracy w dużej
 ---
 ![Podsumowanie Trzy Poziomy - wrzesień 2018][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Miesiąc wrzesień, pod znakiem konferencji wyjazdów. Blisko 3 tyś. kilometrów samochodem. To spowodowało problemy z realizacją zadań, dlatego wiele nie zostało zrealizowanych. 
 
@@ -195,7 +195,7 @@ Robotę trzeba wykonać.
 Bardzo jestem zadowolony z uczestnictwa w tylu konferencjach.
 Spotkaniu znajomych i poznaniu nowych.
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie sierpień 2018][previous]**

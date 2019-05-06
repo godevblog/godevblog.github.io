@@ -21,7 +21,7 @@ tags:
 
 short: Odwiecznym problemem jaki napotykają na swojej drodze dwie ścierające się siły. Zlecający vs wykonawca. Wzajemna komunikacji vs zrozumienie. Problem narasta gdy obie persony obracają się w odseparowanych środowiskach.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![Domain-Driven Design][post]][post-big]{:.post-left-image}

@@ -18,7 +18,7 @@ short: Oto i moje pierwsze podsumowanie w ramach osiągania celów w programie T
 ---
 ![Podsumowanie Trzy Poziomy - czerwiec 2018][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Oto i moje pierwsze podsumowanie w ramach osiągania celów w programie [Trzy Poziomy].
 
@@ -147,7 +147,7 @@ Cały czs pracuję częściowo zdalnie.
 
 Na tym zakończę moje pierwsze podsumowanie. W przyszłości zapewne ulepszę sposób prezentacji tych treści:).
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Następny: **[Trzy poziomy - podsumowanie lipca 2018][next]**

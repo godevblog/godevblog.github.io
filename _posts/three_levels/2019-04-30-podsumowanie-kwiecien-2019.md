@@ -19,7 +19,7 @@ short: Kolejny miesiąc w mojej ocenie słaby. Całkiem upadł nawyk korzystania
 ---
 ![Podsumowanie Trzy Poziomy - kwiecień 2019][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Osiągnąłem I poziom we Vlogerze :) [MrDeVlog].
 
@@ -199,7 +199,7 @@ Muszę też przeorganizować moje cele. Straciły dla mnie na wartości i jest i
 Ponownie mam dużo wyjazdów, to zabiera czas. Podobnie będzie w maju.
 
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie marzec 2019][previous]**

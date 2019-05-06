@@ -19,7 +19,7 @@ short: Luty nie wypadł za dobrze, plan legł w gruzach. Brakło sił by podnie�
 ---
 ![Podsumowanie Trzy Poziomy - luty 2019][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Dzisiaj podsumowanie lutego dla 2019 roku. Najgorszy miesiąc w trzech poziomach.
 Po prostu stałem i patrzyłem jak zaplanowane zadania dopisują się do listy tych niezrealizowanych. To mnie sparaliżowało.
@@ -192,7 +192,7 @@ Skutkiem jest wiele zadań nie zrealizowanych i kompletnie nie przestrzeganie za
 Być może zmęczenie materiału domagało się takiej przerwy. I wystarczyła mała iskra zapalna...
 
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie styczeń 2019][previous]**

@@ -20,7 +20,7 @@ short: Ostatni miesiąc 2018 roku przyniósł Mi osiągnięcie kilku pierwszych 
 ---
 ![Podsumowanie Trzy Poziomy - grudzień 2018][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Tak to już ostatnie podsumowanie w roku 2018. Jestem bardzo zadowolony z tego co program Trzy Poziomy uczynił w moim życiu.
 
@@ -189,7 +189,7 @@ Ostatnie dni nie do końca szły z godnie z planem. Pewnie przez te święta. Lu
 
 W roku 2019 planuję wysunąć na prowadzenie kilka celów z całej grupy. Będą one tworzyły elitę. Zadania o wyższym priorytecie.
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie listopad 2018][previous]**

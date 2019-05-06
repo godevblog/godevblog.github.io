@@ -27,7 +27,7 @@ tags:
   - Value Obiect
 short: Do budowy Modelu Dziedziny (ang. Domain Model), wykorzystujemy kilka bazowych składowych powiązanych ze sobą relacjami.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 Do budowy **Modelu Dziedziny** (ang. **Domain Model**), wykorzystujemy kilka bazowych składowych powiązanych ze sobą relacjami.

@@ -19,7 +19,7 @@ short: Marzec ponownie słabo, nie mogę się pozbierać. Popycham tylko kilka t
 ---
 ![Podsumowanie Trzy Poziomy - marzec 2019][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Paraliż ciąg dalszy. Co się dziwnego i ciekawego wydążyło to [MrDeVlog].
 
@@ -202,7 +202,7 @@ Myślę nad ograniczeniem ilości celi i rozciągnięciem ich w czasie.
 Chcę tez podkreślić te, które są ważniejsze w danej chwili.
 
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie luty 2019][previous]**

@@ -21,7 +21,7 @@ tags:
   - Visual Studio Code
 short: Chwilami rozmyślałem na temat projektu, jaki chciałbym zmaltretować. Wyszło przy tym kilka ciekawych pomysłów. Jednak do realizacji podejmę się projektu prostego, rozwiązującego mój mały problemik.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![Domain-Driven Design][post]][post-big]{:.post-left-image}

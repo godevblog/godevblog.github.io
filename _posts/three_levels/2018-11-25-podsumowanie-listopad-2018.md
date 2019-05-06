@@ -20,7 +20,7 @@ short: Zapraszam do najcięższego miesiąca jak na ten czas w tym roku listopad
 ---
 ![Podsumowanie Trzy Poziomy - listopad 2018][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Ciężki miesiąc, wiele prezentacji i przygotowania do nich. Wyjazdy na konferencje i w ciągłym ruchu:)
 
@@ -170,7 +170,7 @@ Objazd polski
 
 Miałem trzy wystąpienia na: dotNetConfPl, 4Developers Wrocław, Devstyle Speakers oraz start w Fabryce Kursów. Spowodował problemy z realizacją innych zamierzonych celów. Przeniesione zostaną na później i kolejny rok.
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie październik 2018][previous]**

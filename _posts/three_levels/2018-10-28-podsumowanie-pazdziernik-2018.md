@@ -19,7 +19,7 @@ short: To już moje piąte podsumowanie. Jak ten czas leci. Niedługo planowanie
 ---
 ![Podsumowanie Trzy Poziomy - październik 2018][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Doszedł bardzo duży cel jaki nie jest ujęty w zestawieniu.
 Dokończenie remontu pokoju, który rozpocząłem już z 3 lata temu. Tak tak dawno ale robię powiedzmy w 90% samodzielnie.
@@ -172,7 +172,7 @@ Utrata bieżącej pracy doprowadziła do realizacji jednego z celów. Jeszcze ni
 
 I zbliżam się do realizacji pierwszego poziomu w czytaniu i podcast-ach. Kończenie jest najtrudniejsze ;).
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie wrzesień 2018][previous]**

@@ -19,7 +19,7 @@ short: I nadszedł nowy rok, a w raz z nim zmiany celów. Pierwszy miesiąc 2019
 ---
 ![Podsumowanie Trzy Poziomy - styczeń 2019][post-big]
 
-{% include_relative head.md %}
+{% include posts/three_levels/head.md %}
 
 Pierwsze podsumowanie roku 2019 to oczywiście styczeń.
 Doszło kilka celów do realizacji. Odebrałem też nagrodę za pierwszy poziom.
@@ -191,7 +191,7 @@ Pomimo tego udało się popchnąć kilka wózków z celami.
 To mnie bardzo cieszy, że jednak coś się dzieje. Pomimo tego, że nie wszystko realizuję co zaplanowałem.
 Ponownie mam też myśli, że może za dużo mam zadań.
 
-{% include_relative course.md %}
+{% include posts/three_levels/course.md %}
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie grudzień 2018][previous]**
