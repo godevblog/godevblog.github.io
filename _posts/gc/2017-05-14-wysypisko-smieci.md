@@ -18,7 +18,7 @@ tags:
   - 'Mark&Sweep'
 short: Nasz wspaniały język C#, znosi z nas prawie pełną odpowiedzialność za sprzątanie po sobie. Można by rzec, iż mamy zatrudnioną sprzątaczkę i nawet nie wiemy, kiedy magicznie bałagan znika. Oczywiści mowa tutaj o Garbage Collector...
 ---
-{% include_relative preface.md %}
+{% include posts/gc/preface.md %}
 
 [![Garbage Collector][post]][post-big]{:.post-left-image}
  
@@ -65,11 +65,11 @@ Generacja zerowa jest miejscem gdzie obiekty są najczęściej tworzone i niszcz
 
 **C.D.N.**
 
-{% include_relative end.md %}
+{% include posts/gc/end.md %}
 
-{% include_relative refs.md %}
+{% include posts/gc/refs.md %}
 
-{% include_relative dsp.md %}
+{% include posts/gc/dsp.md %}
 
 [post]:  /assets/images/2017/05/wysypisko-smieci/post.jpg
 [post-big]:  /assets/images/2017/05/wysypisko-smieci/post.jpg
