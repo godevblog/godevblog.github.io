@@ -36,7 +36,7 @@ Oczywiście nie są to wszystkie elementy grywalizacji, można je wykorzystywać
 
 Można sobie nie zdawać sprawy z tego gdzie tak naprawdę jest wykorzystywa na mechanika gier. Dobrym przykładem jest szeroko pojęta edukacja. Gdzie zaszycie mechanizmów przyciągających w proces nauczania daje wymierne skutki dla osób uczestniczących w tym procederze. W końcu można rywalizować, zdobywać nagrody, i inne profity, dobrze się bawić i przy tym edukować.
     
-{% include_relative gamification-books.md %}
+{% include posts/dsp2017/gamification-books.md %}
 
 {% include posts/dsp2017/dsp.md %}
 
