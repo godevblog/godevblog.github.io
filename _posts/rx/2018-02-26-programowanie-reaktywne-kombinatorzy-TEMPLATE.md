@@ -24,7 +24,7 @@ tags:
   - When-And-Then
 short: Nie
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - When-And-Then][post]][post-big]{:.post-left-image}
@@ -38,7 +38,7 @@ short: Nie
 
 ## Zakończenie
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Switch][previous]**

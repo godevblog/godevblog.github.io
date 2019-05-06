@@ -26,7 +26,7 @@ tags:
   - Extension Methods
 short: To już ostatni post z rodziny timer-owatych. Omówione zostaną dwa proste operatory. Ale co ważniejsze, zaimplementujemy kolejne dwa własne. Rx oparty jest o rozszerzone metody, dlatego bardzo łatwo jest dodać kolejne potrzebne "stworki".
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Extension Methods][post]][post-big]{:.post-right-image}
@@ -108,7 +108,7 @@ _subscribeWithoutTimeInterval = observableInterval
 Kończąc tą partie postów dotyczących czasu. Mam nadzieję, iż przysłużyłem się komuś moją malutką wiedzą na ten temat. 
 W kolejnych poznawać będziemy inne mechanizmy, operatory jakie dostarczają biblioteki **Reactive Extensions**{:.color_1}. Zapraszam do śledzenia. I dziękuję za obecność.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Throttle][previous]**

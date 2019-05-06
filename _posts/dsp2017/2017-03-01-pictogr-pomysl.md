@@ -62,7 +62,7 @@ W całym tym bałaganie znalazłem takie coś jak **[Visual Studio 2015][vs]**, 
     
 Być może będę potrzebował wsparcia Pana **[Jenkinsa][jenkins]** i będzie już wszystko **[GIT][git]**.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [vs]: https://www.visualstudio.com/
 [jenkins]: https://jenkins.io/

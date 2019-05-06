@@ -51,7 +51,7 @@ Jako świadek rewolucji informatycznej, jaka ma miejsce, będę mógł z powodze
 
 **Od taki Grandpa Developer.**{:.h-1}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/delphin-developer/post.jpg
 [post-big]: /assets/images/2017/05/delphin-developer/post-big.jpg

@@ -24,7 +24,7 @@ tags:
   - Select
 short: Przyszła pora by troszkę się pobawić Transformers-ami. Autoboty - transformacja... Otwieram tym samym mikro cykl transformacji strumieni prosto z Cybertron-u. Pomijając luźne aluzje, przetwarzanie danych pochodzących od dystrybutorów to...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Select][post]][post-big]{:.post-right-image}
@@ -66,7 +66,7 @@ Mieliśmy już przyjemność korzystać z transformacji w postach dotyczących: 
 
 Wówczas opisałem na szybko działanie, ze względu na potrzebę użycia. Pozostało jeszcze kilka **Autobotów**{:.color_1} po wojnie z **Decepticon-ami**{:.color_1}. Zapraszam do śledzenia :).
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Combine Latest][previous]**

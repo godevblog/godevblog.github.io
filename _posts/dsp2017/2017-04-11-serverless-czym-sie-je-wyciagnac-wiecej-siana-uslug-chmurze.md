@@ -66,7 +66,7 @@ Przydatne linki:
 * [aws.amazon.com/lambda/serverless-architectures-learn-more],
 * [aws.amazon.com/serverless].
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [serverlesscalc.com]: http://serverlesscalc.com
 [serverless.com]: https://serverless.com

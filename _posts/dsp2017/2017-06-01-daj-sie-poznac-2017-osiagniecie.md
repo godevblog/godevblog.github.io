@@ -46,7 +46,7 @@ Chciałbym już teraz podziękować przede wszystkim:
 
 **Bez tych osób nie dokonał bym tego co dokonałem, i dokonam!.**
         
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [grywalizacji]: {{site.url}}/grywalizacja
 

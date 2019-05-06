@@ -28,7 +28,7 @@ tags:
   - Timer
 short: Trochę czasu już upłynęło... Warto by było przyswoić pewne dodatkowe informacje procesie zapisu na strumienie. Przykłady przedstawione do tej pory w postach są bardzo uproszczone. var observableTimer = Observable.Timer(_dueTime, _period, scheduler);
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 Trochę czasu już upłynęło... Warto by było przyswoić pewne dodatkowe informacje procesie zapisu na strumienie.
@@ -138,7 +138,7 @@ Mam nadzieję, że ponownie przybliżyłem **Reactive Extensions**:).
 
 **Pamiętajcie! Łapcie wyjątki puki gorące!**{:.h-allert-1}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kto za tym stoi? - Scheduler.][previous]**

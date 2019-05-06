@@ -72,7 +72,7 @@ A to wiadomo łapy nie trzeba odrywać i szybciej jest.
 
 C. D. N.
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/03/crek-hipopotam/post.jpg
 [post-big]: /assets/images/2017/03/crek-hipopotam/post-big.jpg

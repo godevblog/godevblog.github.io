@@ -180,7 +180,7 @@ Na dzisiaj tyle. Jestem w implementacji testów i CQRSa.
     
 Liczę na konstruktywne komentarze:).
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/03/pictogr-pierwszy-kod/post.png
 [autofac-logo]: /assets/images/2017/03/pictogr-pierwszy-kod/autofac-logo.png

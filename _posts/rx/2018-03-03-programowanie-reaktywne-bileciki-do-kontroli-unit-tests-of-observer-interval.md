@@ -28,7 +28,7 @@ tags:
   - Test-Driven Development
 short: Dzisiaj postanowiłem kontynuować wczorajszą tematykę. Czyli testowanie. W przypadku Rx-ów nie jest to takie proste. Ze względu na potrzebę kontroli nad procesem publikowania danych na strumień.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - TestScheduler][post]][post-big]{:.post-left-image}
@@ -120,7 +120,7 @@ Dobrym tutaj podejściem było by pisanie testów przed implementacją, i nawet 
 
 **Niech kod będzie z Wami!.**{:.h-3}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Transformers - OfType and Cast][previous]**

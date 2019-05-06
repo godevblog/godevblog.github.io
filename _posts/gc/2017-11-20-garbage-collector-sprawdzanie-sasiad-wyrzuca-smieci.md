@@ -21,7 +21,7 @@ tags:
   - using
 short: Garbage Collector ma zaimplementowaną pewną funkcjonalność. Daje nam ona kontrolę nad procesem niszczenia obiektów. Jako że do zarządzania pamięcią wykorzystywany jest specjalny agent i nie musimy się martwić o niszczenie obiektów.
 ---
-{% include_relative preface.md %}
+{% include posts/gc/preface.md %}
 
 [![Dispose][post]][post-big]{:.post-left-image}
 **Garbage Collector** ma zaimplementowaną pewną funkcjonalność. Daje nam ona kontrolę nad procesem niszczenia obiektów. Jako że do zarządzania pamięcią wykorzystywany jest specjalny agent i nie musimy się martwić o niszczenie obiektów. Tym samym nie wiemy, kiedy to nastąpi.
@@ -135,7 +135,7 @@ W przypadku braku implementacji interfejsu **IDisposable** przez klasę, będzie
     
  **C.D.N.**
 
-{% include_relative end.md %}
+{% include posts/gc/end.md %}
 
 {% include_relative refs.md %}
 

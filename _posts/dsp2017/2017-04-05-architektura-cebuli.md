@@ -55,7 +55,7 @@ Pewne elementy aplikacji np. logi, dostęp do plików/bazy, usługi zewnętrzne,
 
 **Rozwarstwienie aplikacji to także większy porządek => większa czytelność => łatwiejsze utrzymanie. Zachęcam do budowania aplikacji w oparciu o cebulkę!**{:.h-1}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/04/architektura-cebuli/post.png
 [post-big]: /assets/images/2017/04/architektura-cebuli/post-big.png

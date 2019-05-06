@@ -24,7 +24,7 @@ tags:
   - When-And-Then
 short: Nie tak dawno przedstawiałem zamek błyskawiczny (Zip). Istnieje jeszcze jedna możliwość pozwalająca na łączenie znacznie więcej w jedną całość. Tak by publikacja danych na połączony strumień odbywała się dopiero gdy dostaniemy wszystkie próbki z źródłowych strumieni.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - When-And-Then][post]][post-big]{:.post-left-image}
@@ -96,7 +96,7 @@ Plecionka jaką zbudujemy przy wykorzystaniu powyższych operatorów, może być
 
 Może mieć też zastosowanie nieco inne, po splocie może się przydać gdy kolejny raz już przyjdzie się "powiesić" na wskutek walki ze środowiskami ;)....
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Switch][previous]**

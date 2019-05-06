@@ -24,7 +24,7 @@ tags:
   - Delay
 short: Dzisiaj na tapetę coś prostego. Bazując na operatorze Interval. Złapiemy ogon niczym w filmach szpiegowskich. A nawet wiele...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 Dzisiaj na tapetę coś prostego. Bazując na operatorze Interval. Złapiemy ogon niczym w filmach szpiegowskich. A nawet wiele...
@@ -86,7 +86,7 @@ Pomalutku dostrzegam pewien problem, otóż przy nadmiernym korzystaniu z tych w
 Zapraszam do przeanalizowania projektu **Delay**{:.color_2}, na [GitHub].
 
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Buffer][previous]**

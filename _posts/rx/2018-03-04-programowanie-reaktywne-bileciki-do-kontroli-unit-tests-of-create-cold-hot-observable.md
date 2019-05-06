@@ -29,7 +29,7 @@ tags:
   - Create Cold Observable
 short: W ostatnim poście wyzwania poruszę ponownie tematykę związaną z testowanie. Dzisiaj wejdziemy jeszcze głębiej i przetestujemy dokładniej co się dzieje w trakcie odbierania danych od dystrybutora. Zapraszam do absorbowania treści.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - CreateHotObservable][post]][post-big]{:.post-left-image}
@@ -257,7 +257,7 @@ Ja dzięki cało miesięcznej pracy z **Rx-ami** nauczyłem się bardzo wiele, n
 
 Jestem obecnie skłonny choć w małym stopniu poczuć się jak **[Gutek]** w jego rocznym celu pisania postów co dzień. **Wielki szacunek, za zrealizowanie tego celu!**{:.color_2}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Bileciki do kontroli - Unit Tests of Observer Interval][previous]**

@@ -29,7 +29,7 @@ tags:
   - SkipUntil
 short: Po wczorajszym sowitym poście, dzisiaj trochę przystopujemy. Będzie krócej. Poruszymy tematykę marudzenia ;). Marudzić można na dwa sposoby. Albo że się coś chcę albo nie! Na początek pomarudzimy że czegoś nie chcemy, zapraszam!
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Take][post]][post-big]{:.post-left-image}
@@ -126,7 +126,7 @@ Czasem marudzenie jest przydatne. Daje większe możliwości;).
 
 PS: Dzisiaj 13 post, być może pechowy. Kto wie co będzie jutro...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Tworzymy dane - Własna klasa publikująca][previous]**

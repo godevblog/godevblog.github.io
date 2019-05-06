@@ -25,7 +25,7 @@ tags:
   - Cast
 short: Jeżeli lubisz sobie porzucać przedmiotami? Albo pobawić się w magika zamieniając chusteczki w gołębie? Ten post jest zdecydowanie dla Ciebie. Jak i w naszym społeczeństwie, tak samo na Cybertron-ie, czasem trzeba czymś cisnąć by wszyscy zrozumieli ideę...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - OfType][post]][post-big]{:.post-left-image}
@@ -113,7 +113,7 @@ Kończąc na dzisiaj, zapraszam do jutra na kolejny post.
 
 **Kod z Wami!.**{:.h-3}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Transformers - Select][previous]**

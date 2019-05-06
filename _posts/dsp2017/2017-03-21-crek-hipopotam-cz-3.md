@@ -70,7 +70,7 @@ To ostatni wpis hipopotamowy, mam nadzieję, że forma i treść oraz wartość 
 
 Proszę o komentowanie, czy jest to dobra forma, czy też nie?
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/03/crek-hipopotam-cz-3/post.png
 [post-big]: /assets/images/2017/03/crek-hipopotam-cz-3/post-big.png

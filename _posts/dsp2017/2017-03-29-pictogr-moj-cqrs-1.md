@@ -347,7 +347,7 @@ Zastanawiam się także nad wykorzystaniem **ES** w projekcie, oraz reorganizacj
 
 **Jeżeli ktoś wytrzymał do końca to dziękuję za uwagę i zapraszam do dalszego śledzenia bloga.**{:.h-1}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [PictOgr-a]: {{site.url}}/pictogr-pomysl
 

@@ -24,7 +24,7 @@ tags:
   - Combine Latest
 short: Dziwny ten kombinator, jak już zostanie odblokowany przez otrzymanie przynajmniej po jednej porcji danych od głównych źródełek. To wówczas już publikuje w raz z taktem najszybszego dystrybutora.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Combine Latest][post]][post-big]{:.post-right-image}
@@ -83,7 +83,7 @@ Dzisiaj dziękuję za poświęcony czas.
 
 **Kod z Wami!**{:.color_1}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - When-And-Then][previous]**

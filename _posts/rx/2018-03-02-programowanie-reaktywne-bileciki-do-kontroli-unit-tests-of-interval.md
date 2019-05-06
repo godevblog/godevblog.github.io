@@ -28,7 +28,7 @@ tags:
   - Test-Driven Development
 short: 'Wszystko super i fajnie ale gdzie są testy? Co zrobić by przetestować taki strumień zasilany przez Observable.Interval? Przecież testy będą trwały wieczność... Jest na to rada: przeczytaj post do końca;). Ale na początek warto było by wyposażyć się...'
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Unit Test][post]][post-big]{:.post-left-image}
@@ -135,7 +135,7 @@ Potem **Shouldly**{:.color_1} sprawdzi czy wszystko jest prawidłowo. Jak nie to
 ## Zakończenie
 Testowanie to bardzo ważny aspekt wytarzania oprogramowania.  Dlatego zapewne do napisania mam jeszcze wiele postów o podobnej tematyce. Także w kontekście **Rx-ów**{:.color_1}. Jednak na dzisiaj koniec tego dobrego piąteczek, niedługo koniec wyzwania. A ja już czuję ogromną satysfakcję, a co dopiero w Niedzielę:)
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Transformers - Metadata][previous]**

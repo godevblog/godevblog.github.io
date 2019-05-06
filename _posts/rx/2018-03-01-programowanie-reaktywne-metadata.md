@@ -25,7 +25,7 @@ tags:
   - Dematerialize
 short: Dzisiejszym bohaterem zostaje ostatnia para Transformers-ów. Są oni ze sobą ściśle powiązani. Można śmiało powiedzieć, żę występują między nimi relacje rodzinne. Rodzic i dziecko. Zapraszam do dalszego czytania w celu zgłębienia tajemnic rodzinnych;).
 ---
-{% include_relative preface.md %}
+{% include prosts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Materialize][post]][post-big]{:.post-right-image}
@@ -123,7 +123,7 @@ W innym kontekście nie widzę zastosowania: **Materialize**{:.color_1}, **Demat
 
 Dziękuję za czytactwo i zapraszam do śledzenia moich blogowych poczynań...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Transformers - OfType and Cast][previous]**

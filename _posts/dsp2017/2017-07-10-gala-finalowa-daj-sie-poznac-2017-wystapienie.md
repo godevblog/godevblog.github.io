@@ -27,7 +27,7 @@ W trakcie gali odbyło się **15** debiutanckich prelekcji, jedne wypadły gorze
 
 **Tak wiem króciutko, jednak powyższe wideło-treści dostarczają znacznie więcej aniżeli jestem wstanie obecnie przekazać. Zapraszam do oglądania!**
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [Daj Się Poznać 2017]: http://dajsiepoznac.pl
 [Microsoftu]: http://microsoft.com.pl

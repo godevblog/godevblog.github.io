@@ -90,7 +90,7 @@ Jednak mam nadzieję, że interesujący.
 
 **Dziękuję za wytrwałość i zachęcam do komentowania.**
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [mono]: http://www.mono-project.com/docs/about-mono/supported-platforms/linux/
 

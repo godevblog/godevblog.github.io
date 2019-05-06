@@ -29,7 +29,7 @@ tags:
   - TakeUntil
 short: Krakałem, krakałem o pechu i wykrakałem. Miało być tak szybko z drugim marudą, a tu się pojawiły problemy jakich wcześniej nie przewidziałem. Otóż drugi maruda działa na innej zasadzie. Marudzi ale przy braniu. I tutaj pojawił się problem. Bierzemy pierwsze kilka publikacji na strumień.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Skip][image1]][image1-big]{:.post-left-image}
@@ -118,7 +118,7 @@ private static void AddTakeUntilSubscribent()
 Dzisiejszy zestaw operatorów, dość podobny do tych z poprzedniego posta. Jedne ignorują drugie biorą. Lustrzane odbicia.
 Trochę napsuły mi dzisiaj krwi. Walczyłem, walczyłem, a potem zmieniłem taktykę i pokonałem problem. Warto czasem zrobić krok do tyłu by zobaczyć problem z innej perspektywy i rozwiązać go podążając inną drogą. :). Done.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Marudzimy - Skip][previous]**

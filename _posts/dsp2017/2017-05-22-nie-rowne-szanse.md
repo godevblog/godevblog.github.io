@@ -35,7 +35,7 @@ Najgorzej wpaść do kotła z poczuciem winy popełnionych błędów, zmarnowane
 
 **Człowiek jest jak grot strzały, wystrzelony powinien zawsze mknąć do przodu.**{:.h-2}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/nie-rowne-szanse/post.jpg
 [post-big]: /assets/images/2017/05/nie-rowne-szanse/post-big.jpg

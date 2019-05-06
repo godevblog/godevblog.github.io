@@ -38,7 +38,7 @@ Można sobie nie zdawać sprawy z tego gdzie tak naprawdę jest wykorzystywa na
     
 {% include_relative gamification-books.md %}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/04/grywalizacja/post.png
 [post-big]: /assets/images/2017/04/grywalizacja/post-big.png

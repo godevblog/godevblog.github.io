@@ -24,7 +24,7 @@ tags:
   - Repeat
 short: Dzisiaj ponownie poruszymy temat kombinowania na strumieniach. Tym razem posłużymy się operatorem Repeat. Jak sama nazwa wskazuję będziemy się powtarzać :). Operatory są dość proste co nie znaczy, że nie są potężnym narzędziem w całej rodzinie Rx-ów. 
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Repeat][image1]][image1-big]{:.post-right-image}
@@ -84,7 +84,7 @@ Kończąc na dzisiaj wnioskiem powtarzajmy do skutku aż zapamiętamy co chcieli
 
 Dziękuję i zapraszam do dalszego czytania:).
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Concat][previous]**

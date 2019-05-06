@@ -180,7 +180,7 @@ Czy to dobra czy nie dobra implementacja problemu, to już zostanę rozliczony p
     
 **Dziękuję za wytrwałość i zachęcam do komentowania.**
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/pictogr-widok-konfiguracji-model-domeny/post.jpg
 [post-big]: /assets/images/2017/05/pictogr-widok-konfiguracji-model-domeny/post-big.jpg

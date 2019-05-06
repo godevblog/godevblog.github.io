@@ -277,7 +277,7 @@ Dlatego też postanowiłem zrobić to w ten sposób, być może ktoś dzięki te
 
 ## **Dziękuję za wytrwałość i zachęcam do komentowania.**
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/04/pictogr-cebulka-pierwsze-ddd/post.png
 [post-big]: /assets/images/2017/04/pictogr-cebulka-pierwsze-ddd/post-big.png

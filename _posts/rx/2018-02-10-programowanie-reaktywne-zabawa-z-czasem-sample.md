@@ -24,7 +24,7 @@ tags:
   - Sample
 short: Zapewne każdy naukowiec lubi się bawić próbkami. Jako programista także jestem naukowce. Testuję, próbuje. Eksperymentuje cały czas z nowymi IT-wynalazkami. Takie życie, takie hobby...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 Zapewne każdy naukowiec lubi się bawić próbkami. Jako programista także jestem naukowce. Testuję, próbuje. Eksperymentuje cały czas z nowymi **IT-wynalazkami**. Takie życie, takie hobby...
@@ -87,7 +87,7 @@ Wyniki działania zamieszczonych fragmentów kodu, najlepiej sprawdzić odpalaj�
 
 Strzelił mi dzisiaj do głowy niecny plan. By nagrać serie video na **[YT]** o podobnej tematyce. Ale czy to dojdzie do skutku. Być może to temat kolejnego wyzwania...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Delay][previous]**

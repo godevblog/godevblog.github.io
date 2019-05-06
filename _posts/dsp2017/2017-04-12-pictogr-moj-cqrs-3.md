@@ -362,7 +362,7 @@ W kolejnym poście połączymy **ES** z **CQRS**, oraz dodamy zapowiadane na ten
 
 **Dziękuję za wytrwałość i zachęcam do komentowania.**{:h-1}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [event]: /assets/images/2017/04/pictogr-moj-cqrs-3/event.png
 [event-big]: /assets/images/2017/04/pictogr-moj-cqrs-3/event-big.png

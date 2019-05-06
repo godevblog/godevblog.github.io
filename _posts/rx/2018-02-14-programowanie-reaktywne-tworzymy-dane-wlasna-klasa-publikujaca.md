@@ -28,7 +28,7 @@ tags:
   - Własna klasa publikująca
 short: Z okazji Walentynek dzisiaj pojawi się głównie w kodzie coś ekstra. Zapraszam do kompilacji i obserwacji. Natomiast post poświęcony będzie budowaniu własnej klasy publikującej dane. W tym celu idąc krok dalej stworzyłem bibliotekę RXlib z jakiej będziemy jeszcze korzystać. 
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Custom observable class][post]][post-big]{:.post-right-image}
@@ -224,7 +224,7 @@ static void Main(string[] args)
 
 **Szczęśliwego dnia Walentego. Dziękuję i zapraszam na [GitHub].**{:.h-2}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Tworzymy dane - Generators][previous]**

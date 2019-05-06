@@ -103,7 +103,7 @@ Dziękuję za uwagę i proszę o nie rzucanie kamieniami.:D za jęzor i formę w
 
 C. D. N.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [crek-hipopotam]: {{site.url}}/crek-hipopotam
 
