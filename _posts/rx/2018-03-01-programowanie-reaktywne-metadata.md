@@ -25,7 +25,7 @@ tags:
   - Dematerialize
 short: Dzisiejszym bohaterem zostaje ostatnia para Transformers-ów. Są oni ze sobą ściśle powiązani. Można śmiało powiedzieć, żę występują między nimi relacje rodzinne. Rodzic i dziecko. Zapraszam do dalszego czytania w celu zgłębienia tajemnic rodzinnych;).
 ---
-{% include prosts/rx/preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Materialize][post]][post-big]{:.post-right-image}
