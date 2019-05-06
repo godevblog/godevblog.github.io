@@ -11,7 +11,7 @@ Wszelkie źródła związane z postami znajdują się na repozytorium **[GitHub]
 
 {% include subscribe_form_bottom_post.html %}
 
-{% include_relative refs.md %}
+{% include posts/rx/refs.md %}
  
 [GitHub-ie]: https://github.com/godevblog/30DayChallenge.git 
 [GitHub-a]: https://github.com/godevblog/30DayChallenge.git
