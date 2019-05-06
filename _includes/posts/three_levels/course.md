@@ -1,4 +1,5 @@
 ----
+<!---
 <div class="affiliation" markdown="1">
 Chcesz się dowiedzieć jak:
 * Ustalić własne cele?
@@ -12,3 +13,4 @@ Chcesz się dowiedzieć jak:
 Jestem absolwentem kursu, i mam dla Ciebie **20%** kod rabatowy: **AFF0320**{:.color_1}.
 Coś dla Ciebie i dla Mnie z afiliacji.
 </div>
+-->
