@@ -49,7 +49,7 @@ Przyznane nagrody:
 ## Mówca
 ### I: Wystąpiłem przed 200 osobami. 
 * Przeprowadziłem z Mikołajem warsztaty Event Storming na 4Developers w Warszawie 8 kwietnia 2019
-* Wystąpiłem na [GeekWeekWro] - Wrocławska Grupa .NET 27 kwietnia 2019
+* Wystąpiłem na [GeekWeekWro] - 27 kwietnia 2019
   
 ## Lingwista
 ### I: Znam język angielski na poziomie komunikatywnym.
@@ -70,7 +70,7 @@ Przyznane nagrody:
 
 ## Podcaster
 ### I: Nagrywam 10 podcastów. 
-* Przełożę podvast o Programistoku na drugi sezon, co odblokuje moje nagrywanie :).
+* Przełożę podcast o Programistoku na drugi sezon, co odblokuje moje nagrywanie :).
 
 ## Softwator
 ### I: Posiadam 1 tyś subskrybentów oprogramowania. 
