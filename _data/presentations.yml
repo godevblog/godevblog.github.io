@@ -133,12 +133,6 @@
       title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
       link: https://4developers.org.pl
 
-  workshops:
-    - where: devWarsztaty Wrocław PGS
-      date: 2018-02-24
-      access_date: 2018-02-24
-      title: GIT - TDD - DOJO.
-      link: http://devwarsztaty.pl/warsztaty/2018-02-24-wro/
 - year: 2017
   presentations:
     - where: dotNetConfPL

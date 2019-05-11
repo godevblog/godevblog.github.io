@@ -27,6 +27,8 @@ groups:
         url: /o-mnie      
       - page: Wystąpienia
         url: /prelekcje
+      - page: Warsztaty
+        url: /warsztaty
       - page: Polityka Prywatności
         url: /private-policy
       - page: Kontakt
