@@ -3,8 +3,14 @@ groups:
     url: /
   - title: Thenv
     url: /thenv
-  - title: Podcast
-    url: /after-conf
+  - title: Podcasty
+    urls:
+      - page: Podcasty
+        url: /podcasty
+      - page: After.conf
+        url: /after-conf
+      - page: DDDFreak
+        url: /ddd-freak
   - title: Vlog
     url: /vlog
   - title: Biblioteczka

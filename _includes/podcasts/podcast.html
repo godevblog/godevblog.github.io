@@ -1,0 +1,22 @@
+<div id="content-wrapper">
+    <div class="inner clearfix">
+      <section id="main-content">
+          <h1>{{ page.title }}</h1>
+          
+          {% assign podcasts = site.posts | where:"categories", page.podcast %}
+          {% for post in podcasts %}
+              {% assign mod = forloop.index | modulo: 2 %}
+              {% if mod == 0 %}            
+                {% include main-right-side.html %}
+              {% else %}
+                {% include main-left-side.html %}
+              {% endif %}
+            
+          {% endfor %}
+        
+          
+        {% include subscribe_form_minimal.html %}
+      </section>
+      {% include sidebar.html %}
+    </div>
+  </div>
