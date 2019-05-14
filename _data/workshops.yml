@@ -1,5 +1,10 @@
 - year: 2019
   workshops:
+    - where: devWarsztaty Wrocław PGS
+      date: 2019-07-06
+      access_date: 2019-05-06
+      title: EventStorming.
+      
     - where: 4Developers Warszawa
       date: 2019-04-08
       access_date: 2019-04-08
