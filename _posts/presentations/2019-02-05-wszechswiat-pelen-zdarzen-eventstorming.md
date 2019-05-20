@@ -30,7 +30,7 @@ Jeżeli interesujesz się tym tematem. To zapraszam na moją listę **[EventStor
 [EventStorming]: {{site.url}}/eventstorming
 [EventStormingu]: {{site.url}}/eventstorming
 
-[slides]: /assets/slides/swiat-pelen-zdarzen-eventstorming.pdf
+[slides]: /assets/slides/wszechswiat-pelen-zdarzen-eventstorming.pdf
 
 [post]: /assets/images/presentations/wszechswiat-pelen-zdarzen-eventstorming/post.jpg
 [post-big]: /assets/images/presentations/wszechswiat-pelen-zdarzen-eventstorming/post-big.jpg
