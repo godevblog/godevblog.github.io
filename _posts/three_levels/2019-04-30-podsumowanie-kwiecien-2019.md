@@ -204,7 +204,7 @@ Ponownie mam dużo wyjazdów, to zabiera czas. Podobnie będzie w maju.
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie marzec 2019][previous]**
 
-<!--Następny: **[Trzy poziomy - podsumowanie maj 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie maj 2019][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-marzec-2019

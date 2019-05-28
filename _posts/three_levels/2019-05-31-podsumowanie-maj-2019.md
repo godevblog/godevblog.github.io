@@ -217,8 +217,8 @@ Poprzedni: **[Trzy poziomy - podsumowanie kwiecień 2019][previous]**
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-kwiecien-2019
 [next]: {{site.url}}/trzy-poziomy-podsumowanie-lipiec-2019
 
-[post]: /assets/images/2019/04/trzy-poziomy/post.jpg
-[post-big]: /assets/images/2019/04/trzy-poziomy/post-big.jpg
+[post]: /assets/images/2019/05/trzy-poziomy/post.jpg
+[post-big]: /assets/images/2019/05/trzy-poziomy/post-big.jpg
 
 [After.conf]: {{site.url}}/after-conf
 [DDDFreak]: {{site.url}}/ddd-freak
