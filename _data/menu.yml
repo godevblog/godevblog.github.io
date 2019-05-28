@@ -33,6 +33,8 @@ groups:
         url: /o-mnie      
       - page: Wystąpienia
         url: /prelekcje
+      - page: Szkolenia
+        url: /szkolenia
       - page: Warsztaty
         url: /warsztaty
       - page: Polityka Prywatności

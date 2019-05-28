@@ -1,0 +1,19 @@
+<div id="content-wrapper">
+    <div class="inner clearfix">
+        <section id="main-content">
+            <h1>{{ page.title }}</h1>
+           
+            {% for training in site.data.training.training %}
+            <h2 class="h2 collapsible active">
+                <span style="float:left">⬇️</span>
+                {{ training.title }}
+                <span style="float:right">⬇️</span>
+            </h2>
+            <div class="content" style>
+                <span>Czas szkolenia: <b>{{ training.time }}</b></span>
+                {{ training.desc }}
+            </div>
+            {% endfor %}
+        </section>
+    </div>
+</div>
