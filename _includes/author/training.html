@@ -2,8 +2,7 @@
     <div class="inner clearfix">
         <section id="main-content">
             <h1>{{ page.title }}</h1>
-            <h2><a href="mailto:krzysztof@mrdev.pl">Kontakt w sprawie szkoleń: krzysztof@mrdev.pl</a></h2>
-           
+            
             {% for training in site.data.training.training %}
             <h2 class="h2 collapsible active">
                 <span style="float:left">⬇️</span>
@@ -13,8 +12,12 @@
             <div class="content" style>
                 <span>Czas szkolenia: <b>{{ training.time }}</b></span>
                 {{ training.desc }}
+
+                <a href="mailto:krzysztof@mrdev.pl?subject={{training.title}}">Kontakt w sprawie szkolenia</a>
             </div>
             {% endfor %}
+
+            <h2><a href="mailto:krzysztof@mrdev.pl">Kontakt w sprawie szkoleń: krzysztof@mrdev.pl</a></h2>
         </section>
     </div>
 </div>
