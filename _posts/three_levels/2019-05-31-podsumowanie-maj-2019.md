@@ -123,7 +123,9 @@ Czytane:
 ### I: Stworzyłem szkolenia online. 
 * Praca nad LM do kursu [SzkolaEventStormingu.pl]
 * Pomyślałem nad stworzeniem oferty szkoleń stacjonarnych.
-  
+* Spontaniczne uruchomienie strony z informacją o szkoleniach: 
+  **[Szkolenia]**
+
 ## Podróżnik
 ### I: 2x w roku wyjeżdżam w polskie góry lub nad polskie morze. 
 * Gdańsk,
@@ -225,7 +227,7 @@ Poprzedni: **[Trzy poziomy - podsumowanie kwiecień 2019][previous]**
 [Kursu Trzy Poziomy]: https://trzypoziomy.pl/
 [Thenv]: https://www.facebook.com/Thenv-2231385610416915/
 [Fabryki kursów]: https://trzypoziomy.pl/fabryka
-
+[Szkolenia]: {{site.url}}/szkolenia
 [MrDeVlog]: {{site.url}}/vlog
 
 [SzkolaEventStormingu.pl]: https://SzkolaEventStormingu.pl
