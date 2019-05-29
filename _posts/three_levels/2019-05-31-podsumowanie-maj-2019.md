@@ -70,7 +70,7 @@ Przyznane nagrody:
 ### I: Mam 5 różnych źródeł dochodu. 
 * [SzkolaEventStormingu.pl]
 * [thenv.pl]
-* Myślę nad uruchomieniem szkoleń stacjonarnych z Event Stormingu i Testowania Jednostkowego.
+* Uruchomiłem stronę z ofertą szkoleń stacjonarnych **[szkolenia]**.
 
 ## Podcaster
 ### I: Nagrywam 10 podcastów. 
@@ -124,7 +124,7 @@ Czytane:
 * Praca nad LM do kursu [SzkolaEventStormingu.pl]
 * Pomyślałem nad stworzeniem oferty szkoleń stacjonarnych.
 * Spontaniczne uruchomienie strony z informacją o szkoleniach: 
-  **[Szkolenia]**
+  **[szkolenia]**
 
 ## Podróżnik
 ### I: 2x w roku wyjeżdżam w polskie góry lub nad polskie morze. 
@@ -227,7 +227,7 @@ Poprzedni: **[Trzy poziomy - podsumowanie kwiecień 2019][previous]**
 [Kursu Trzy Poziomy]: https://trzypoziomy.pl/
 [Thenv]: https://www.facebook.com/Thenv-2231385610416915/
 [Fabryki kursów]: https://trzypoziomy.pl/fabryka
-[Szkolenia]: {{site.url}}/szkolenia
+[szkolenia]: {{site.url}}/szkolenia
 [MrDeVlog]: {{site.url}}/vlog
 
 [SzkolaEventStormingu.pl]: https://SzkolaEventStormingu.pl
