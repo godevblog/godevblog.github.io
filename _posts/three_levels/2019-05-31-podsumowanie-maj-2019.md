@@ -223,7 +223,7 @@ Poprzedni: **[Trzy poziomy - podsumowanie kwiecień 2019][previous]**
 [post-big]: /assets/images/2019/05/trzy-poziomy/post-big.jpg
 
 [After.conf]: {{site.url}}/after-conf
-[DDDFreak]: {{site.url}}/ddd-freak
+[DDDFreak]: {{site.url}}/dddfreak
 [Kursu Trzy Poziomy]: https://trzypoziomy.pl/
 [Thenv]: https://www.facebook.com/Thenv-2231385610416915/
 [Fabryki kursów]: https://trzypoziomy.pl/fabryka

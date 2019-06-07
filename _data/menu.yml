@@ -10,7 +10,7 @@ groups:
       - page: After.conf
         url: /after-conf
       - page: DDDFreak
-        url: /ddd-freak
+        url: /dddfreak
   - title: Vlog
     url: /vlog
   - title: Biblioteczka
