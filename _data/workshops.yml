@@ -1,10 +1,23 @@
 - year: 2019
   workshops:
+    - where: BB  Days 4IT
+      date: 2019-09-14
+      access_date: 2019-07-01
+      title: EventStorming...
+      link: https://www.bbdays4.it
+
     - where: devWarsztaty Wrocław PGS
       date: 2019-07-06
       access_date: 2019-05-06
-      title: EventStorming.
-      
+      title: Event Storming - Śmiało dąż tam, gdzie nie dotarł jeszcze żaden człowiek.
+      link: http://devwarsztaty.pl/warsztaty/2019-07-06/
+
+    - where: Koderek
+      date: 2019-06-01
+      access_date: 2019-06-01
+      title: Planowanie z wykorzystaniem karteczek samoprzylepnych.
+      link: https://koderek.edu.pl/program20190601.html#/agenda
+
     - where: 4Developers Warszawa
       date: 2019-04-08
       access_date: 2019-04-08
