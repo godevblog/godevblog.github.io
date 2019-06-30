@@ -37,7 +37,6 @@ Przyznane nagrody:
 ## VLoger
 ### II: Nagrywałem VLoga przez 365 dni.
 * Do wykonania zadania muszę przygarnąć inny sprzęt. Tym samym zadanie na tą chwilę jest zawieszone.
-****
 
 ## Bloger
 ### II: Pisałem posty przez 365 dni.
@@ -213,11 +212,10 @@ Ponownie mam odczucie, że cele powinny zostać zmienione.
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie kwiecień 2019][previous]**
-<!--Następny: **[Trzy poziomy - podsumowanie lipiec 2019][next]**-->
-
+Następny: **[Trzy poziomy - podsumowanie czerwiec 2019][next]**
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-kwiecien-2019
-[next]: {{site.url}}/trzy-poziomy-podsumowanie-lipiec-2019
+[next]: {{site.url}}/trzy-poziomy-podsumowanie-czerwiec-2019
 
 [post]: /assets/images/2019/05/trzy-poziomy/post.jpg
 [post-big]: /assets/images/2019/05/trzy-poziomy/post-big.jpg

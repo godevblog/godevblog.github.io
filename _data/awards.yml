@@ -3,8 +3,9 @@ level1:
     url: https://www.x-kom.pl/p/450833-mikrofon-novox-nc-1-game-usb.html
   - name: 4x Porter Bałtycki
     url: https://www.wiki.piwo.org/Baltic_Porter
-  - name: Film w kinie IMAX
+  - name: "IMAX - Godzilla II: Król potworów"
     url: https://www.cinema-city.pl/imax
+    grant: true
   - name: Filtr szary regulowany
   - name: Szachy
   - name: Koncert Arch Enemy - Wrocław 3 czerwiec 2019

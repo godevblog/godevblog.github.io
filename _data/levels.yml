@@ -359,8 +359,8 @@ level-groups:
           - name: Ford Galaxy MK3.
             level: I
             prize: nagrody-poziom-1
-            done: false
-            deadline: 2019
+            done: true
+            deadline: 2019-06-25
 
           - name: Posiadam Toyote Fortuner.
             level: II
