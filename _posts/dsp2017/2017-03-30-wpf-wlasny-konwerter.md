@@ -89,7 +89,7 @@ Parametry użycia:
     
 **Tak przygotowany konwerter można wielokrotnie wykorzystywać w aplikacjach.**{:.color_1}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: assets/images/2017/03/wpf-wlasny-konwerter/post.jpg
 [post-big]: assets/images/2017/03/wpf-wlasny-konwerter/post-big.jpg

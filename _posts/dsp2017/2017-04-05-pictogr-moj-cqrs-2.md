@@ -299,7 +299,7 @@ Rozważam, możliwość wyodrębnienie a projektu **[PictOgr]**, implementacji *
 
 **Dziękuję za wytrwałość i zachęcam do komentowania.**{:.h-1}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [PictOgr]: {{site.url}}/pictogr-pomysl
 

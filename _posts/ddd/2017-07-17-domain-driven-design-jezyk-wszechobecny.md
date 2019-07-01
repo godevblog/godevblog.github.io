@@ -21,7 +21,7 @@ tags:
 
 short: Odwiecznym problemem jaki napotykają na swojej drodze dwie ścierające się siły. Zlecający vs wykonawca. Wzajemna komunikacji vs zrozumienie. Problem narasta gdy obie persony obracają się w odseparowanych środowiskach.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![Domain-Driven Design][post]][post-big]{:.post-left-image}
@@ -54,7 +54,7 @@ Projektując i budując aplikację często napotykamy na problemy związane z  
     
 **Nadmieniam, tutaj iż głoszę swój osobisty punkt widzenia i sposób prezentacji wiedzy. A jako że nie jestem nieomylny, to mogą i zapewne będą zdarzać się błędy...**
     
-{% include_relative books.md %}
+{% include posts/ddd/books.md %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - Wstęp.][previous]**

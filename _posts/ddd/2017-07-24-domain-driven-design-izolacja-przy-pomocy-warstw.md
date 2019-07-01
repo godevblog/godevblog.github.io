@@ -18,7 +18,7 @@ tags:
 
 short: Poprawne modelowanie dziedziny skutkuje bezwzględnym wymaganiem dotyczą jej izolacji od reszty systemu. Z pomocą przychodzi architektura warstwowa wyodrębniająca z aplikacji spójne ze sobą pod względem działania obszary. Zebrane w ten sposób funkcjonalności są składowymi warstw.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![loose-coupling][post]][post-big]{:.post-left-image}
@@ -49,7 +49,7 @@ Oczywiście nie są to wszystkie możliwe sposoby na wyizolowanie **Modelu Dzied
 **Nadmieniam, tutaj iż głoszę swój osobisty punkt widzenia i sposób prezentacji wiedzy. A jako że nie jestem nieomylny, to mogą i zapewne będą zdarzać się błędy...**
 
 
-{% include_relative books.md %}
+{% include posts/ddd/books.md %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - Izolacja przy pomocy warstw.][previous]**

@@ -197,7 +197,7 @@ Mechanizm **RelayCommand** w większości przypadków niweluje potrzebę tworzen
 
 **Dziękuję za wytrwałość i zachęcam do komentowania**.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/pictogr-delegowanie-wykonania-akcji-modelu-widoku/post.jpg
 [post-big]: /assets/images/2017/05/pictogr-delegowanie-wykonania-akcji-modelu-widoku/post-big.jpg

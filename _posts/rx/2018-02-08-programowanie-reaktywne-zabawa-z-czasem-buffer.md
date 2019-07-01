@@ -24,7 +24,7 @@ tags:
   - Buffer
 short: Dużo tych operatorów na klasie Observable powiązanych z czasem można znaleźć w bibliotece Rx-ów. Dzisiaj zajmiemy się dość ciekawym tworem, dzięki któremu możemy operować strumieniami niczym światłami drogowymi...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Buffer][post]][post-big]{:.post-left-image}
@@ -98,7 +98,7 @@ Zawartość **newCars** będzie zawierała wygenerowaną sekwencję danych(samoc
 Taki kulawy przykład myślę, że przynajmniej po części pozwoli na zrozumienie **Observable.Buffer**{:.color_1}. Oczywiście metoda zawiera wiele braci i sióstr. Jednak zapoznałem Was tylko z jedną. Proponuję poeksperymentować tak jak Ja to zrobiłem w tym przykładzie.
 Zapraszam na **[GitHub-a]**!
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Interval][previous]**

@@ -25,7 +25,7 @@ tags:
   - Dependency Injection
 short: Ludzie lubią ułatwiać sobie życie. Programiści to też podobno ludzie ;) dlatego pewnie postępują podobnie. Czasem z lenistwa, innym razem z własnych nieprzymuszonych chęci. Branża IT nieustannie się rozwija. Powstają takie wspaniałości jak wstrzykiwanie zależności;) Warto było by i w rodzinie Rx-owatych dostawać to co się chce i kiedy się chce.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - AutoFac][post]][post-big]{:.post-right-image}
@@ -121,7 +121,7 @@ Ale o tym myślę przy następnej okazji.
 
 **Kod z Wami!**{:.h-3}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Bileciki do kontroli - Unit Tests of Create Cold/Hot Observable][previous]**

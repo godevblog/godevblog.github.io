@@ -1,11 +1,11 @@
 ---
 title: Garbage Collector - Wysypisko śmieci.
-date: 2017-05-14T22:58:28+00:00
+date: 2017-05-14
 author: Krzysztof Owsiany
 layout: post
 published: true
 comments: true
-permalink: /wysypisko-smieci
+permalink: wysypisko-smieci
 image: /assets/images/2017/05/wysypisko-smieci/post.jpg
 categories:
   - Daj Się Poznać 2017
@@ -18,7 +18,7 @@ tags:
   - 'Mark&Sweep'
 short: Nasz wspaniały język C#, znosi z nas prawie pełną odpowiedzialność za sprzątanie po sobie. Można by rzec, iż mamy zatrudnioną sprzątaczkę i nawet nie wiemy, kiedy magicznie bałagan znika. Oczywiści mowa tutaj o Garbage Collector...
 ---
-{% include_relative preface.md %}
+{% include posts/gc/preface.md %}
 
 [![Garbage Collector][post]][post-big]{:.post-left-image}
  
@@ -65,17 +65,15 @@ Generacja zerowa jest miejscem gdzie obiekty są najczęściej tworzone i niszcz
 
 **C.D.N.**
 
-{% include_relative end.md %}
+{% include posts/gc/end.md %}
 
-{% include_relative refs.md %}
+{% include posts/gc/refs.md %}
 
-{% include_relative dsp.md %}
+{% include posts/gc/dsp.md %}
 
 [post]:  /assets/images/2017/05/wysypisko-smieci/post.jpg
 [post-big]:  /assets/images/2017/05/wysypisko-smieci/post.jpg
-
 [image1]: /assets/images/2017/05/wysypisko-smieci/image1.jpg
 [image1-big]: /assets/images/2017/05/wysypisko-smieci/image1-big.jpg
-
 [image2]: /assets/images/2017/05/wysypisko-smieci/image2.jpg
 [image2-big]: assets/images/2017/05/wysypisko-smieci/image2-big.jpg

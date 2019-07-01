@@ -23,7 +23,7 @@ tags:
   - Rx
 short: Od dawien dawna, tworzenie oprogramowania zwłaszcza związanego z graficznymi interfejsami użytkownika (na potrzeby uproszczenia będę odnosił się właśnie do problemów z GUI). Boryka się z problemem, zacinania...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Wyścig do sekcji krytycznej!][post]][post-big]{:.post-left-image}
@@ -67,7 +67,7 @@ Trochę teorii się przyda. W kolejnych postach będę przekazywał bardziej pra
 
 Zapraszam do śledzenia, komentowania.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Następny: **[Programowanie Reaktywne - Zabawa z czasem - Timer.][next]**

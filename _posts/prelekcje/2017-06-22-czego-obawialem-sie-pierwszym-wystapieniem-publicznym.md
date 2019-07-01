@@ -18,7 +18,7 @@ tags:
   - Wstąpienie
 ---
 
-      <span style="font-size: 20px;"><a href="http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-45.jpg"><img class=" wp-image-1469 alignright" src="http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-45-300x200.jpg" alt="Prezentacja o Grywalizacji" width="231" height="154" srcset="http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-45-300x200.jpg 300w, http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-45-768x512.jpg 768w, http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-45.jpg 900w" sizes="(max-width: 231px) 100vw, 231px" 
+      <span style="font-size: 20px;"><a href="http://mrdev.pl/assets/images/2017/06/blogging-photo-45.jpg"><img class=" wp-image-1469 alignright" src="http://mrdev.pl/assets/images/2017/06/blogging-photo-45-300x200.jpg" alt="Prezentacja o Grywalizacji" width="231" height="154" srcset="http://mrdev.pl/assets/images/2017/06/blogging-photo-45-300x200.jpg 300w, http://mrdev.pl/assets/images/2017/06/blogging-photo-45-768x512.jpg 768w, http://mrdev.pl/assets/images/2017/06/blogging-photo-45.jpg 900w" sizes="(max-width: 231px) 100vw, 231px" 
       
 Za mną pierwsze i mam nadzieję nie ostatnie wystąpienie publiczne w ramach Gali Finałowej 
 
@@ -41,7 +41,7 @@ Oglądając wystąpienia innych, dochodząc do wniosku jak dobrze się prezentuj
 ## Rzeczywistość
 Prawda jest taka, że większość osób miała zapewne przeżywała podobne obawy, nikt też nie był tam po to by wyśmiewać biednych młodych przestraszonych developerów stawiających pierwsze kroki w prezentacji dla szerokiego (wyszukanego grona) odbiorców swoją wiedzę wzbogaconą o wnioski - przemyślenia. Dodatkowo miejsce prelekcji było bardzo specyficzne, siedziba MS.
  
-      <img class="size-medium wp-image-1471 alignleft" src="http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-9779-300x200.jpg" alt="Pierwsza prezentacja." width="300" height="200" srcset="http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-9779-300x200.jpg 300w, http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-9779-768x512.jpg 768w, http://godev.gemustudio.com/assets/images/2017/06/blogging-photo-9779.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />
+      <img class="size-medium wp-image-1471 alignleft" src="http://mrdev.pl/assets/images/2017/06/blogging-photo-9779-300x200.jpg" alt="Pierwsza prezentacja." width="300" height="200" srcset="http://mrdev.pl/assets/images/2017/06/blogging-photo-9779-300x200.jpg 300w, http://mrdev.pl/assets/images/2017/06/blogging-photo-9779-768x512.jpg 768w, http://mrdev.pl/assets/images/2017/06/blogging-photo-9779.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />
     
 ## Wnioski
 Wystąpienie myślę, wypadło dobrze jednak z subiektywnymi ocenami zaczekam do obejrzenia nagranego wideo. Na to jednak przyjdzie poczekać. Strach ma wielkie oczy, jednak w tej sytuacji jednak kiełkowała się myśl w głowie, iż gdy pójdzie źle to przecież nic wielkiego się nie stanie, nie jestem profesjonalnym prelegentem pomyłki to normalne. Wykreowany przez strach stres, myślę że był motywujący, przecież zależało mi na tym by dobrze wypaść.

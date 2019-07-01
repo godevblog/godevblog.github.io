@@ -24,7 +24,7 @@ tags:
   - Timer
 short: Wielokrotnie w swoim życiu stosowałem dwojakiego rodzaju wyzwalacze w celu cyklicznego wykonywania pewny czynności. Mowa tutaj o wykorzystaniu Timera lub Thread. Pierwszy z nich polega na utworzeniu klasy, która będzie cyklicznie co określony czas wyzwalała event.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Timer][post]][post-big]{:.post-right-image}
@@ -110,7 +110,7 @@ Zapraszam na **[GitHub]** do przejrzenia mojej "twórczości".
 **Jako dowód: także w tym procederze, nie jest rzadkością pytanie.**{:.h-4}
 **Co autor miał na myśli - twórczości interpretowanie.**{:.h-4}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Wstęp.][previous]**

@@ -17,6 +17,13 @@
     padding: 10px;
 }
 
+.center-image {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    width: 100%;
+}
+
 .book-image {
     width: 70px;
     height: 100px;
@@ -28,4 +35,18 @@
     float: left;
     padding: 5px;
     margin: 0 auto;
+}
+
+
+.post-right-small-image {
+    float: right;
+    padding: 10px;
+    width: 25%;
+}
+
+
+.post-left-small-image {
+    float: left;
+    padding: 10px;
+    width: 25%;
 }

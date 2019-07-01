@@ -46,7 +46,7 @@ Tak po tym działa, jeszcze przywracanie konfiguracji.
 
 **Ewidentnie pora pozbyć się tego potwora, i w końcu popływać z wielorybem.**{:.h-2}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/06/vps-noc-grozy/post.jpg
 [post-big]: /assets/images/2017/06/vps-noc-grozy/post-big.jpg

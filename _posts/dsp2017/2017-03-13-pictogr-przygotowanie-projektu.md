@@ -92,7 +92,7 @@ Jest to kod rozwojowy i jak się rozwinie to wówczas będzie czas na post.
 
 Ale to w kolejnym skrobaniu tekstu na &#8222;Daj Się Poznać 2017&#8221;.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [github-pictogr]: https://github.com/krzysztofowsiany/pictogr
 [pictogr-idea]: {{site.url}}/pictogr-pomysl

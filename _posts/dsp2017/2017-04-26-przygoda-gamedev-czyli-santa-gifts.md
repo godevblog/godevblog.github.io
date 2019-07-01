@@ -51,7 +51,7 @@ Chcemy go nadal rozwijać po mimo informacji od osób ściślej powiązanych z b
 
 **Dziękuję za wytrwałość i zachęcam do komentowania.**
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [Goolge Play]: https://play.google.com/store/apps/details?id=com.gemu.santas_gifts.android
 [kolegą]: {{site.blaze}}

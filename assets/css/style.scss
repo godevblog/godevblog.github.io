@@ -12,7 +12,7 @@ footer{
     text-align: center
 }
 
-#main-content h1,#main-content h2,#main-content h3,#main-content h5, #main-content h6 {
+#main-content h1,#main-content h2,#main-content h3,#main-content h4, #main-content h5, #main-content h6 {
     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
@@ -115,13 +115,27 @@ div.blog_rss {
     color: white;
 }
 
+.inner {
+   // width: 1280px;
+}
+
+aside#sidebar {
+    max-width: 350px !important;
+}
+
+#main-content {
+    max-width: 900px !important;
+}
+
+#content-wrapper { max-width: 1300px !important; margin: 0 auto; }
+
 .centered {
     width: 100%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 40pt;
+    font-size: 7vmin;
     font-weight: 300;
     background-color: rgba(0, 0, 0, 0.35);
     color: white;
@@ -133,8 +147,12 @@ div.blog_rss {
 @import 'pagination';
 @import 'images';
 @import 'highlights';
+@import 'eventstorming';
+
 @import 'tdd';
 @import 'syntax';
 @import 'goals';
 
 @import 'books';
+@import 'affiliation';
+@import 'collaps';

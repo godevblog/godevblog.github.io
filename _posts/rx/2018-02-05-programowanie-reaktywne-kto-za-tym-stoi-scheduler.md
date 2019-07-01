@@ -24,7 +24,7 @@ tags:
   - Scheduler
 short: A jak funkcjonują ten cały mechanizm obserwowanego i obserwatora? Przecież muszą być obrabiane w pocie czoła przez nasze wspaniałe CPU. Magia dzieje się poza naszym polem widzenia. Biblioteka Rx udostępnia mechanizm harmonogramu.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Scheduler][post]][post-big]{:.post-left-image}
@@ -92,7 +92,7 @@ Przeważnie nie ma potrzeby manipulowaniem automatycznego przydzielania Schedule
 
 To na tyle w tym pościku, zapraszam do kolejnych.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Timer.][previous]**

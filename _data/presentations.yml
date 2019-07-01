@@ -1,0 +1,185 @@
+- year: 2019
+  presentations:
+    - where: Rzeszowska Grupa Dev
+      date: 2019
+      access_date: 2019
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://www.meetup.com/pl-PL/rg-dev/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: 4Developers Kraków
+      date: 2019-10-01
+      access_date: 2019-06-01
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://4developers.org.pl/krakow/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+    
+    
+    - where: DevCrowd
+      date: 2019-06-15
+      access_date: 2019-05-20
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: http://devcrowd.pl
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: Śląska Grupa Microsoft
+      date: 2019-05-21
+      access_date: 2019-05-10
+      title: Wiele odsłon CQRS-a.
+      link: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meetup.com%2F%25C5%259Al%25C4%2585ska-Grupa-Microsoft-Meetup%2Fevents%2F261419166%2F%3Ffbclid%3DIwAR0bPB2S-eFj2Mw16x44VRcW2fZHQd-u4KmjLYGwzNs1_MxtfEATDnrBhC4&h=AT13HawWO8RCNIixxLhTbDEyyWNbb0GyRr1pkSbUZsULJSzAMM_vCgDbHtNfR0CiUv3PlkzAykEz9_kwDJr3K5YglYbi1XI3hkCYeGLuoVXDzAohmssMH3hgq-LjVqO9Nz-PKA
+      page: wiele-odslon-cqrs-a-v2
+
+    - where: OLMUG - Olsztyn Microsoft User Group
+      date: 2019-05-16
+      access_date: 2019-05-10
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://www.meetup.com/ol-mug/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: Białostocka Grupa .NET
+      date: 2019-05-15
+      access_date: 2019-05-10
+      title: IL — między piekłem a niebem.
+      page: il-miedzy-pieklem-a-niebem
+      link: https://www.facebook.com/groups/bstoknet/
+
+    - where: Konferencja GeekWeekWro#5
+      date: 2019-04-27
+      access_date: 2019-04-25
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: http://geekweekwro.pl/#conference
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: Krakowska Grupa Deweloperów .NET
+      date: 2019-04-10
+      access_date: 2019-04-04
+      title: Wiele odsłon CQRS-a.
+      link: https://www.meetup.com/KGD-NET/?chapter_analytics_code=UA-112393717-1
+      page: wiele-odslon-cqrs-a-v2
+
+    - where: Wrocławska Grupa .NET
+      date: 2019-03-28
+      access_date: 2019-03-24
+      title: IL — między piekłem a niebem.
+      link: https://www.meetup.com/wrocnet/
+      page: il-miedzy-pieklem-a-niebem
+      video: https://youtu.be/7cXH1xaUfmc
+
+    - where: C_tech Katowice
+      date: 2019-02-28
+      access_date: 2019-02-10
+      title: Wszechświat pełen zdarzeń - Even Storming.
+      link: https://www.meetup.com/C_tech-Katowice/events/258897835/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: C_tech Wrocław
+      date: 2019-02-07
+      access_date: 2019-02-04
+      title: Świat pełen zdarzeń - Event Storming.
+      link: https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/
+      page: swiat-pelen-zdarzen-eventstorming
+
+- year: 2018
+  presentations:
+    - where: Rzeszowska Grupa Dev
+      date: 2018-12-13
+      access_date: 2018-12-11
+      title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
+      link: https://www.meetup.com/pl-PL/rg-dev/
+      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami
+
+    - where: DevStyle Speakers 02 - Warszawa
+      date: 2018-11-25
+      access_date: 2018-11-25
+      title: Rok po/na scenie.
+      link: https://devstyle.pl/speakers
+      page: devstyle-speakers-rok-po-na-scenie
+
+    - where: 4Developers Wrocław
+      date: 2018-11-20
+      access_date: 2018-11-19
+      title: Wiele odsłon CQRS-a.
+      link: https://wroclaw.4developers.org.pl/
+      page: wiele-odslon-cqrs-a
+      video: https://www.youtube.com/watch?v=3X43CHhr4r0
+
+    - where: dotNetConfPL
+      date: 2018-11-17
+      access_date: 2018-11-16
+      title: IL — między piekłem a niebem.
+      link: dotNetConf.pl
+      page: il-miedzy-pieklem-a-niebem
+      video: https://www.youtube.com/watch?v=7yn17s8cOIE&feature=youtu.be
+
+    - where: CareerCon Poznań
+      date: 2018-10-27
+      access_date: 2018-10-26
+      title: Kluczowe umiejętności skutecznego programisty.
+      link: https://careercon.pl/konferencja/kariera-it-poznan-27-10-2018/
+      page: kluczowe-umiejetnosci-skutecznego-programisty
+
+    - where: CareerCon Wrocław
+      date: 2018-10-06
+      access_date: 2018-10-05
+      title: Kluczowe umiejętności skutecznego programisty.
+      link: https://careercon.pl/konferencja/kariera-it-wroclaw-06-10-2018/
+      page: kluczowe-umiejetnosci-skutecznego-programisty
+
+    - where: 4Developers Gdańsk
+      date: 2018-09-25
+      access_date: 2018-09-24
+      title: IL - między piekłem a niebem.
+      link: https://gdansk.4developers.org.pl
+
+    - where: Warszawska Grupa .NET
+      date: 2018-05-17
+      access_date: 2018-05-16
+      title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
+      link: https://www.facebook.com/wgdotnet/
+      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami            
+      
+    - where: Białostocka Grupa .NET
+      date: 2018-05-16
+      access_date: 2018-05-15
+      title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
+      link: https://www.facebook.com/groups/bstoknet/
+      
+    - where: Wrocławska Grupa .NET
+      date: 2018-04-17
+      access_date: 2018-04-16
+      title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
+      link: https://www.meetup.com/pl-PL/wrocnet   
+
+    - where: 4Developers Warszawa
+      date: 2018-04-09
+      access_date: 2018-04-09
+      title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
+      link: https://4developers.org.pl
+
+- year: 2017
+  presentations:
+    - where: dotNetConfPL
+      date: 2017-12-16
+      access_date: 2017-12-14
+      title: Grywalizacja + projektowanie na wybranym przykładzie.
+      link: dotNetConf.pl
+      video: https://youtu.be/94JwR8Bnnuo
+
+    - where: Before Programistok
+      date: 2017-10-06
+      access_date: 2017-10-05
+      title: TDD.
+      link: http://programistok.org/
+      video: https://www.youtube.com/watch?v=fIwqqddJjm4&feature=youtu.be
+
+    - where: DevStyle Speakers 01 - Warszawa
+      date: 2017-09-24
+      access_date: 2017-09-14
+      title: GITDDOJO.
+
+    - where: Gala Finałowa DSP 2017 Warszawa
+      date: 2017-06-17
+      access_date: 2017-06-15
+      title: Budowanie zaangażowania użytkowników przy wykorzystaniu Grywalizacji.
+      link: http://dajsiepoznac.pl
+      video: https://www.youtube.com/watch?v=fIwqqddJjm4&feature=youtu.be      

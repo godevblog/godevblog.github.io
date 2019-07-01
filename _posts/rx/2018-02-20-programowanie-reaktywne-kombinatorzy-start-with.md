@@ -24,7 +24,7 @@ tags:
   - StartWith
 short: Dzisiaj kolejny operatorek pozwalający na kombinowanie ze strumieniami. Tym razem taki co to potrafi się wepchnąć do kolejki i być na początku. Jak to i w życiu bywa co nie jest odpowiednim zachowanie. Jednak w przypadku programowania z wykorzystaniem Rx-ów jak najbardziej.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Start With][image1]][image1-big]{:.post-left-image}
@@ -89,7 +89,7 @@ Jak zawsze zapraszam na **[GitHub]******.
 Do zaczytaczyska :).
 
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Repeat][previous]**

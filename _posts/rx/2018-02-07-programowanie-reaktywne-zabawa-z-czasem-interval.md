@@ -24,7 +24,7 @@ tags:
   - Interval
 short: Po uporządkowaniu pewnych kolejnych spraw. Pora na kolejny obiekt, jaki możemy obserwować. Wchodzący w skład timerów. Tym razem chodzi o uproszczoną wersje Observable.Timer... 
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Scheduler][post]][post-big]{:.post-right-image}
@@ -79,7 +79,7 @@ Nowa metoda nie wnosi nic nowego, jedynie upraszcza kod w stosunku do **Observab
 
 Jednak im mniej kodu, tym lepiej:)...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Nie zapominaj - Subscribe][previous]**

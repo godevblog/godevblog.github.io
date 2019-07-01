@@ -31,7 +31,7 @@ Zradzają się pomysły by nagrać co nieco na **[jutuby]** i być może wystąp
 [![Grywalizacja.][image1]][image1-big]{:.post-right-image}
 A prezentacja o **[Grywalizacji][grywalizacja-agenda]** pomalutku się tworzy. Ciekawe jak finalistom spodoba się **moja** interpretacja zagadnienia. Na pewno będzie to żywioł i improwizacja. Agenda nieco się wyklarowała&#8230;
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [św. Mikołaja]: {{site.blaze}}
 

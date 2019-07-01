@@ -37,7 +37,7 @@ Każdy fragment kodu nie spełniający dyrektywy **SA1200**, będzie powodował 
     
 **Być może jest to chamskie:D, jednak uważam, iż jest to dobry sposób by wymusić na programiście dyscyplinę dbania o styl kodu.**{:.h-1}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [StyleCop]: https://stylecop.codeplex.com/
 

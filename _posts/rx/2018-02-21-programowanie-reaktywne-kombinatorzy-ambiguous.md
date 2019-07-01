@@ -24,7 +24,7 @@ tags:
   - Ambiguous
 short: Krótko, bardzo krótko dzisiaj. A wszystko przez nadchodzące devwarsztaty.pl. Będę debiutował. Stres, strach przed oczami... Bla bla bla pora trochę napisać o Rx tak mało ostatnio poruszałem ten temat na tym blogu;) Dzisiaj kolejny operator związany z kombinowaniem. Zapraszam!
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Ambiguous][post]][post-big]{:.post-right-image}
@@ -82,7 +82,7 @@ Bardzo banalna metoda, jednak pozwala unikać duplikacji. :)
 To był fast-post. :) Niekiedy takie muszą być. Czasem mam myśli, że już się wyprztykałem i nic więcej nie na piszę. A chce dostarczyć wartość i to może być w takiej sytuacji trudne. Nie mniej jednak liczę skrycie, że ktoś kiedyś wyciągnie coś z tych moich publikacji.
 Dzięki i zapraszam na kolejne...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Start With][previous]**

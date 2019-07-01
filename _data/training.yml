@@ -1,0 +1,65 @@
+training:
+  - title: Testowanie jednostkowe w .NET
+    time: 1 dzień
+    desc: 
+      <h3>Teoria</h3>
+      <ul>
+        <li>Co to jest test jednostkowy.</li>
+        <li>FIRST - cechy dobrego testu jednostkowego.</li>
+        <li>Nazewnictwo testów.</li>
+        <li>Asercje.</li>
+        <li>Dobór danych do testowania</li>
+        <li>AAA - Arrange Act Assert.</li>
+        <li>Mocki.</li>
+        <li>Używanie Test-Driven Development.</li>
+      </ul>
+
+      <h3>Praktyka</h3>
+      <ul>
+        <li>Pierwszy test i budowa szkieletu.</li>
+        <li>Przygotowanie snippetów.</li>
+        <li>Pisanie testów z wykorzystaniem xUnit.</li>
+        <li>Wykorzystanie FluentAssertion/Shouldly w asercjach.</li>
+        <li>Używanie mocków.</li>
+        <li>Zasilanie testu danymi.</li>
+        <li>Automatyzacja testów.</li>
+        <li>Jak używać GITa do pisania testów</li>
+        <li>Continuos Integration.</li>
+        <li>Wykorzystanie języka domenowego w asercjach.</li>
+        <li>Ćwiczenia w pisaniu testów</li>
+      </ul>
+
+      <h3>Zadania do pracy samodzielnej</h3>
+
+  - title: Event Storming dla każdego.
+    time: 1 dzień
+    desc: 
+      <h3>BigPicture - modelowanie strategiczne</h3>
+      <ul>
+        <li>Przeprowadzenie przez 7 etapów BigPicture na podstawie przykładowej domeny.</li>
+        <li>Objaśnienie każdego z etapów.</li>
+        <li>Wprowadzenie building bloków (wzorce).</li>
+        <li>Legenda i jej znaczenie.</li>
+        <li>Prowadzenie grupy - Falicytacja.</li>
+        <li>Dobre praktyki.</li>
+        <li>Cel sesji.</li>
+      </ul>
+
+      <h3>Design Level - modelowanie taktyczne</h3>
+      <ul>
+        <li>Nurkowanie głębiej w domenę.</li>
+        <li>Rozszerzenie bulding blocków o agregatów, polityk i komend.</li>
+        <li>The picture that explains everything by @ziobrando.</li>
+        <li>Praca w grupach.</li>
+      </ul>
+
+  - title: Od pomysłu do realizacji
+    time: 3 dni
+    desc: 
+      <h3>W przygotowaniu!</h3>
+      <h4>Event Storming</h4>
+      <h4>Onion Architecture</h4>
+      <h4>Ports & Adapters</h4>
+      <h4>CQRS</h4>
+      <h4>DDD</h4>
+      <h4>Testowanie - TDD</h4>

@@ -3,7 +3,7 @@ books:
     image: /assets/images/books/domdri.jpg
     url: http://ebookpoint.pl/view/90752/domdri.htm
     category: Domain-Driven Design
-    readed: 30
+    readed: 100
     recommendation: true
    
   - title: DDD dla architektów oprogramowania. Vaughn Vernon.
@@ -16,7 +16,7 @@ books:
   - title: GRYWALIZACJA. Jak zastosować mechanizmy gier w działaniach marketingowych. Paweł Tkaczyk.
     image: /assets/images/books/grywal.jpg
     url: http://ebookpoint.pl/view/90752/grywal.htm
-    category: Grywalizacja
+    category: Marketing
     readed: 100
     recommendation: true
 
@@ -59,7 +59,7 @@ books:
     image: /assets/images/books/droppp.jpg
     url: http://ebookpoint.pl/view/90752/droppp.htm
     category: Efektywność
-    readed: 40
+    readed: 100
     recommendation: false
 
   - title: Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża. Neil Fiore.
@@ -142,8 +142,8 @@ books:
   - title: Biegiem przez życie. Jerzy Skarżyński.
     image: /assets/images/books/biegiem-przez-zycie.jpg
     url: http://skarzynski.pl/produkt/biegiem-przez-zycie/
-    category: Rozwój osobisty
-    readed: 40
+    category: Bieganie
+    readed: 100
     recommendation: true
 
   - title: Myśl!... i bogać się. Napoleon Hill.
@@ -171,8 +171,8 @@ books:
     image: /assets/images/books/e_0hal.jpg
     url: http://ebookpoint.pl/view/90752/e_0hal.htm
     category: Wystąpienia publiczne
-    readed: 0
-    recommendation: false
+    readed: 100
+    recommendation: true
 
   - title: Mów i zwyciężaj. Brian Tracy.
     image: /assets/images/books/e_596v.jpg
@@ -186,6 +186,61 @@ books:
     url: http://ebookpoint.pl/view/90752/mispr2.htm
     category: Wystąpienia publiczne
     readed: 100
+    recommendation: false
+
+  - title: EventStorming - An act of deliberate collective learning. Alberto Brandolini.
+    image: /assets/images/books/eventstorming.jpg
+    url: https://www.eventstorming.com/
+    category: Domain-Driven Design
+    readed: 100
     recommendation: true
 
 
+  - title: Rework. Jason Fried, David Heinemeier Hansson.
+    image: /assets/images/books/reworv.jpg
+    url: http://ebookpoint.pl/view/90752/reworv.htm
+    category: Rozwój osobisty    
+    readed: 100
+    recommendation: true
+
+  - title: Systemy reaktywne. Wzorce projektowe i ich stosowanie. Roland Kuhn Dr., Brian Hanafee, Jamie Allen.
+    image: /assets/images/books/sysrea.jpg
+    url: http://ebookpoint.pl/view/90752/sysrea.htm
+    category: Architektura  
+    readed: 10
+    recommendation: false
+
+  - title: Zaufanie, czyli waluta przyszłości. Moja droga od zera do 7 milionów z bloga. Michał Szafrański.
+    image: /assets/images/books/a_04cl.jpg
+    url: http://ebookpoint.pl/view/90752/a_04cl.htm
+    category: Rozwój osobisty  
+    readed: 100
+    recommendation: true
+
+  - title: Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki. Paweł Tkaczyk.
+    image: /assets/images/books/markaw.jpg
+    url: http://ebookpoint.pl/view/90752/markaw.htm
+    category: Marketing 
+    readed: 100
+    recommendation: true
+
+  - title: Budowanie mikrousług. Sam Newman.
+    image: /assets/images/books/budmik.jpg
+    url: http://ebookpoint.pl/view/90752/budmik.htm
+    category: Architektura 
+    readed: 0
+    recommendation: false
+
+  - title: DDD. Kompendium wiedzy. Vaughn Vernon.
+    image: /assets/images/books/dddpig.jpg
+    url: http://ebookpoint.pl/view/90752/dddpig.htm
+    category: Domain-Driven Design 
+    readed: 0
+    recommendation: false
+
+  - title: Medytacja dla zabieganych. Osho.
+    image: /assets/images/books/e_0tr9.jpg
+    url: http://ebookpoint.pl/view/90752/e_0tr9.htm
+    category: Medytacja
+    readed: 100
+    recommendation: true

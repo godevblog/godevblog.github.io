@@ -1,0 +1,38 @@
+{% include head.html %} {% include nav.html %}
+
+<div id="content-wrapper">
+    <div class="inner clearfix">
+        <section id="main-content">
+            <div>
+                <h1>
+                    <a href="/cele">Cele - Trzy Poziomy.</a>
+                </h1>
+            </div>
+
+            <div>
+                Poniższy wykaz nagród może ulec zmianie, w zależności od bieżących potrzeb. Wartość nagród odpowiada maksymalnej zadeklarowanej
+                wartości nagrody jaka jest aktualnie przyporządkowana do danego poziomu.
+            </div>
+
+            <hr/>
+
+
+            <h2>{{page.title}}</h2>
+            <h3>Maksymalna wartość nagrody: {{ page.price }}</h3>
+            <div>
+                {{page.desc}}
+            </div>
+            <hr/>
+            <div>
+                {% assign awards = site.data.awards[page.level] %} {% include _goals/awards.html %}
+            </div>
+
+            <hr/>
+
+            <div class="affiliation">
+                {% include _goals/3levels.html %}
+            </div>
+        </section>
+    </div>
+</div>
+{% include footer.html %}

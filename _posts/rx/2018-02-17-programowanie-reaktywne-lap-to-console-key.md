@@ -24,7 +24,7 @@ tags:
   - ConsoleKey
 short: Dzisiejszy post jest szczególny, gdyż to 15 post składający się na wyzwanie jakie podjąłem. Półmetek jest. Wiele pracy już zostało włożone, jeszcze więcej przede mną.  Dziękuję wszystkim czytelnikom, i mam nadzieję, że udało mi się komuś pomóc.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - ConsoleKey][image1]][image1-big]{:.post-left-image}
@@ -105,7 +105,7 @@ Tooooooo bardzoooooo krótki post. Wybrałem temat dość prosty do implementacj
 
 Często czuję tutaj potrzebę użycia kontenera (**AutoFac**). I być może pojawią się posty o takiej tematyce. Wówczas mielibyśmy już dostęp w dowolnym miejscu programu do obiektów obserwowanych. W przypadku **ObservableConsoleKey**{:.color_1} dało by to możliwość korzystania z wprowadzanych na konsolę danych w dowolnym miejscu aplikacji. Ciekawa koncepcja...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Marudzimy - Take][previous]**

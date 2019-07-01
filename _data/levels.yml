@@ -7,19 +7,19 @@ level-groups:
         levels:
           - name: Korona 1/2 maratonów.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Przebiegłem bieg Rzeźnika.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2024
 
           - name: Biegam 2 000 km w rok.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2028
 
@@ -29,19 +29,19 @@ level-groups:
         levels:
           - name: Nagrywałem VLoga przez 30 dni.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2018
+            prize: nagrody-poziom-1
+            done: true
+            deadline: 2019
 
           - name: Nagrywałem VLoga przez 365 dni.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2021
 
           - name: Nagrywałem VLoga przez 1000 dni.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2025          
 
@@ -51,19 +51,20 @@ level-groups:
         levels:
           - name: Pisałem posty przez 30 dni.   
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: Wizyta w lokalnym browarze Bielsko-Biała
             done: true
             deadline: 2018
+            grant: true
 
           - name: Pisałem posty przez 365 dni.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2019
+            deadline: 2020
 
           - name: Pisałem posty przez 1000 dni.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2030
 
@@ -73,21 +74,21 @@ level-groups:
         levels:
           - name: Medytowałem przez 30 dni.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2018
-
-          - name: Medytowałem przez 365 dni.
-            level: II
-            prize: brak
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
+          - name: Medytowałem przez 365 dni.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2020
+
           - name: Medytowałęm przez 1000 dni.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2023
+            deadline: 2025
 
       - name: Mówca
         inspire: Maciej Aniserowicz
@@ -95,19 +96,19 @@ level-groups:
         levels:
           - name: Wystąpiłem przed 200 osobami.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: Wystąpiłem przed 1000 osobami.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2021
 
           - name: Wystąpiłem przed 5000 osobami.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2024
 
@@ -115,21 +116,21 @@ level-groups:
         base: Samodzielna nauka.
         inspire: bratanek
         levels:
-          - name: Znam język angielski na poziomie komunikatywnym.
+          - name: Znam język angielski na poziomie B2.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
-          - name: Znam biegle język angielski.
+          - name: Znam język angielski na poziomie C1.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2020
 
           - name: Znam język angielski na poziomie C2.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2022
   
@@ -139,21 +140,21 @@ level-groups:
         levels:
           - name: Zarabiam 20 tyś PLN/miesiąc.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: Zarabiam 100 tyś PLN/miesiąc.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2024
+            deadline: 2021
 
           - name: Zarabiam 1mln PLN/miesiąc.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2030
+            deadline: 2026
   
       - name: Chudzielec
         base: 106 kg
@@ -161,19 +162,19 @@ level-groups:
         levels:
           - name: Ważę 95kg.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2018
-
-          - name: Ważę 85kg.
-            level: II
-            prize: brak
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
+          - name: Ważę 85kg.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2020
+
           - name: Ważę 70kg.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2021
 
@@ -183,19 +184,19 @@ level-groups:
         levels:
           - name: Mam 5 różnych źródeł dochodu.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
-            deadline: 2020
+            deadline: 2019
 
           - name: Mam 15 różnych źródeł dochodu.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2024
 
           - name: Mam 40 różnych źródeł dochodu.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2030
 
@@ -205,19 +206,19 @@ level-groups:
         levels:
           - name: Nagrywam 10 podcastów. 
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
-            deadline: 2018
+            deadline: 2019
 
           - name: Nagrywam 50 podcastów. 
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2020
 
           - name: Nagrywam 200 podcastów. 
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2029
 
@@ -227,21 +228,21 @@ level-groups:
         levels:
           - name: Posiadam 1 tyś subskrybentów oprogramowania.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: Posiadam 50 tyś subskrybentów oprogramowania.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2021
+            deadline: 2020
 
           - name: Posiadam 1 mln subskrybentów oprogramowania.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2024
+            deadline: 2022
 
       - name: Hipidriver
         inspire: Hipisi
@@ -249,19 +250,19 @@ level-groups:
         levels:
           - name: Objechałem w 14 dni z żoną Polskę.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Objechałem w 30 dni z żoną Europę Zachodnią.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Objechałem w 30 dni z żoną USA.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2026
 
@@ -271,49 +272,43 @@ level-groups:
         levels:
           - name: Sprzedałem 1000 egzemplarzy książki.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Sprzedałem 100 tyś egzemplarzy książki.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Sprzedałem 1 mln egzemplarzy książki.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2025
 
-      - name: Kopter
+      - name: DevSan
         inspire: 
-        base: Apache Commodore C64
+        base: Onion Architecture, TDD.
         levels:
-          - name: Odbyłem pierwszy lot helikopterem
+          - name: Rozumiem i stosuję DDD w swoich projektach.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
-          - name: Zrobiłem licencję pilota.
+          - name: Stosuję wzorce projektowe i architektoniczne.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2023
+            deadline: 2020
 
-          - name: Zakupiłem helikopter.
+          - name: Znam i stosuję dobre praktyki w wytwarzaniu oprogramowania.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2025
-
-          - name: Latam helikopterem do domu rodzinnego 12x w roku.
-            level: IV
-            prize: brak
-            done: false
-            deadline: '?'
+            deadline: 2021
 
       - name: Zdjęciorób
         inspire: Korsan
@@ -321,19 +316,19 @@ level-groups:
         levels:
           - name: Zrobiłem zdjęcie co dzień przez 30 dni.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
-            deadline: 2023
+            deadline: 2019
 
           - name: Zrobiłem zdjęcie co dzień przez 365 dni.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2027
+            deadline: 2022
 
           - name: Zrobiłem zdjęcie co dzień przez 2000 dni.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2035
 
@@ -342,62 +337,62 @@ level-groups:
         levels:
           - name: 12 książek na rok.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
+            prize: Koncert Arch Enemy - Wrocław 3 czerwiec 2019
+            done: true
             deadline: 2018
 
           - name: 52 książki na rok.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2020
+            deadline: 2019
 
           - name: 120 książek na rok.
             level: III
-            prize: brak
+            prize: nagrody-poziom-4
             done: false
             deadline: 2024
    
       - name: Kolekcjoner złomu
         base: Scenik 98r.
         levels:
-          - name: Nowy samochód.
+          - name: Ford Galaxy MK3.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2019
+            prize: nagrody-poziom-1
+            done: true
+            deadline: 2019-06-25
 
           - name: Posiadam Toyote Fortuner.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Ford Mustang Shelby GT 500 + Harley-Davidson Road King.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2026
 
       - name: Trener
         inspire: Maciej Aniserowicz, Piotr Gankiewicz
-        base: devarsztaty
+        base: devWarsztaty
         levels:
-          - name: 1x w miesiącu prowadzę otwarte szkolenie.
+          - name: Stworzyłem szkolenia online.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
-          - name: Stworzyłem szkolenia online.
+          - name: 1x w miesiącu prowadzę otwarte szkolenie.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2020
 
           - name: Trener Bottega IT Minds
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2021
 
@@ -407,43 +402,43 @@ level-groups:
         levels:
           - name: 2x w roku wyjeżdżam w polskie góry lub nad polskie morze.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: 4x w roku wyjeżdżam w polskie góry lub nad polskie morze.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2023
 
           - name: 2x w roku wyjeżdżam za granicę na miesiąc.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2024
 
-      - name: Podrywacz
+      - name: Połeta
         inspire: Ja
         base: Sporadyczne wypady do kawiarni
         levels:
-          - name: 1x na 6 miesięcy wychodzę z żoną na randkę. 
+          - name: Napisałem 2 tomików poezji.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2018
-
-          - name: 1x w miesiącu wychodzę z żoną na randkę. 
-            level: II
-            prize: brak
-            done: false
-            deadline: 2019
-
-          - name: 1x w tygodniu wychodzę z żoną na randkę. 
-            level: III
-            prize: brak
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
+
+          - name: Napisałem 5 tomików poezji.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2022
+
+          - name: Napisałem 10 tomików poezji. 
+            level: III
+            prize: nagrody-poziom-3
+            done: false
+            deadline: 2025
 
       - name: Robol
         inspire: Andrzej Krzywda, Michał Śliwiński
@@ -451,19 +446,20 @@ level-groups:
         levels:
           - name: Pracuję 100% zdalnie.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2020
+            prize: Kosztowanie różnych gatunków Whisky
+            done: true
+            deadline: 2018
+            grant: true
 
           - name: 100% zdalnie i tylko nad własnymi projektami.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Pracuję 20h/tydzień.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2024            
   
@@ -473,19 +469,19 @@ level-groups:
         levels:
           - name: Pomagam żonie rozkręcić biznes zarabiający 10 tyś/miesiąc.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2021
 
           - name: Pomagam bratu rozkręcić biznes zarabiający 20 tyś/miesiąc.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Pomagam żonie rozkręcić biznes zarabiający 50 tyś/miesiąc.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2024
 
@@ -495,21 +491,21 @@ level-groups:
         levels:
           - name: Przenocowałem z rodziną 1 noc w zamku.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Przygotowałem projekt, wykonawców i gotówkę do budowy zamku.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2023
 
           - name: Wybudowałem zamek i spędziłem z rodziną pierwszą noc.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2025
+            deadline: 2026
 
       - name: Społecznik
         inspire: 
@@ -517,19 +513,19 @@ level-groups:
         levels:
           - name: Uczestniczę w 1 spotkaniach ze znajomymi w miesiącu.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: Uczestniczę w 2 spotkaniach ze znajomymi w miesiącu.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2021
 
           - name: Uczestniczę w 8 spotkaniach ze znajomymi w miesiącu.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2025
   
@@ -539,19 +535,19 @@ level-groups:
         levels:
           - name: Wystąpiłem na wszystkich polskich grupach .NET.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
-          - name: Wystąpiłem na 5 konferencjach w rok z (4D, Programistok, BoilingFrogs, InfoShare, RzemiosłoIT, GreenFieldConf, BBQ4, GET.NET, Wroc#, .NET DeveloperDays)
+          - name: Wystąpiłem na 10 konferencjach w rok.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2020
 
-          - name: Wystąpiłem na 10 konferencjach w rok (4D, Programistok, BoilingFrogs, InfoShare, RzemiosłoIT, GreenFieldConf, BBQ4, GET.NET, Wroc#, .NET DeveloperDays)
+          - name: Wystąpiłem na 2 konferencjach zagranicznych w rok.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2022
   
@@ -561,19 +557,19 @@ level-groups:
         levels:
           - name: Posiadam mieszkania na wynajem w Lesznie.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Posiadam mieszkania w Warszawie, Wrocławiu, Krakowie.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Posiadam mieszkania w (SkyTower, Złota 44, Boulevard).
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2027
     
@@ -583,19 +579,19 @@ level-groups:
         levels:
           - name: Organizuję 50 osobowy meetup przy ognisku.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2020
 
           - name: Organizuję 200 osobowy meetup przy ognisku.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2022
 
           - name: Organizuję konferencję dla 1000 osób przy ognisku. 
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2026
 
@@ -605,21 +601,21 @@ level-groups:
         levels:
           - name: 1x w miesiącu uczestniczę w meetup-ach.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: 2x w miesiącu uczestniczę w meetup-ach.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
-            deadline: 2021
+            deadline: 2020
 
           - name: 4x w miesiącu uczestniczę w meetup-ach.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
-            deadline: 2023
+            deadline: 2022
 
       - name: Qń - (Kuń)
         inspire: 
@@ -627,21 +623,21 @@ level-groups:
         levels:
           - name: Sotusję dietę przez 3 miesiące w roku.
             level: I
-            prize: 2 x Porter Bałtycki
-            done: false
-            deadline: 2018
-
-          - name: Sotusję dietę przez 6 miesiące w roku.
-            level: II
-            prize: brak
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
-          - name: Sotusję dietę przez 11 miesiące w roku.
-            level: III
-            prize: brak
+          - name: Sotusję dietę przez 6 miesiące w roku.
+            level: II
+            prize: nagrody-poziom-2
             done: false
             deadline: 2020
+
+          - name: Sotusję dietę przez 11 miesiące w roku.
+            level: III
+            prize: nagrody-poziom-3
+            done: false
+            deadline: 2021
 
       - name: Niejadek
         inspire: 
@@ -649,18 +645,84 @@ level-groups:
         levels:
           - name: 3 dniowy post 2x w roku.
             level: I
-            prize: 2 x Porter Bałtycki
+            prize: nagrody-poziom-1
             done: false
             deadline: 2019
 
           - name: 5 dniowy post 3x w roku.
             level: II
-            prize: brak
+            prize: nagrody-poziom-2
             done: false
             deadline: 2021
 
           - name: 30 dniowy post 1x w roku.
             level: III
-            prize: brak
+            prize: nagrody-poziom-3
             done: false
             deadline: 2025
+
+      - name: Indyk
+        inspire: 
+        base: SOS
+        levels:
+          - name: Wydałem 4 gry.
+            level: I
+            prize: nagrody-poziom-1
+            done: false
+            deadline: 2021
+
+          - name: Wydałem 10 grier.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2024
+
+          - name: Wydałem 20 grier.
+            level: III
+            prize: nagrody-poziom-3
+            done: false
+            deadline: 2026
+            
+      - name: Modeler
+        inspire: 
+        base: Sławek Sobótka
+        levels:
+          - name: Zamodelowałem 1 aplikację z wykorzystaniem ES i DDD.
+            level: I
+            prize: nagrody-poziom-1
+            done: false
+            deadline: 2019
+
+          - name: Zamodelowałem 7 aplikacji z wykorzystaniem ES i DDD.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2021
+
+          - name: Zamodelowałem 20 aplikacji z wykorzystaniem ES i DDD.
+            level: III
+            prize: nagrody-poziom-3
+            done: false
+            deadline: 2024
+
+      - name: eTeacher
+        inspire: 
+        base: Mirek
+        levels:
+          - name: Stworzyłem 2 kursy online.
+            level: I
+            prize: nagrody-poziom-1
+            done: false
+            deadline: 2019
+
+          - name: Stworzyłem 2 kursy online.
+            level: II
+            prize: nagrody-poziom-2
+            done: false
+            deadline: 2021
+
+          - name: Stworzyłem 2 kursy online.
+            level: III
+            prize: nagrody-poziom-3
+            done: false
+            deadline: 2024

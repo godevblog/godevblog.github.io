@@ -40,7 +40,7 @@ Pora była by naprawić błędy przeszłości, już w 2011 próbowałem swoich s
 
 Jest jeden pomysł jaki ostatnio krąży mi po głowie, dotyczący vlogowania, dokładniej chodzi o kurs programowania w c#. Jednak na razie jest w fazie OneNotowania.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [jutubie]: https://www.youtube.com/playlist?list=PL4404D2D7BF05C63C
 

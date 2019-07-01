@@ -145,7 +145,7 @@ Niniejszy kod nie przedstawia żadnej logicznej implementacji, jest to tylko prz
 
 Mam nadzieję, iż ten wirtualny przykład znajdzie zadowolonego odbiorcę.
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/kontener-di-kolekcje/post.jpg
 [post-big]: /assets/images/2017/05/kontener-di-kolekcje/post-big.jpg

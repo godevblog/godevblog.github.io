@@ -24,7 +24,7 @@ tags:
   - Zip
 short: To już dwudziesty raz się spotykamy odnośnie Rx-owatych. Tydzień pomału dobiega końca. Taki i zbliżamy się do zakończenia serii postów dotyczących kombinatorów. Okazuje się, że rozpisałem się bardzo w tej podgrupie. W najgorszym wypadku nie zakończę na 30 postach :).
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Zip][post]][post-big]{:.post-right-image}
@@ -99,7 +99,7 @@ To tyle w ten piątkowy wieczór. Po przeczytaniu posta mam cichą nadzieję, ż
 
 **Kod z Wami!**{:.color_1}
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Merge][previous]**

@@ -24,7 +24,7 @@ tags:
   - Switch
 short: Swego czasu był taki film gdzie głównie bohaterowie zamieniają się między sobą swoimi zasobami. W przypadku Rx-ów do czynienia mamy z metodą pozwalając przetaczać na inną usługę w przypadku gdy pierwsza zawieszę.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Switch][post]][post-big]{:.post-right-image}
@@ -139,7 +139,7 @@ public static IDisposable PrintWithTimeInterval<T>(this IObservable<T> source, s
 
 W obecnym projekcie na chwilę obecną nie owe metody nie są wykorzystywane. Ich implementację napisałem w trakcie pracy nad dzisiejszym aktorem czyli metodą **Switch**{:.color_1}.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Kombinatorzy - Zip][previous]**

@@ -1,0 +1,47 @@
+- year: 2019
+  workshops:
+    - where: BB  Days 4IT
+      date: 2019-09-14
+      access_date: 2019-07-01
+      title: EventStorming...
+      link: https://www.bbdays4.it
+
+    - where: devWarsztaty Wrocław PGS
+      date: 2019-07-06
+      access_date: 2019-05-06
+      title: Event Storming - Śmiało dąż tam, gdzie nie dotarł jeszcze żaden człowiek.
+      link: http://devwarsztaty.pl/warsztaty/2019-07-06/
+
+    - where: Koderek
+      date: 2019-06-01
+      access_date: 2019-06-01
+      title: Planowanie z wykorzystaniem karteczek samoprzylepnych.
+      link: https://koderek.edu.pl/program20190601.html#/agenda
+
+    - where: 4Developers Warszawa
+      date: 2019-04-08
+      access_date: 2019-04-08
+      title: Event Storming - BigPicture
+      link: https://4developers.org.pl/lecture_warszawa/#id=52569
+      
+    - where: 4Developers Warszawa
+      date: 2019-04-08
+      access_date: 2019-04-08
+      title: Event Storming - Design Level
+      link: https://4developers.org.pl/lecture_warszawa/#id=52571
+
+- year: 2018
+  workshops:
+    - where: devWarsztaty Rzeszów PGS
+      date: 2018-12-15
+      access_date: 2018-12-15
+      title: GIT - TDD - DOJO.
+      link: https://www.meetup.com/devWarsztaty/events/256771560/
+
+    - where: devWarsztaty Wrocław PGS
+      date: 2018-02-24
+      access_date: 2018-02-24
+      title: GIT - TDD - DOJO.
+      link: http://devwarsztaty.pl/warsztaty/2018-02-24-wro/
+
+

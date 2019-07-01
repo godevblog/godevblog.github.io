@@ -24,7 +24,7 @@ tags:
   - Concat
 short: Dzisiejszy post, tak jak i kilka następnych będzie dotyczył kombinowania. Będziemy korzystać z wielu strumieni publikujących dane tego samego typu do łączenia ich w jedną całość. I dopiero wówczas będzie można...
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Concat][image1]][image1-big]{:.post-right-image}
@@ -74,7 +74,7 @@ observableSequence.Subscribe(Console.WriteLine);
 ## Zakończenie
 To już kolejny operator jaki przedstawiam. Jest bardzo dużo. Pozwalają na bardzo wiele manipulacji związanych ze strumieniami. Mam nadzieję, że znajdzie się dla nich zastosowanie w twoim kodowaniu. Dzięki za czytanie i zapraszam do kolejnych postów.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Łap To - ConsoleKey][previous]**

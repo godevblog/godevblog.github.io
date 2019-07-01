@@ -56,7 +56,7 @@ Mam nadzieję, iż moje pierwsze publiczne wystąpienie przebiegnie zadowalając
       
 **Do zobaczenia na mojej prelekcji.:D**{:.h-1}
 
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/06/budowanie-zaangazowania-uzytkownikow-przy-wykorzystaniu-grywalizacji/post.jpg
 [post-big]: /assets/images/2017/06/budowanie-zaangazowania-uzytkownikow-przy-wykorzystaniu-grywalizacji/post-big.jpg

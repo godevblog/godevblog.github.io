@@ -15,7 +15,7 @@ tags:
   - Domain-Driven Design
 short: Niniejszym otwieram cykl postów związanych z rozkminianiem architektury wytwarzania oprogramowania o nazwie DDD => Domain-Driven Design. Jest to temat jaki od pewnego czasu dręczy mnie, i chcę rozwinąć swoje zdolności w tym konkretnym obszarze.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![Domain-Driven Design][post]][post-big]{:.post-right-image}

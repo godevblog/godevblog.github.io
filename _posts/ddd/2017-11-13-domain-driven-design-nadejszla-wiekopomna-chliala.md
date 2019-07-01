@@ -21,7 +21,7 @@ tags:
   - Visual Studio Code
 short: Chwilami rozmyślałem na temat projektu, jaki chciałbym zmaltretować. Wyszło przy tym kilka ciekawych pomysłów. Jednak do realizacji podejmę się projektu prostego, rozwiązującego mój mały problemik.
 ---
-{% include_relative preface.md %}
+{% include posts/ddd/preface.md %}
 
 ## Wstęp
 [![Domain-Driven Design][post]][post-big]{:.post-left-image}
@@ -77,7 +77,7 @@ Jako młody adept szkolenia przeprowadzonego przez **[Macieja Aniserowicza][proc
     
 Kod wrzuci się na **[GitHub-a][mygithub]**, może ktoś wykona **Code Review**.
 
-{% include_relative books.md %}
+{% include posts/ddd/books.md %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - DDD i jego życie.][previous]**

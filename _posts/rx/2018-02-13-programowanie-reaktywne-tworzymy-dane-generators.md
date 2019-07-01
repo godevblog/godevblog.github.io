@@ -28,7 +28,7 @@ tags:
   - Factorial
 short: Dzisiaj poznamy coś nowego, jednak skorzystamy z czegoś starego. Jako inicjatory generowania danych będziemy korzystać jeszcze wielokrotnie z Timer-ów. Bardzo dobrze sprawdzają się jako taki niewolnik, który będzie robił co mu karzemy. "Daj mi tyle i tyle co tyle".
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Range][post]][post-big]{:.post-left-image}
@@ -123,7 +123,7 @@ var generator = new FactorialGenerator();
 ## Zakończenie
 Jak widać w powyższych moich wypocinach. Możemy wygenerować interesujące dane asynchronicznie oraz rozesłać je po najdalszych krańcach programu. A z krańców do centrum przy wykorzystaniu innych reaktywnych mechanizmów. Dalej przetworzyć dystrybuować do kolejnych zainteresowanych. Plotkowanie na całego...
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Timestamp/TimeInterval][previous]**

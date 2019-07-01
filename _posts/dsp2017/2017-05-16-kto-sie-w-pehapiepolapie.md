@@ -26,7 +26,7 @@ Programista młody szalony i zapewne niedoświadczony, a ja teraz już stary, mn
 
 **Nie czyń drugiemu co tobie nie miłe.**{:.h-1}
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/kto-sie-w-pehapiepolapie/php.jpg
 

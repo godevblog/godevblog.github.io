@@ -25,7 +25,7 @@ tags:
   - ToObservable
 short: Jazda z koksem... Dzisiaj poruszymy tematykę - kolejnego operatora związanego z czasem. Hurra... Znowu. To jednak już przed ostatnia część związana z czasem... Zapraszam ponownie do krainy reaktywnej magii.
 ---
-{% include_relative preface.md %}
+{% include posts/rx/preface.md %}
 
 ## Wstęp
 [![Reactive Extensions - Throttle][post]][post-big]{:.post-left-image}
@@ -109,7 +109,7 @@ Tym samym jeżeli na strumień będą publikowane dane i publikacja zostanie wst
 ## Zakończenie
 Zapraszam do zabawy z przykładem jaki zamieściłem na **[GitHub]**. Samodzielnego poeksperymentowania. Analizy. Krytykowania błędów autora ;). Przecież nie jestem Alfą i Omegą.
 
-{% include_relative end.md %}
+{% include posts/rx/end.md %}
 
 ------
 Wcześniejszy: **[Programowanie Reaktywne - Zabawa z czasem - Sample][previous]**

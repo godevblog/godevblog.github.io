@@ -89,7 +89,7 @@ Oczywiście nie jest to jedyny sposób ograniczenia jest ich nieco więcej:
 
 **Mam cichą nadzieję, iż jest to przydatna wiedza, ja na pewno nauczyłem się wiele pisząc tego posta, zachęcam do pisania zawsze jest duża szansa, iż napisałem jakąś  bujdę.**
     
-{% include_relative dsp.md %}
+{% include posts/dsp2017/dsp.md %}
 
 [post]: /assets/images/2017/05/typowanie-generykow/post.jpg
 [post-big]: /assets/images/2017/05/typowanie-generykow/post-big.jpg
