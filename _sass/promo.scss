@@ -1,0 +1,39 @@
+.sidebar-promo {
+    width: 220px;
+    display: block;  
+    margin: 0 auto; 
+    font-size: 12pt;
+    border: solid orange 4px;
+    background-color: #FFEB4699;
+    text-align: center; 
+    color: black;
+
+    img {
+        margin: 0 auto;
+    }
+
+
+    a:link {
+        color: black; 
+        background-color: transparent; 
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: none;
+      }
+}
