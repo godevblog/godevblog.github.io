@@ -86,6 +86,9 @@ Być może młode pokolenie przez takie działania będzie częściej myśleć p
 
 **[Chcesz poznać Event Storming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
 
+
+**[A może warsztacik? Kliknij.]({{site.url}}/szkolenia)**{:.h-event-color}
+
 [post]: /assets/images/2019/07/eventstorming/to-proste/post.png
 [post-big]: /assets/images/2019/07/eventstorming/to-proste/post-big.png
 
