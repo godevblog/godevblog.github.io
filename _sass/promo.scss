@@ -6,7 +6,7 @@
     border: solid orange 4px;
     background-color: #FFEB4699;
     text-align: center; 
-    color: black;
+    color: black;    
 
     img {
         margin: 0 auto;
@@ -36,4 +36,66 @@
         background-color: transparent;
         text-decoration: none;
       }
+}
+
+.post-promo {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+
+  font-size: 12pt;
+  border: solid orange 4px;
+  background-color: #FFEB4699;
+  color: black;
+  padding: 5px;
+  margin: 10px;
+
+  img {
+      height: 100px;
+      margin: auto;
+  }
+  
+  b{
+    font-size: 12pt;
+  }
+
+  div {
+    float:left;
+    height: 100px;
+    margin: 10px;
+
+    &.title {
+      text-align: left;
+     flex-grow: 8;
+    }
+
+    &.image {
+      flex-grow: 1;
+    }
+  }
+
+
+  a:link {
+      color: black; 
+      background-color: transparent; 
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: red;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: none;
+    }
 }

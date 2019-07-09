@@ -42,7 +42,7 @@ I każdy sobie tak może ustawić ile chce tych &#8222;lajołtów&#8221; i korzy
 [![GPS - bookmarks][image2]][image2-big]{:.post-left-image}
 Nie wiem jak to się stało ale hipek ma wbudowanego GPS-a. Wystarczy użyć magicznego zaklęcia **Crtl+K, Crtl+W**, a pojawi się lista wyznaczonych tras biegowych.
 
-![GPS - bookmarks][image3]{:.post-right-image}s
+![GPS - bookmarks][image3]{:.post-right-image}
 
 Aby dodać nową trasę trza ją wyznaczyć w kodziku i użyć zaklęcia **Crtl+K,Crtl+K**.
 

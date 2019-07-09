@@ -1,20 +1,20 @@
 ---
-title: EventStorming - co to takiego?
+title: Event Storming - co to takiego?
 date: 2019-02-21
 author: Krzysztof Owsiany
 layout: post
 tags:
-  - EventStorming
+  - Event Storming
 comments: true
 permalink: eventstorming-co-to-takiego
 published: true
 image: /assets/images/2019/02/eventstorming/co-to-takiego/post.png
 image_big: /assets/images/2019/02/eventstorming/co-to-takiego/post-big.png
 categories:
-  - EventStorming
+  - Event Storming
 short: Coraz szerzej, więcej słyszymy o <b class='event-color'>Event</b><b class='command-color'>Storming</b>-u. Czym tak naprawdę jest ta technika? W dzisiejszym poście postaram się odpowiedzieć na to pytanie. Chciałbym też byście otworzyli umysł i zauroczyli się tą techniką. Gdyż jest bardzo wartościowa!! Zapraszam do świata zdarzeń.
 ---
-![EventStorming - co to takiego?!][post-big]
+![Event Storming - co to takiego?!][post-big]
 Człowiek zazwyczaj boryka się wieloma problemami. Ciągły rozwój technologiczny wymusza na naszym gatunku równoległy rozwój intelektualny. Tworzymy coraz to bardziej zaawansowane urządzenia/oprogramowanie. Wymyślamy sposoby budowania jak najbardziej odzwierciedlające  istotę problemu. 
 
 Jesteśmy jenak istotami ludzkimi, popełniamy błędy. To jest element naszego życia. Nie inaczej jest w przypadku powoływania do życia ambitnych idei.
