@@ -207,8 +207,8 @@ level-groups:
           - name: Nagrywam 10 podcastów. 
             level: I
             prize: nagrody-poziom-1
-            done: false
-            deadline: 2019
+            done: true
+            deadline: 2020
 
           - name: Nagrywam 50 podcastów. 
             level: II
@@ -317,8 +317,8 @@ level-groups:
           - name: Zrobiłem zdjęcie co dzień przez 30 dni.
             level: I
             prize: nagrody-poziom-1
-            done: false
-            deadline: 2019
+            done: true
+            deadline: 2019-07-30
 
           - name: Zrobiłem zdjęcie co dzień przez 365 dni.
             level: II
@@ -358,7 +358,7 @@ level-groups:
         levels:
           - name: Ford Galaxy MK3.
             level: I
-            prize: nagrody-poziom-1
+            prize: "Spider-Man: Daleko od domu"
             done: true
             deadline: 2019-06-25
 

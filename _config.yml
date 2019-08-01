@@ -1,6 +1,15 @@
 theme: jekyll-theme-architect
+
 url: https://mrdev.pl
 blaze: http://blog.blazestudio.pl
+afterconf: https://mrdev.pl/after-conf
+dddfreak: https://mrdev.pl/dddfreak
+ThenvFB: https://www.facebook.com/Thenv-2231385610416915/
+szkolenia: https://mrdev.pl/szkolenia
+vlog: https://mrdev.pl/vlog
+szkolaeventstormingu: https://SzkolaEventStormingu.pl
+Thenv: https://thenv.pl
+
 name: MrDev
 title: MrDev - blog programisty.
 description: Blog programisty.

@@ -206,7 +206,7 @@ Lecimy do przodu!
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie maj 2019][previous]**
-<!--Następny: **[Trzy poziomy - podsumowanie lipiec 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie lipiec 2019][next]**
 
 ------
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-maj-2019

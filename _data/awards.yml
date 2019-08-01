@@ -3,8 +3,11 @@ level1:
     url: https://www.x-kom.pl/p/450833-mikrofon-novox-nc-1-game-usb.html
   - name: 4x Porter Bałtycki
     url: https://www.wiki.piwo.org/Baltic_Porter
-  - name: "IMAX - Godzilla II: Król potworów"
+  - name: "Spider-Man: Daleko od domu"
     url: https://www.cinema-city.pl/imax
+    grant: true
+  - name: Peak Design Anchor Links 
+    url: https://peakdesign.pl/p/peak-design-anchor-links-zestaw-zaczepy-kotwice/
     grant: true
   - name: Filtr szary regulowany
   - name: Szachy

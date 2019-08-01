@@ -1,5 +1,7 @@
-----
+**[Chcesz poznać Event Storming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
+
 <!---
+----
 <div class="affiliation" markdown="1">
 Chcesz się dowiedzieć jak:
 * Ustalić własne cele?
