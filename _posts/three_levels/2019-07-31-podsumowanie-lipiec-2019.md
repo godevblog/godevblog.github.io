@@ -106,31 +106,33 @@ Urlop za granicą - zwiedzanie Gran Canarii jako pasażer.
 * Zrealizowałem ten cel.
 
 ## Pożeracz tekstu
-### II: 52 książki na rok - (11/52). 
+### II: 52 książki na rok - (13/52). 
 #### Przeczytane
-* Architektura Ewolucyjna - Neal Ford, Rebecca Parsons, Patric Kua
-* Być jak płynąca rzeka - Paulo Coelho
+12. Architektura Ewolucyjna - Neal Ford, Rebecca Parsons, Patric Kua
+13. Być jak płynąca rzeka - Paulo Coelho
   
 #### Czytane
-* Sell or Be Sold - Grant Cardone
-* DDD dla architektów oprogramowania - Vaughn Vernon
-* Nucleon - Jeppe Hedaa
-* Wzorce projektowe - Gamma
-* Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice - Alexey Zimarev
-* Bazar złych snów - Stephen King.
-* Reguła 10x - Grant Cardone
+1. Sell or Be Sold - Grant Cardone
+2. DDD dla architektów oprogramowania - Vaughn Vernon
+3. Nucleon - Jeppe Hedaa
+4. Wzorce projektowe - Gamma
+5. Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice - Alexey Zimarev
+6. Bazar złych snów - Stephen King.
+7. Reguła 10x - Grant Cardone
 
 #### Studiowanie
-* Mit przedsiębiorczości - Michael E. Gerber
+1. Mit przedsiębiorczości - Michael E. Gerber
   
 Dużo rozpoczętych książek... :/
+
 #### Legenda
+
 **Studiowanie** - książka już przez mnie czytana obecnie jest dogłębniej analizowana.
-**Czytanie** - książki jakie rozpocząłem
+**Czytanie** - książki jakie rozpocząłem.
 **Przeczytane** - to proste, przeczytana w tym miesiącu.
   
 ## Kolekcjoner złomu
-### II: Posiadam Toyote Fortuner. 
+### II: Posiadam Toyote Fortuner.
 * Daleka droga.
 
 ## Trener
