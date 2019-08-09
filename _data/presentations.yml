@@ -7,6 +7,19 @@
       link: https://www.meetup.com/pl-PL/rg-dev/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
+    - where: Lublin IT
+      date: TBD
+      access_date: 2019-06-01
+      title: TBD.
+      link: https://lublinit.com
+
+    - where: 4Developers Wrocław
+      date: 2019-11-05
+      access_date: 2019-06-01
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://4developers.org.pl/krakow/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
     - where: 4Developers Kraków
       date: 2019-10-01
       access_date: 2019-06-01
@@ -14,6 +27,12 @@
       link: https://4developers.org.pl/krakow/
       page: wszechswiat-pelen-zdarzen-eventstorming
     
+    - where: Białostocka Grupa .NET
+      date: 2019-08-21
+      access_date: 2019-08-21
+      title: Wiele odsłon CQRS-a.
+      page: wiele-odslon-cqrs-a-v2
+      link: https://www.facebook.com/groups/bstoknet/
     
     - where: DevCrowd
       date: 2019-06-15
