@@ -19,7 +19,7 @@ short: Do każdego warsztatu trzeba się przygotować. Tak samo jest w przypadku
 ![Event Storming - to proste][post-big]
 
 Zakładam, że wiesz czym jest **Event**{:.event-color} **Storming**{:.command-color} i nie muszę tutaj tego wyjaśniać... Jak nie to odsyłam do mojego artykułu - [Event Storming - co to takiego?]
-Wiedzieć to jedno, ale przeprowadzić to drugie. Jeżeli jesteś tutaj. To wnioskuję, że chcesz się coś dowiedzieć na ten temat.
+Wiedzieć to jedno, ale przeprowadzić to drugie. Jeżeli jesteś tutaj, to wnioskuję, że chcesz się coś dowiedzieć na ten temat.
 Zafascynował cię ten trend i chcesz dowiedzieć się jak przeprowadzić swój pierwszy warsztat **Event**{:.event-color} **Storming**{:.command-color}?
 Czujesz ten dreszczyk emocji związany z klejeniem post-itów na tablicy. Tak się tez czułem. Napompowany i podekscytowany przed uczestnictwem w pierwszych warsztatach.
 Nie pozostaje nic innego jak przygotować się do warsztatu.
