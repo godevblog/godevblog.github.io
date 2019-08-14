@@ -13,7 +13,7 @@ Thenv: https://thenv.pl
 name: MrDev
 title: MrDev - blog programisty.
 description: Blog programisty.
-facebook: https://www.facebook.com/MrDev-280928869136591/
+facebook: https://www.facebook.com/mrdevpl
 plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
