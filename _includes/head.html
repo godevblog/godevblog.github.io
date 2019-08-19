@@ -20,9 +20,14 @@
 
   {% seo %}
   {% include js-files.html %}
+
+  {% include pixel/amp_analytics_head.html %}
+  {% include pixel/piksel.html %}
 </head>
 
 <body>
+  {% include pixel/google_tag_manager.html %}
+
   <header>
     <div style="left:20px;top:20px; position: absolute;">
       <a href="{{ '/' | absolute_url }}">
