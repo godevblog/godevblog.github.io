@@ -8,14 +8,12 @@ permalink: kontakt
 # Kontakt
 
 * [Twitter],
-* [gocom@o2.pl],
-* [krzysztof@gemustudio.com],
+* [krzysztof@mrdev.pl],
 * GemuStudio Krzysztof Owsiany
   Oporówko 10
   64-120 Krzemieniewo.
 
 
 
-[Twitter]: https://twitter.com/gemu_gocom
-[gocom@o2.pl]: mailto:gocom@o2.pl
-[krzysztof@gemustudio.com]: mailto:krzysztof@gemustudio.com
+[Twitter]: https://twitter.com/k_owsiany
+[krzysztof@mrdev.pl]: mailto:krzysztof@mrdev.pl
