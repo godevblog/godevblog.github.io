@@ -30,8 +30,9 @@ Poprowadziłem też kilkukrotnie devWarsztaty, co było bardzo pouczającym doś
 * MrDeVlog: [https://mrdev.pl/vlog].
 
 ### Social Media:
-* Twitter: https://twitter.com/k_owsiany
-* Facebook: https://www.facebook.com/mrdev.pl
+* Twitter: [https://twitter.com/k_owsiany]
+* Facebook: [https://www.facebook.com/mrdev.pl]
+* LinkedIn: [https://www.linkedin.com/in/krzysztof-owsiany-1a218876/]
   
 
 [Zdjęcia i loga]
@@ -43,7 +44,13 @@ Poprowadziłem też kilkukrotnie devWarsztaty, co było bardzo pouczającym doś
 [https://mrdev.pl/warsztaty]: https://mrdev.pl/warsztaty
 [https://mrdev.pl/szkolenia]: https://mrdev.pl/szkolenia
 [https://mrdev.pl/vlog]: https://mrdev.pl/vlog
+[https://mrdev.pl/thenv]: https://mrdev.pl/thenv
 
 [https://twitter.com/k_owsiany]: https://twitter.com/k_owsiany
 [https://www.facebook.com/mrdev.pl]: https://www.facebook.com/mrdev.pl
+[https://www.linkedin.com/in/krzysztof-owsiany-1a218876/]: https://www.linkedin.com/in/krzysztof-owsiany-1a218876/
+
+[https://thenv.pl]: https://thenv.pl
+[https://SzkolaEventStormingu.pl]: https://SzkolaEventStormingu.pl
+
 [Zdjęcia i loga]: https://drive.google.com/drive/folders/1rwWbjYRjBUcTJskM1QS8M6D8ZtsHQkpO?usp=sharing
