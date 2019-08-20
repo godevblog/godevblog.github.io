@@ -31,6 +31,8 @@ groups:
     urls:
       - page: O mnie
         url: /o-mnie      
+      - page: Bio
+        url: /bio
       - page: Wystąpienia
         url: /prelekcje
       - page: Szkolenia

@@ -16,7 +16,7 @@ categories:
   - Warsztat
 short: Do każdego warsztatu trzeba się przygotować. Tak samo jest w przypadku <b class='event-color'>Event</b><b class='command-color'>Storming'u</b>. Trzeba zgromadzić materiały, miejsce oraz wartościowych uczestników. Dzisiaj troszkę na ten temat.
 ---
-![Event Storming - to proste][post-big]
+![Event Storming - przygotowanie do warsztatu][post-big]
 
 Zakładam, że wiesz czym jest **Event**{:.event-color} **Storming**{:.command-color} i nie muszę tutaj tego wyjaśniać... Jak nie to odsyłam do mojego artykułu - [Event Storming - co to takiego?]
 Wiedzieć to jedno, ale przeprowadzić to drugie. Jeżeli jesteś tutaj, to wnioskuję, że chcesz się coś dowiedzieć na ten temat.
