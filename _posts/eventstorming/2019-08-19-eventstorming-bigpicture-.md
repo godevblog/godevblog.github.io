@@ -8,7 +8,7 @@ tags:
   - BigPicture
 comments: true
 permalink: event-storming-przygotowanie-do-warsztatu
-published: true
+published: false
 image: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/post.png
 image_big: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/post-big.png
 categories:
