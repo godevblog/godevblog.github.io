@@ -2,7 +2,6 @@
 <html lang="{{ site.lang | default: " pl-PL " }}">
 
 <head>
-  {% include analytics/google_tag_manager_head.html %}
   {% include analytics/google_analytics.html %}
 
   <meta charset='utf-8'>
@@ -24,6 +23,7 @@
   {% seo %}
   {% include js-files.html %}
 
+  {% include analytics/google_tag_manager_head.html %}
   {% include pixel/piksel.html %}
 </head>
 
