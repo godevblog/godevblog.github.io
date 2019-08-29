@@ -107,8 +107,9 @@ Skutkiem będzie wykrycie większości problemów jakie napotkali byśmy w trakc
 Ja jestem zafascynowany tym tematem, jeżeli też wzbudziłem w Tobie pożądanie lub przynajmniej chęć użycia swojego otwartego umysłu do zwiększenia świadomości na temat **Event**{:.event-color}**Storming**{:.command-color}-u. To zapraszam na moją listę, będę się dzielił na niej informacjami na temat tej nowej włoskiej techniki przygotowywania pizzy.
 
 
-**[Ruszyła Szkoła Event Stormingu. Zapraszam.](https://szkolaeventstormingu.pl)**{:.h-1}
+**Ruszyła [Szkoła Event Stormingu.] Zapraszam.**{:.h-1}
 
+[Szkoła Event Stormingu.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=co_to_takiego
 [Alberto Brandolini]: https://www.eventstorming.com/
 [EventStorming]: {{site.url}}/eventstorming
 

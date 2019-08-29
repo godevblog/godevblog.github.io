@@ -84,10 +84,12 @@ Jednak udało się. Był to też ciekawy eksperyment i doświadczenie dla mnie.
 
 Być może młode pokolenie przez takie działania będzie częściej myśleć przed działaniem a nie, jak to czasem z własnego doświadczenia mogę pokazać. Najpierw robić, a potem zastanawiać się, czy coś ma sens...
 
-**[Chcesz poznać Event Storming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
+**[Chcesz poznać Event Storming? Kliknij.]**{:.h-event-color}
 
 
 **[A może warsztacik? Kliknij.]({{site.url}}/szkolenia)**{:.h-event-color}
+
+[Chcesz poznać Event Storming? Kliknij.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=to_proste
 
 [post]: /assets/images/2019/07/eventstorming/to-proste/post.png
 [post-big]: /assets/images/2019/07/eventstorming/to-proste/post-big.png

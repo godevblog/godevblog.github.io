@@ -110,4 +110,4 @@ Warsztat **Event**{:.event-color} **Storming'u**{:.command-color} w skrócie ;).
 [ludzie-big]: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/ludzie-big.jpg
 
 [Event Storming - co to takiego?]: {{site.url}}/eventstorming-co-to-takiego
-[SzkolaEventStormingu.pl]: {{site.szkolaeventstormingu}}
+[SzkolaEventStormingu.pl]: {{site.szkolaeventstormingu}}?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=warsztat
