@@ -209,7 +209,7 @@ Jako, że już po urlopie to pora wyciągnąć wnioski i dalej do przodu popycha
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie czerwiec 2019][previous]**
-<!--Następny: **[Trzy poziomy - podsumowanie sierpień 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie sierpień 2019][next]**
 
 ------
 {% include posts/three_levels/course.md %}
