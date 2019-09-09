@@ -8,10 +8,11 @@
       page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: Lublin IT
-      date: 2019-10-16 lub 2019-10-17 :)
+      date: 2019-10-16
       access_date: 2019-10-16
-      title: TBD.
+      title: Wszechświat pełen zdarzeń - Event Storming.
       link: https://lublinit.com
+      page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: 4Developers Wrocław
       date: 2019-11-05
@@ -27,6 +28,13 @@
       link: https://4developers.org.pl/krakow/
       page: wszechswiat-pelen-zdarzen-eventstorming
     
+    - where: bITconf
+      date: 2019-09-20
+      access_date: 2019-09-01
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: http://bitconf.pl/
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
     - where: Białostocka Grupa .NET
       date: 2019-08-21
       access_date: 2019-08-19
