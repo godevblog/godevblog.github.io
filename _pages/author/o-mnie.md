@@ -32,7 +32,7 @@ Biegać każdy może trochę lepiej lub trochę gorzej. Ja biegam gorzej, nadwag
 ![Krzysztof Owsiany][mrdev_4]{:.left-image}
 **Dragon Ball**{:.h-1}
 
-Japońska kreskówa, która bardzo mocno na mnie wpłynęła. Po dzisiejszy dzień oglądam jeżeli mam okazję. Jeżeli nie znasz to zachęcam. Co jest takiego wyjątkowego w tej kresce. Można by dużo wymienić. Dla mnie to pewien przekaz, żeby się nie poddawać, walczyć do końca. Nie sutannie się rozwijać (co bardzo lubię). Być może po części przez to cały czas chcę coś robić nie potrafię nie robić nic. Można powiedzieć, że to jest złe. Ja lubię mieć sens tego co robię. Choćby to było leżenie z żoną plackiem na plaży w Ustroniu Morskim... A jak mnie już gnębi nierobienie to wówczas mogę przecież poczytać soś w blasku słońca i powiewie morskiej bryzy...
+Japońska kreskówa, która bardzo mocno na mnie wpłynęła. Po dzisiejszy dzień oglądam jeżeli mam okazję. Jeżeli nie znasz to zachęcam. Co jest takiego wyjątkowego w tej kresce. Można by dużo wymienić. Dla mnie to pewien przekaz, żeby się nie poddawać, walczyć do końca. Nieustannie się rozwijać (co bardzo lubię). Być może po części przez to cały czas chcę coś robić nie potrafię nie robić nic. Można powiedzieć, że to jest złe. Ja lubię mieć sens tego co robię. Choćby to było leżenie z żoną plackiem na plaży w Ustroniu Morskim... A jak mnie już gnębi nierobienie to wówczas mogę przecież poczytać soś w blasku słońca i powiewie morskiej bryzy...
 
 
 ![Krzysztof Owsiany][mrdev_5]{:.right-image}
