@@ -116,3 +116,51 @@
         text-decoration: none;
       }
 }
+
+
+
+
+
+.h-after-conf-itunes {
+    border: solid orange 2px;
+    background-color: #FFEB4699;
+    display: block;  
+    margin: 0 auto; 
+    font-size: 20pt;
+    text-align: center; 
+    color: black;
+    padding: 2pt;
+    font-weight: bold;
+
+    a:link {
+        color: green; 
+        background-color: transparent; 
+        text-decoration: none;
+        font-size: 24pt;
+        font-weight: 900;
+      }
+      
+      a:visited {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+        font-size: 24pt;
+        font-weight:900;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: none;
+        font-size: 24pt;
+        font-weight: 900;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: none;
+        font-size: 24pt;
+        font-weight: 900;
+      }
+}
