@@ -21,11 +21,11 @@ short: Najczęściej by przeprowadzić warsztat <b class='event-color'>Event</b>
 Wszędzie się słyszy **Event**{:.event-color} **Storming**{:.command-color}, **Event**{:.event-color} **Storming**{:.command-color}, ale jak do tego podejść? Gdzie co kleić? Co pisać?
 No cóż, nie ma lekko. Dlatego zapraszam do 5 kroków, jakie musisz wykonać, by osiągnąć cel, jaki sobie obierzesz na tapetę w trakcie sesji **Event**{:.event-color} **Storming'u**{:.command-color}.
 
-**Krok pierwszy**{:.h-event-color}
+## Krok pierwszy
 W zasadzie wypada się przygotować. I to już opisałem bardziej szczegółowo tutaj: [Event Storming — Przygotowanie do warsztatu.]
 Jak przetrawisz ten artykuł to będziesz o jedną pozycję bliżej przeprowadzenia sesji **Event**{:.event-color} **Storming'owej**{:.command-color}.
 
-**Krok drugi**{:.h-event-color}
+## Krok drugi
 Wykonujesz jak już przygotujesz wszystko do warsztatu i zgromadzisz ludzi. Zbierasz delikwentów razem i tłumaczysz pierwszy build block o nazwie **Event**. 
 Każdy z building block'ów wchodzących w skład **Event**{:.event-color} **Storming'u**{:.command-color} ma swój styl. W przypadku zdarzenia mamy do czynienie z karteczką o wymiarach 76x76 mm i kolorze dojrzałej pomarańczy. 
 
@@ -51,7 +51,7 @@ Nikomu też nie powinno zabraknąć karteczek samoprzylepnych i markera. O to za
 
 Oczywiście wszystko, co dobre się kończy. Dlatego po pewnym czasie zauważysz, że boom, jaki wcześniej miał miejsce, ustaje. Mrowisko zastyga. Pojawia się bardzo mało nowych zdarzeń. Więcej jest dyskusji i grupa odjeżdża od clou problemu, nad jakim mają się skupić. To znak, by przejść dalej.
 
-**Krok trzeci**{:.h-event-color}
+## Krok trzeci
 Przygotuj się na długą drogę i ciężką harówkę. To tutaj dzieje się największa magia strategicznego **Event**{:.event-color} **Storming'u**{:.command-color}. Ten cały bałagan, jaki powstał podczas Wild Exploration trzeba poukładać. Nie wszystko zostało odkryte, są na pewno miejsca, gdzie nie dotarł zespół podczas dyskusji i wydzierania sobie włosów z głowy.
 
 To właśnie teraz będzie trzeba wszystko ułożyć w odpowiedniej kolejności w czasie. Czasem powstanie wyrwa czasowa, ale to normalne przecież zdarzenia nie lecą jedno po drugim. I nieraz trzeba czekać na reakcję użytkownika czy innego systemu.
@@ -66,7 +66,7 @@ I to jest mozolna praca, trzeba przejść i poszeregować całe wojsko zdarzeń.
 
 Problemem perfekcjonistów jest to, że pewne sprawy/rzeczy nigdy nie są gotowe (perfekcyjne). Tak samo przejście **II Fazę BigPicture**, którą właśnie Ci przedstawiłem o nazwie **Enforce The Timeline** prawdopodobnie nie jest całkowicie ukończone...
 
-**Krok czwarty**{:.h-event-color}
+## Krok czwarty
 Czy w młodości nie chciałeś/chciałaś być policjantką. Rozwiązywać trudne sprawy kryminalne, łapać przestępców?
 Myślę, że wiele osób tak miało. To teraz możemy się pobawić trochę w detektywów. **III Faza BigPicture** o nazwie **Reverse Narrative** to nic innego jak znana właśnie z policji czy FBI technika weryfikacji przebiegu zdarzeń od tyłu. Umysł ludzki jest tak skonstruowany, że nie potrafi od tyłu poprawnie przedstawić sekwencji wydarzeń. Jeżeli nie są one prawdą. 
 
@@ -74,7 +74,7 @@ Tak samo podczas weryfikacji zdarzeń od tyłu natrafimy na pewne luki, które n
 
 To mozolna praca, ale jej skutkiem będzie już bardzo rozbudowany i sprawdzony pełny obraz procesu, czyli BigPicture.
 
-**Krok piąty**{:.h-event-color}
+## Krok piąty
 Teraz warto dodać kolejne building block'i. Mam nadzieje, że nie zapomniałeś/aś zaktualizować legendy o **HotSpot**{:.hot-spot-color} z kroku drugiego ;). 
 To teraz dodaj kolejne dwa:
 
@@ -97,7 +97,7 @@ Poniżej mam dla Ciebie jeszcze bardzo krótkie wideo przedstawiające jak taki 
 <embed width="100%" height="480" src="https://www.youtube.com/embed/WqToo1Pj76M"/>
 </div >
 
-A może chcesz wiedzieć więcej i masz ochotę dołączyć do mojej **Szkoły** **Event**{:.event-color} **Storming'u**?
+A może chcesz wiedzieć więcej i masz ochotę dołączyć do mojej **Szkoły** **Event**{:.event-color} **Storming'u**{:.command-color}?
 Poniżej link. Zapraszam.
 
 **[Chcesz poznać Event Storming? Kliknij.]**{:.h-event-color}
