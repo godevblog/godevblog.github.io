@@ -1,5 +1,11 @@
 - year: 2019
   workshops:
+    - where: devWarsztaty Wrocław PGS
+      date: 2019-12-12
+      access_date: 2019-12-14
+      title: Event Storming/Modeling - definicja problemu -> rozwiązanie.
+      link: http://devwarsztaty.pl/warsztaty/2019-07-06/
+
     - where: BB  Days 4IT
       date: 2019-09-14
       access_date: 2019-07-01

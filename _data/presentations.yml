@@ -1,11 +1,18 @@
 - year: 2019
   presentations:
     - where: Rzeszowska Grupa Dev
-      date: 2019
-      access_date: 2019
+      date: 2019-12-12
+      access_date: 2019-12-12
       title: Wszechświat pełen zdarzeń - Event Storming.
       link: https://www.meetup.com/pl-PL/rg-dev/
       page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: 4Developers Wrocław
+      date: 2019-11-05
+      access_date: 2019-06-01
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://4developers.org.pl/krakow/
+      page: wszechswiat-pelen-zdarzen-eventstorming      
 
     - where: Lublin IT
       date: 2019-10-16
@@ -14,12 +21,12 @@
       link: https://lublinit.com
       page: wszechswiat-pelen-zdarzen-eventstorming
 
-    - where: 4Developers Wrocław
-      date: 2019-11-05
-      access_date: 2019-06-01
+    - where: Trójmiejska Zawodowa GRUPA .NET (TG.NET)
+      date: 2019-10-10
+      access_date: 2019-10-10
       title: Wszechświat pełen zdarzeń - Event Storming.
-      link: https://4developers.org.pl/krakow/
-      page: wszechswiat-pelen-zdarzen-eventstorming
+      link: https://www.meetup.com/TG-NET/events/265104236/
+      page: wszechswiat-pelen-zdarzen-eventstorming      
 
     - where: 4Developers Kraków
       date: 2019-10-01
