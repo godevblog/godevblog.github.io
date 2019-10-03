@@ -223,7 +223,7 @@ Opracowuje też na bazie tego co nagrał [Ireneusz Krajewski](https://www.youtub
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie lipiec 2019][previous]**
-<!--Następny: **[Trzy poziomy - podsumowanie wrzesień 2019][next]**-->
+Następny: **[Trzy poziomy - podsumowanie wrzesień 2019][next]**
 
 ------
 {% include posts/three_levels/course.md %}
