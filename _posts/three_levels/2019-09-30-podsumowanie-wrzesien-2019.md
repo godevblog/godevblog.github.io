@@ -228,7 +228,7 @@ Poprzedni: **[Trzy poziomy - podsumowanie sierpień 2019][previous]**
 [post-big]: /assets/images/2019/09/trzy-poziomy/post-big.jpg
 
 
-[After.conf - S02E03 - Trener prelegentów Anna Prończuk-Omiote]: https://mrdev.pl/after-conf-trener-prelegentow-anna-pronczuk-omiotek?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
+[After.conf - S02E03 - Trener prelegentów Anna Prończuk-Omiotek]: https://mrdev.pl/after-conf-trener-prelegentow-anna-pronczuk-omiotek?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 [After.conf - S02E04 - Festwial Umbraco - Marcin Zajkowski]: https://mrdev.pl/after-conf-festiwal-umbraco-marcin-zajkowski?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 [After.conf - S02E05 - Wystąpienia akademickie - Willy Picard]: https://mrdev.pl/after-conf-wystapienia-akademickie-willy-picard?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 
