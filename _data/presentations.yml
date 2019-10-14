@@ -1,30 +1,32 @@
+- year: 2020
+  presentations:
+    - where: Lublin IT
+      date: 2020-01-01
+      access_date: 2020-10-16
+      title: Wszechświat pełen zdarzeń - Event Storming.
+      link: https://lublinit.com
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
 - year: 2019
   presentations:
     - where: Rzeszowska Grupa Dev
       date: 2019-12-12
       access_date: 2019-12-12
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń.
       link: https://www.meetup.com/pl-PL/rg-dev/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: 4Developers Wrocław
       date: 2019-11-05
       access_date: 2019-11-05
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń.
       link: https://4developers.org.pl/krakow/
-      page: wszechswiat-pelen-zdarzen-eventstorming      
-
-    - where: Lublin IT
-      date: 2019-10-16
-      access_date: 2019-10-16
-      title: Wszechświat pełen zdarzeń - Event Storming.
-      link: https://lublinit.com
-      page: wszechswiat-pelen-zdarzen-eventstorming
+      page: wszechswiat-pelen-zdarzen-eventstorming         
 
     - where: Trójmiejska Zawodowa GRUPA .NET (TG.NET)
       date: 2019-10-10
       access_date: 2019-10-10
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń.
       link: https://www.meetup.com/TG-NET/events/265104236/
       page: wszechswiat-pelen-zdarzen-eventstorming      
 
@@ -34,6 +36,12 @@
       title: Wszechświat pełen zdarzeń - Event Storming.
       link: https://4developers.org.pl/krakow/
       page: wszechswiat-pelen-zdarzen-eventstorming
+
+   - where: Lightning Talks - Programistok
+      date: 2019-10-28
+      access_date: 2019-10-28
+      title: Improwizowane wystąpienie o stresie z Maciejem Gajdzicą.
+      link: https://programistok.org
     
     - where: bITconf
       date: 2019-09-20
@@ -48,6 +56,12 @@
       title: Wiele odsłon CQRS-a.
       page: wiele-odslon-cqrs-a-v2
       link: https://www.facebook.com/groups/bstoknet/
+
+    - where: OpenMic - SlowBiz
+      date: 2019-08-20
+      access_date: 2019-08-21
+      title: Improwizowane wystąpienie o stresie wyjściu ze strefy komfortu.
+      link: https://slowbiz.pl
     
     - where: DevCrowd
       date: 2019-06-15
