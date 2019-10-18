@@ -21,14 +21,21 @@
       access_date: 2019-11-05
       title: Wszechświat pełen zdarzeń.
       link: https://4developers.org.pl/krakow/
-      page: wszechswiat-pelen-zdarzen-eventstorming         
+      page: wszechswiat-pelen-zdarzen-eventstorming
+
+    - where: C_tech Warszawa
+      date: 2019-10-30
+      access_date: 2019-10-28
+      title: Wszechświat pełen zdarzeń.
+      link: https://www.meetup.com/C_tech/events/265684480/
+      page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: Trójmiejska Zawodowa GRUPA .NET (TG.NET)
       date: 2019-10-10
       access_date: 2019-10-10
       title: Wszechświat pełen zdarzeń.
       link: https://www.meetup.com/TG-NET/events/265104236/
-      page: wszechswiat-pelen-zdarzen-eventstorming      
+      page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: 4Developers Kraków
       date: 2019-10-01
@@ -37,12 +44,12 @@
       link: https://4developers.org.pl/krakow/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
-   - where: Lightning Talks - Programistok
+    - where: Lightning Talks - Programistok
       date: 2019-10-28
       access_date: 2019-10-28
       title: Improwizowane wystąpienie o stresie z Maciejem Gajdzicą.
       link: https://programistok.org
-    
+
     - where: bITconf
       date: 2019-09-20
       access_date: 2019-09-01
@@ -62,7 +69,7 @@
       access_date: 2019-08-21
       title: Improwizowane wystąpienie o stresie wyjściu ze strefy komfortu.
       link: https://slowbiz.pl
-    
+
     - where: DevCrowd
       date: 2019-06-15
       access_date: 2019-05-20
@@ -184,19 +191,19 @@
       access_date: 2018-05-16
       title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
       link: https://www.facebook.com/wgdotnet/
-      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami            
-      
+      page: reactive-extensions-wzorzec-obserwatora-czyli-programowanie-sterowane-zdarzeniami
+
     - where: Białostocka Grupa .NET
       date: 2018-05-16
       access_date: 2018-05-15
       title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
       link: https://www.facebook.com/groups/bstoknet/
-      
+
     - where: Wrocławska Grupa .NET
       date: 2018-04-17
       access_date: 2018-04-16
       title: Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.
-      link: https://www.meetup.com/pl-PL/wrocnet   
+      link: https://www.meetup.com/pl-PL/wrocnet
 
     - where: 4Developers Warszawa
       date: 2018-04-09
@@ -230,4 +237,4 @@
       access_date: 2017-06-15
       title: Budowanie zaangażowania użytkowników przy wykorzystaniu Grywalizacji.
       link: http://dajsiepoznac.pl
-      video: https://www.youtube.com/watch?v=fIwqqddJjm4&feature=youtu.be      
+      video: https://www.youtube.com/watch?v=fIwqqddJjm4&feature=youtu.be
