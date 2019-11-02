@@ -1,3 +1,15 @@
+- year: 2020
+  workshops:
+    - where: segFault Warszawa
+      date: 2020-03
+      access_date: 2019-03
+      title: Event Storming/Modeling - definicja problemu -> rozwiązanie
+
+    - where: devWarsztaty Wrocław PGS
+      date: 2020-01
+      access_date: 2019-01
+      title: Event Storming/Modeling - definicja problemu -> rozwiązanie
+
 - year: 2019
   workshops:
     - where: devWarsztaty Rzeszów PGS

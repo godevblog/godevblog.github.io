@@ -1,12 +1,3 @@
-- year: 2020
-  presentations:
-    - where: Lublin IT
-      date: 2020-01-01
-      access_date: 2020-10-16
-      title: Wszechświat pełen zdarzeń - Event Storming.
-      link: https://lublinit.com
-      page: wszechswiat-pelen-zdarzen-eventstorming
-
 - year: 2019
   presentations:
     - where: Rzeszowska Grupa Dev
@@ -16,26 +7,40 @@
       link: https://www.meetup.com/pl-PL/rg-dev/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
+    - where: Lublin IT
+      date: 2019-11-27
+      access_date: 2019-11-27
+      title: Wszechświat pełen zdarzeń.
+      link: https://lublinit.com
+      page: wszechswiat-pelen-zdarzen
+
+    - where: C_tech Katowice
+      date: 2019-11-14
+      access_date: 2019-11-14
+      title: Wszechświat pełen zdarzeń.
+      link: https://www.meetup.com/C_tech/events/265684480/
+      page: wszechswiat-pelen-zdarzen
+
     - where: 4Developers Wrocław
       date: 2019-11-05
       access_date: 2019-11-05
       title: Wszechświat pełen zdarzeń.
       link: https://4developers.org.pl/krakow/
-      page: wszechswiat-pelen-zdarzen-eventstorming
+      page: wszechswiat-pelen-zdarzen
 
     - where: C_tech Warszawa
       date: 2019-10-30
       access_date: 2019-10-28
       title: Wszechświat pełen zdarzeń.
       link: https://www.meetup.com/C_tech/events/265684480/
-      page: wszechswiat-pelen-zdarzen-eventstorming
+      page: wszechswiat-pelen-zdarzen
 
     - where: Trójmiejska Zawodowa GRUPA .NET (TG.NET)
       date: 2019-10-10
       access_date: 2019-10-10
       title: Wszechświat pełen zdarzeń.
       link: https://www.meetup.com/TG-NET/events/265104236/
-      page: wszechswiat-pelen-zdarzen-eventstorming
+      page: wszechswiat-pelen-zdarzen
 
     - where: 4Developers Kraków
       date: 2019-10-01
