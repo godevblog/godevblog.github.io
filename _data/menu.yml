@@ -12,7 +12,11 @@ groups:
       - page: DDDFreak
         url: /dddfreak
   - title: Vlog
-    url: /vlog
+    urls: 
+      - page: MrDeVlog
+        url: /mrdevlog
+      - page: MrDeVlog - Moje 5 minut
+        url: /mrdevlog_5min
   - title: Biblioteczka
     url: /biblioteczka
   - title: Trzy poziomy

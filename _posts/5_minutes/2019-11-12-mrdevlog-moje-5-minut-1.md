@@ -1,0 +1,45 @@
+---
+title: MrDeVlog - Moje 5 minut - 1
+date: 2019-11-12
+author: Krzysztof Owsiany
+layout: post
+tags:
+  - Vlog
+  - 'Moje 5 minut'
+  - EventStorming
+  - BigPicture
+  - CatchTheFlow
+comments: true
+permalink: mrdevlog-moje-5-minut-1
+published: true
+image: /assets/images/vlog/mrdevlog_5min/1/post.png
+image_big: /assets/images/vlog/mrdevlog_5min/1/post-big.png
+categories:
+  - Vlog
+  - 'Moje 5 minut'
+  - EventStorming
+  - BigPicture
+  - CatchTheFlow
+short: Vlog sprzed komputera o tym, jak wykorzystać Miro do modelowania aplikacji CatchTheFlow z wykorzystaniem techniki Event Storming. Każdy vlog to głównie 5 minut poświęcone na pracę.
+---
+Tematem przewodnim tego etapu jest modelowanie aplikacji CatchTheFlow z wykorzystaniem Event Storming'u.
+
+CatchTheFlow to tak naprawdę pomysł na połączenie Pomodoro i techniki zwiększającej skupienie (dźwięk/muzyka).
+
+Poprzez pracę przez tylko 5 minut. Chcę pokazać, że nawet przez tak krótki czas można z wykorzystaniem systematyczności i ciągłości zbudować coś ciekawego.
+
+Prawdopodobnie też dojdzie podsumowanie, czyli dodatkowe nagranie po ukończeniu pewnego zakresu.
+
+### Moje 5 minut - 4
+<embed class="youtube_5min" src="https://www.youtube.com/embed/87uk6FCNlX8"/>
+
+### Moje 5 minut - 3
+<embed class="youtube_5min" src="https://www.youtube.com/embed/m32nf_L0wko"/>
+
+{% include promotions/szkolaeventstormingu-inside-post.html %}
+
+### Moje 5 minut - 2
+<embed class="youtube_5min" src="https://www.youtube.com/embed/CT8I4nQeQZQ"/>
+
+### Moje 5 minut - 1
+<embed class="youtube_5min" src="https://www.youtube.com/embed/obBvMconX8g"/>
