@@ -1,0 +1,7 @@
+<h3>Spis godzin vloga</h3>
+
+<ul>
+{% for hour in site.data.my5minutes %}
+        <ol>[{{hour.title}}]({{ site.url }}/{{hour.url}})</ol>
+{% endfor %}
+</ul>

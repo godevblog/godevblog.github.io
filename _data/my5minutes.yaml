@@ -1,0 +1,68 @@
+moje-5-minut-3h:
+  url: moje-5-minut-3h
+  title: Moje 5 minut 3 godzina
+  episodes:   
+    - title: 2h 15 minut [27]
+      youtube: K2wJRfwFtr8
+    - title: 2h 10 minut [26]
+      youtube: Q495LWDyyUM
+    - title: 2h 5 minut [25]
+      youtube: 6wKGSFIMx2M
+
+moje-5-minut-2h:
+  url: moje-5-minut-2h
+  title: Moje 5 minut 2 godzina
+  episodes:
+    - title: 2 godziny [24]
+      youtube: NN21ykY4j4I    
+    - title: 1h 55 minut [23]
+      youtube: eurANVNYCpU
+    - title: 1h 50 minut [22]
+      youtube: vFUBZ5o99ig
+    - title: 1h 45 minut [21]
+      youtube: vAiGKK7LSsI
+    - title: 1h 40 minut [20]
+      youtube: nk8uPw5MAzM
+    - title: 1h 35 minut [19]
+      youtube: KMAZNNLPNzE
+    - title: 1h 30 minut [18]
+      youtube: SWHePun0bu0      
+    - title: 1h 25 minut [17]
+      youtube: nKmGyGJOyfY
+    - title: 1h 20 minut [16]
+      youtube: rGrdYUggc-0
+    - title: 1h 15 minut [15]
+      youtube: F-HINmsHK44
+    - title: 1h 10 minut [14]
+      youtube: 2O5kABdK6h4
+    - title: 1h 5 minut [13]
+      youtube: JYMtS7NiP2Y
+
+moje-5-minut-1h:
+  url: moje-5-minut-1h
+  title: Moje 5 minut 1 godzina
+  episodes:   
+    - title: 1 godzina [12]
+      youtube: ZPqo8-vQvdM 
+    - title: 55 minut [11]
+      youtube: 0PHmO0N0zis
+    - title: 50 minut [10]
+      youtube: vExEWxmM3GY
+    - title: 45 minut [9]
+      youtube: uohBqVT_sl8
+    - title: 40 minut [8]
+      youtube: ldtNmFnSIdQ
+    - title: 35 minut [7]
+      youtube: mK_6dHP4E20
+    - title: 30 minut [6]
+      youtube: K2LK4y2Fw8E      
+    - title: 25 minut [5]
+      youtube: RYLKs4-MRvw
+    - title: 20 minut [4]
+      youtube: 87uk6FCNlX8
+    - title: 15 minut [3]
+      youtube: m32nf_L0wko
+    - title: 10 minut [2]
+      youtube: CT8I4nQeQZQ
+    - title: 5 minut [1]
+      youtube: obBvMconX8g      
