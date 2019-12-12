@@ -1,7 +1,9 @@
 moje-5-minut-3h:
   url: moje-5-minut-3h
   title: Moje 5 minut 3 godzina
-  episodes:  
+  episodes:
+    - title: 2h 55 minut [35]
+      youtube: AI7gqBzgO0U
     - title: 2h 50 minut [34]
       youtube: nHdPa1zHMWY
     - title: 2h 45 minut [33]

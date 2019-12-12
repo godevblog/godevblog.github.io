@@ -6,12 +6,14 @@
   
         {{ content }} 
         
-        {% include promotions/szkolaeventstormingu-inside-post.html %}
+        {% include posts/my5minutes/miro.html %}
         
         {% for episode in vlogs.episodes %}
             <h3>Moje 5 minut - {{ episode.title }}</h3>
             <embed class="youtube_5min" src="https://www.youtube.com/embed/{{episode.youtube}}"/>
         {% endfor %}
+
+        {% include promotions/szkolaeventstormingu-inside-post.html %}
 
         <!--{% include posts/my5minutes/preface.html %}-->
 
