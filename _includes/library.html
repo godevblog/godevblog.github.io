@@ -1,8 +1,18 @@
 <div id="content-wrapper">
     <div class="inner clearfix">
             <h1>Biblioteczka</h1>
+
+            <h2 id="Top">Kategorie</h2>
             <div>
-                {% assign books = site.data.library.books | sort: 'category' %}            
+                {% assign books = site.data.library.books | sort: 'category' %}          
+                {% assign last_category = '' %}
+                {% for book in books %}
+                    {% if last_category != book.category %}
+                        <a href="#{{ book.category }}">{{ book.category }}</a>&nbsp;|&nbsp;
+                    {% assign last_category = book.category %} 
+                    {% endif %}
+                {% endfor %}
+
                 {% assign last_category = '' %}      
                 {% for book in books %}
                     
@@ -10,10 +20,13 @@
 
                         {% if last_category != '' %}
                             </div>
+
+                            <br/><a href="#top">Kategorie ⇧⇧⇧⇧</a>
+
                             <hr class="book_hr">
                         {% endif %}
 
-                        <h2 class="book_category">{{ book.category }}</h2>    
+                        <h2 class="book_category" id="{{ book.category }}">{{ book.category }}</h2>    
 
                         <div class="book_category">
 
@@ -43,8 +56,7 @@
 
                        
                     </div>
-                    
-                {% endfor %}
+                {% endfor %}                
             </div>
             {% include disqus.html %}
     </div>

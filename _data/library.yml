@@ -244,3 +244,61 @@ books:
     category: Medytacja
     readed: 100
     recommendation: true
+
+  - title: Wybij się! Gary Vaynerchuk.
+    image: /assets/images/books/e_179i.jpg
+    url: http://ebookpoint.pl/view/90752/e_179i.htm
+    category: Rozwój osobisty
+    readed: 100
+    recommendation: true
+
+  - title: Przebij się! Gary Vaynerchuk.
+    image: /assets/images/books/e_0wz2.jpg
+    url: http://ebookpoint.pl/view/90752/e_0wz2.htm
+    category: Rozwój osobisty
+    readed: 100
+    recommendation: true
+
+  - title: Ekonomia wdzięczności. Gary Vaynerchuk.
+    image: /assets/images/books/e_0xjt.jpg
+    url: http://ebookpoint.pl/view/90752/e_0xjt.htm
+    category: Rozwój osobisty
+    readed: 0
+    recommendation: false
+
+  - title: Krótka historia czasu. Stephen Hawking.
+    image: /assets/images/books/e_239o.jpg
+    url: http://ebookpoint.pl/view/90752/e_239o.htm
+    category: Rozwój osobisty
+    readed: 100
+    recommendation: true
+
+  - title: Architektura ewolucyjna. Projektowanie oprogramowania i wsparcie zmian. Neal Ford, Rebecca Parsons, Patrick Kua.
+    image: /assets/images/books/archew.jpg
+    url: http://ebookpoint.pl/view/90752/archew.htm
+    category: Architektura
+    readed: 100
+    recommendation: true
+
+  - title: Reguła 10X. Grant Cardone.
+    image: /assets/images/books/e_0d5c.jpg
+    url: http://ebookpoint.pl/view/90752/e_0d5c.htm
+    category: Rozwój osobisty
+    readed: 100
+    recommendation: true
+
+  - title: Finansowy Ninja. Michał Szafrański.
+    image: /assets/images/books/finninja.jpg
+    url: https://finansowyninja.pl/
+    category: Finanse
+    readed: 100
+    recommendation: true
+
+  - title: Czego najbardziej żałują umierający. Bronnie Ware.
+    image: /assets/images/books/e_34an.jpg
+    url: http://ebookpoint.pl/view/90752/e_34an.htm
+    category: Rozwój osobisty
+    readed: 100
+    recommendation: true
+
+    
