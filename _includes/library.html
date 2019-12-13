@@ -42,10 +42,13 @@
                                     <div class="book_image">
                                         <img src="{{ book.image }}" width="150" alt="{{ book.title }}">
                                        
-                                        {% if book.recommendation %}
-                                            <div class="book_recommend">polecana</div>
+                                        {% if book.readed >= 100 %}
+                                            <div class="book_recommend">
+                                                {% for count in (0..4) %}
+                                                    {% if count < book.recommendation %}★{% else %}☆{% endif %}
+                                                {% endfor %} 
+                                            </div>
                                         {% endif %}
-                                        
                                     </div>  
                                     <span>{{ book.title }}</span>                            
                                 </div>
