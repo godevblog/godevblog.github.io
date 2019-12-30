@@ -216,13 +216,13 @@ Trochę czuję już znudzenie tymi wyjazdami...
 
 ------
 Poprzedni: **[Trzy poziomy - podsumowanie sierpień 2019][previous]**
-<!--Następny: **[Trzy poziomy - podsumowanie październik 2019][next]**-->
+-Następny: **[Trzy poziomy - podsumowanie grudzień 2019][next]**
 
 ------
 {% include posts/three_levels/course.md %}
 
 [previous]: {{site.url}}/trzy-poziomy-podsumowanie-sierpien-2019
-[next]: {{site.url}}/trzy-poziomy-podsumowanie-pazdziernik-2019
+[next]: {{site.url}}/trzy-poziomy-podsumowanie-grudzien-2019
 
 [post]: /assets/images/2019/09/trzy-poziomy/post.jpg
 [post-big]: /assets/images/2019/09/trzy-poziomy/post-big.jpg
