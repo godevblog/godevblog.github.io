@@ -1,7 +1,9 @@
 moje-5-minut-8h:
   url: moje-5-minut-8h
   title: Moje 5 minut 8 godzina
-  episodes:  
+  episodes:
+    - title: 7h 25 minut [89]
+      youtube: MYNW3ZUc49I
     - title: 7h 20 minut [88]
       youtube: 0AderN5MQ7g
     - title: 7h 15 minut [87]
