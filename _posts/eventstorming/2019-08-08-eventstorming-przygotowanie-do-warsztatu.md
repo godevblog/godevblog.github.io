@@ -1,10 +1,10 @@
 ---
-title: Event Storming - przygotowanie do warsztatu.
+title: EventStorming - przygotowanie do warsztatu.
 date: 2019-08-08
 author: Krzysztof Owsiany
 layout: post
 tags:
-  - Event Storming
+  - EventStorming
   - Warsztat
 comments: true
 permalink: event-storming-przygotowanie-do-warsztatu
@@ -12,13 +12,13 @@ published: true
 image: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/post.png
 image_big: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/post-big.png
 categories:
-  - Event Storming
+  - EventStorming
   - Warsztat
 short: Do każdego warsztatu trzeba się przygotować. Tak samo jest w przypadku <b class='event-color'>Event</b><b class='command-color'>Storming'u</b>. Trzeba zgromadzić materiały, miejsce oraz wartościowych uczestników. Dzisiaj troszkę na ten temat.
 ---
-![Event Storming - przygotowanie do warsztatu][post-big]
+![EventStorming - przygotowanie do warsztatu][post-big]
 
-Zakładam, że wiesz czym jest **Event**{:.event-color} **Storming**{:.command-color} i nie muszę tutaj tego wyjaśniać... Jak nie to odsyłam do mojego artykułu - [Event Storming - co to takiego?]
+Zakładam, że wiesz czym jest **Event**{:.event-color} **Storming**{:.command-color} i nie muszę tutaj tego wyjaśniać... Jak nie to odsyłam do mojego artykułu - [EventStorming - co to takiego?]
 Wiedzieć to jedno, ale przeprowadzić to drugie. Jeżeli jesteś tutaj, to wnioskuję, że chcesz się coś dowiedzieć na ten temat.
 Zafascynował cię ten trend i chcesz dowiedzieć się jak przeprowadzić swój pierwszy warsztat **Event**{:.event-color} **Storming**{:.command-color}?
 Czujesz ten dreszczyk emocji związany z klejeniem post-itów na tablicy. Tak się tez czułem. Napompowany i podekscytowany przed uczestnictwem w pierwszych warsztatach.
@@ -26,7 +26,7 @@ Nie pozostaje nic innego jak przygotować się do warsztatu.
 
 ## Materiały
 
-[![Event Storming - przygotowanie do warsztatu][bloczek]][bloczek-big]{:.post-right-image}
+[![EventStorming - przygotowanie do warsztatu][bloczek]][bloczek-big]{:.post-right-image}
 
 Na samym początku warto zaopatrzyć się w minimalny zestaw elementów niezbędnych, by rozpocząć drogę w kierunku **Event**{:.event-color} **Storming'u**{:.command-color}. Udaj się wiec np. do najbliższego sklepu papierniczego i przeżyj rozczarowanie. Nie ma wszystkich kolorów karteczek samo przylepnych.
 Tutaj masz kilka wyjść. Możesz używać tylko żółtych :D (słabe). Jeżeli masz w okolicy więcej sklepów papierniczych. To może się poszczęści. Wyszukasz w sklepach internetowych/allegro karteczek, pozamawiasz i włala. 
@@ -43,7 +43,7 @@ Niestety w tym nie bardzo pomogę. Może jesteś z tych szczęśliwców, którzy
 Zakładam, że masz gdzie rozstawić board do **Event**{:.event-color} **Storming'u**{:.command-color}. Przychodzisz i chcesz kleić platerową rolkę papieru ponad 1 metr szerokości. Powodzenia jak zrobisz to sam. Potrzebujesz kogoś do pomocy. Papier trzeba przyciąć na odpowiednią długość. Zostawić trochę miejsca na legendę.
 Jak już ta prosta część jest zrobiona (zawsze można ciąć na podłodze kartą kredytową, tak też robiłem :D jak nie zabrałem ze sobą nożyczek). To trzeba to wszystko przykleić taśmami maskującymi do ściany.
 
-[![Event Storming - przygotowanie do warsztatu][board]][board-big]{:.post-left-image}
+[![EventStorming - przygotowanie do warsztatu][board]][board-big]{:.post-left-image}
 
 Gorzej, gdy do ściany nie można kleić. Co wtedy? A jest sposób folia magnetyczna (też znajduje się na liście w e-mailu).
 To cacko jest droższe niż zwykły papier. Ale rozpinasz na ścianie bez klejenia. Można to spokojnie samemu zrobić.
@@ -60,10 +60,10 @@ Bez wody ani rusz. Jednak kawa i przerwy to element niezbędny. Dyskusje/olśnie
 To właśnie ludzie i to, co między nimi zachodzi przenosi się na wyniki **Event**{:.event-color} **Storming'u**{:.command-color}. Na warsztatach widziałem jak po pewnym czasie. Uczestnicy sobie obcy, zaangażowali się bardzo mocno w sztuczną domenę. Ciężko było to nawet przerwać.
 A jak to będzie wyglądało, gdy uczestnicy się znają. Będą też emocjonalnie związani z domeną. Może być ostro i ciekawie (ochrona w pogotowiu ;)).
 
-Kogo do takiego warsztatu zaprosić. Najlepszych kolegów z biura. Hmm, pewnie dobry pomył, gdyby chodziło o przedstawienie **Event**{:.event-color} **Storming'u**{:.command-color} (w jednym z e-maili [SzkołaEventStormingu.pl] jest moja prezentacja i omawiam tam to jak przeprowadzić Event Storming).
+Kogo do takiego warsztatu zaprosić. Najlepszych kolegów z biura. Hmm, pewnie dobry pomył, gdyby chodziło o przedstawienie **Event**{:.event-color} **Storming'u**{:.command-color} (w jednym z e-maili [SzkołaEventStormingu.pl] jest moja prezentacja i omawiam tam to jak przeprowadzić EventStorming).
 Pewnie byłoby wesoło, ale czy to jest tutaj najważniejsze. Do warsztatu trzeba by zebrać ludzi, którzy znają się na biznesie. 
 
-[![Event Storming - przygotowanie do warsztatu][ludzie]][ludzie-big]{:.post-right-image}
+[![EventStorming - przygotowanie do warsztatu][ludzie]][ludzie-big]{:.post-right-image}
 
 Korzystają z istniejących procesów. Potrafią nakreślić oczekiwania. Tak programiści także mile widziani. Ale nie sami, bo wówczas łatwo zejść w obszary techniczne/implementacyjne, a tego nie chcesz. ;)
 
@@ -73,7 +73,7 @@ Pewnie nie zawsze jest to łatwe do wykonania. Jednak warto się postarać.
 ## Wiesz jak się przygotować
 Przygotowanie warsztatu nie jest takie złe. Trzeba tylko trochę pracy włożyć w przygotowanie. Organizator warsztatu to duża odpowiedzialność musisz to wszystko ogarniać. Ale też wiedzieć jak przeprowadzić taki warsztat.
 
-[![Event Storming - przygotowanie do warsztatu][board2]][board2-big]{:.post-left-image}
+[![EventStorming - przygotowanie do warsztatu][board2]][board2-big]{:.post-left-image}
 
 Twoją rolą jest potraktowanie uczestników jak pączki w maśle. Oni przychodzą jak wielkie paniska na gotowe. I działają. To jest ich cel. Mają wejść spasieni w wiedzę i wypruci jak po miesięcznej głodówce. Ślad, jaki po sobie zostawią to wyklejanka na ścianie skrywająca ogromną wiedzę, czyli wartość.
 
@@ -82,13 +82,13 @@ Zabawisz się w pastuszka. Musisz dbać o swoje owieczki, strzyc je. Pilnować p
 
 PS: Uważaj, możesz wpaść w manie kupowania bloczków tak jak ja :D.
 
-Warsztat **Event**{:.event-color} **Storming'u**{:.command-color} w skrócie ;).
+Warsztat **Event**{:.event-color}**Storming'u**{:.command-color} w skrócie ;).
 
 <div width="640" height="480" style="margin-left:auto; margin-right:auto;">
 <embed width="100%" height="480" src="https://www.youtube.com/embed/WqToo1Pj76M"/>
 </div >
 
-**[Chcesz poznać Event Storming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
+**[Chcesz poznać EventStorming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
 
 
 **[A może warsztacik? Kliknij.]({{site.url}}/szkolenia)**{:.h-event-color}
@@ -109,5 +109,5 @@ Warsztat **Event**{:.event-color} **Storming'u**{:.command-color} w skrócie ;).
 [ludzie]: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/ludzie.jpg
 [ludzie-big]: /assets/images/2019/08/eventstorming/przygotowanie-do-warsztatu/ludzie-big.jpg
 
-[Event Storming - co to takiego?]: {{site.url}}/eventstorming-co-to-takiego
+[EventStorming - co to takiego?]: {{site.url}}/eventstorming-co-to-takiego
 [SzkolaEventStormingu.pl]: {{site.szkolaeventstormingu}}?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=warsztat

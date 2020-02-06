@@ -1,10 +1,10 @@
 ---
-title: Event Storming - 5 kroków do celu.
+title: EventStorming - 5 kroków do celu.
 date: 2019-09-03
 author: Krzysztof Owsiany
 layout: post
 tags:
-  - Event Storming
+  - EventStorming
   - BigPicture
 comments: true
 permalink: event-storming-5-krokow-do-celu
@@ -12,17 +12,17 @@ published: true
 image: /assets/images/2019/09/eventstorming/5-krokow-do-celu/post.png
 image_big: /assets/images/2019/09/eventstorming/5-krokow-do-celu/post-big.png
 categories:
-  - Event Storming
+  - EventStorming
   - BigPicture
 short: Najczęściej by przeprowadzić warsztat <b class='event-color'>Event</b><b class='command-color'>Storming'u</b> wystarczy jego częściowa wiedza. Mam tutaj dla ciebie 5 kroków do wyznaczenia i przeprowadzenia strategicznej części <b class='event-color'>Event</b><b class='command-color'>Storming'u</b> o nazwie <b>BigPicture</b>.
 ---
-![Event Storming - 5 kroków do celu][post-big]
+![EventStorming - 5 kroków do celu][post-big]
 
 Wszędzie się słyszy **Event**{:.event-color} **Storming**{:.command-color}, **Event**{:.event-color} **Storming**{:.command-color}, ale jak do tego podejść? Gdzie co kleić? Co pisać?
 No cóż, nie ma lekko. Dlatego zapraszam do 5 kroków, jakie musisz wykonać, by osiągnąć cel, jaki sobie obierzesz na tapetę w trakcie sesji **Event**{:.event-color} **Storming'u**{:.command-color}.
 
 ## Krok pierwszy
-W zasadzie wypada się przygotować. I to już opisałem bardziej szczegółowo tutaj: [Event Storming — Przygotowanie do warsztatu.]
+W zasadzie wypada się przygotować. I to już opisałem bardziej szczegółowo tutaj: [EventStorming — Przygotowanie do warsztatu.]
 Jak przetrawisz ten artykuł to będziesz o jedną pozycję bliżej przeprowadzenia sesji **Event**{:.event-color} **Storming'owej**{:.command-color}.
 
 ## Krok drugi
@@ -31,7 +31,7 @@ Każdy z building block'ów wchodzących w skład **Event**{:.event-color} **Sto
 
 Nie można od razu rzucić ludzi na głęboką wodę dlatego dawkujemy wiedzę powoli. Korzystając z legendy.
 
-[![Event Storming - 5 kroków do celu][wild_exploration]][wild_exploration-big]{:.post-right-image}
+[![EventStorming - 5 kroków do celu][wild_exploration]][wild_exploration-big]{:.post-right-image}
 
 Ten krok wprowadzą cię w **I Fazę BigPicture** o nazwie **Wild Exploration**. Celem tej fazy jest wywalenie wiedzy na board w postaci zdarzeń. 
 Jest tutaj kilka kwestii, należy się trzymać. Przede wszystkim zdarzenie musi być zapisane w czasie przeszłym dokonanym. Tak by obrazowało coś, co już się wydarzyło. Ważne jest też, by to zdarzenie było określone w czasie. A nie rzucone ot, tak. 
@@ -60,7 +60,7 @@ Normalnym jest też, że zdarzenia grupują się w pewne logiczne obszary. Takie
 
 Co ważne **HotSpot'y**{:.hot-spot-color} idą wraz z powiązanymi zdarzeniami. Nie można zostawić **HotSpot'cika**{:.hot-spot-color} samego, bo się zgubi.
 
-[![Event Storming - 5 kroków do celu][enforce_the_timeline]][enforce_the_timeline-big]{:.post-left-image}
+[![EventStorming - 5 kroków do celu][enforce_the_timeline]][enforce_the_timeline-big]{:.post-left-image}
 
 I to jest mozolna praca, trzeba przejść i poszeregować całe wojsko zdarzeń.  Gdy rozprasza się wiedza na temat całego procesu pomiędzy wszystkich uczestników.
 
@@ -78,7 +78,7 @@ To mozolna praca, ale jej skutkiem będzie już bardzo rozbudowany i sprawdzony 
 Teraz warto dodać kolejne building block'i. Mam nadzieje, że nie zapomniałeś/aś zaktualizować legendy o **HotSpot**{:.hot-spot-color} z kroku drugiego ;). 
 To teraz dodaj kolejne dwa:
 
-[![Event Storming - 5 kroków do celu][actors_and_systems]][actors_and_systems-big]{:.post-right-image}
+[![EventStorming - 5 kroków do celu][actors_and_systems]][actors_and_systems-big]{:.post-right-image}
 
 * **Actor**{:.actor-color} - to malutka żółta karteczka o wymiarach 35x51 mm. Na niej rysujemy ludziki i opisujemy jaką funkcję pełnią. Może to też być konkretna osoba np. Pani Jadzia. Jeżeli wszyscy wiedzą o kogo chodzi.
 * **External System**{:.external-system-color} - zewnętrzne systemy, na nich można się wyżyć jak będzie coś nie tak. Zwalamy na nie winę za różne nie zależne od nas elementy całego procesu. Są to jasno różowe karteluszki o wymiarach 76x76 mm. Ta **IV Fazę BigPicture** nazywa się **Actors & Systems**. Na niej możemy zakończyć przygodę z **BigPicture** **Event**{:.event-color} **Storming**{:.command-color}. Mamy wówczas obraz całości.
@@ -100,7 +100,7 @@ Poniżej mam dla Ciebie jeszcze bardzo krótkie wideo przedstawiające jak taki 
 A może chcesz wiedzieć więcej i masz ochotę dołączyć do mojej **Szkoły** **Event**{:.event-color} **Storming'u**{:.command-color}?
 Poniżej link. Zapraszam.
 
-**[Chcesz poznać Event Storming? Kliknij.]**{:.h-event-color}
+**[Chcesz poznać EventStorming? Kliknij.]**{:.h-event-color}
 
 **[A może warsztacik? Kliknij.]**{:.h-event-color}
 
@@ -119,10 +119,10 @@ Poniżej link. Zapraszam.
 [actors_and_systems-big]: /assets/images/2019/09/eventstorming/5-krokow-do-celu/actors_and_systems-big.jpg
 
 
-[Event Storming — Przygotowanie do warsztatu.]: {{site.url}}/event-storming-przygotowanie-do-warsztatu?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps
+[EventStorming — Przygotowanie do warsztatu.]: {{site.url}}/event-storming-przygotowanie-do-warsztatu?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps
 
 [SzkolaEventStormingu.pl]: {{site.szkolaeventstormingu}}?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps
 
 [A może warsztacik? Kliknij.]: site.url}}/szkolenia?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps
 
-[Chcesz poznać Event Storming? Kliknij.]: {{site.szkolaeventstormingu}}?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps
+[Chcesz poznać EventStorming? Kliknij.]: {{site.szkolaeventstormingu}}?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=5steps

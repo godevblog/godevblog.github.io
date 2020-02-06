@@ -31,7 +31,7 @@ training:
 
       <h3>Zadania do pracy samodzielnej</h3>
 
-  - title: Event Storming dla każdego.
+  - title: EventStorming dla każdego.
     time: 1 dzień
     desc: 
       <h3>BigPicture - modelowanie strategiczne</h3>
@@ -57,7 +57,7 @@ training:
     time: 3 dni
     desc: 
       <h3>W przygotowaniu!</h3>
-      <h4>Event Storming</h4>
+      <h4>EventStorming</h4>
       <h4>Onion Architecture</h4>
       <h4>Ports & Adapters</h4>
       <h4>CQRS</h4>

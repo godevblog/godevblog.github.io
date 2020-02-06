@@ -52,7 +52,7 @@ Działo się...
 * Post do [After.conf - S02E03 - Trener prelegentów Anna Prończuk-Omiotek].
 * Post do [After.conf - S02E04 - Festwial Umbraco - Marcin Zajkowski].
 * Post do [After.conf - S02E05 - Wystąpienia akademickie - Willy Picard].  
-* Post o Event Stormingu -> [Event Storming - 5 kroków do celu].
+* Post o EventStorming'u -> [EventStorming - 5 kroków do celu].
 * Podsumowanie września.
 * Aktualizacja [wystąpień].
 
@@ -65,7 +65,7 @@ Działo się...
 * Wystąpię na Trójmiejskiej Zawodowej Grupie .NET w Gdańsku.
 * Spontaniczne wystąpienie Lightning Talk na Programistoku.
 * Wystąpiłem na [bitConf] w Bydgoszczy 20 września.
-* Przeprowadziłem warsztat **Event Storming** na BB Days 4 IT w Bielsku-Białej 14 września.
+* Przeprowadziłem warsztat **EventStorming** na BB Days 4 IT w Bielsku-Białej 14 września.
   
 ## Lingwista
 ### I: Znam język angielski na poziomie komunikatywnym.
@@ -91,7 +91,7 @@ Działo się...
 
 ## Softwator
 ### I: Posiadam 1 tyś subskrybentów oprogramowania. 
-* Na prezentacji o Event Storming mówie o [Thenv.pl].
+* Na prezentacji o EventStorming mówie o [Thenv.pl].
   
 ## Hipidriver
 ### I: Objechałem w 14 dni z żoną Polskę. 
@@ -233,7 +233,7 @@ Poprzedni: **[Trzy poziomy - podsumowanie sierpień 2019][previous]**
 [After.conf - S02E05 - Wystąpienia akademickie - Willy Picard]: https://mrdev.pl/after-conf-wystapienia-akademickie-willy-picard?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 
 
-[Event Storming - 5 kroków do celu]: https://mrdev.pl/event-storming-5-krokow-do-celu?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
+[EventStorming - 5 kroków do celu]: https://mrdev.pl/event-storming-5-krokow-do-celu?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 
 [wystąpień]: https://mrdev.pl/prelekcje?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien
 [bio]: https://mrdev.pl/bio?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=wrzesien

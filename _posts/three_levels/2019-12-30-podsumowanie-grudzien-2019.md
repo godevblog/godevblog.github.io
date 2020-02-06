@@ -62,7 +62,7 @@ Chcę wrócić do blogowania.
 * C_tech Warszawa
 * LublinIT
 * Rg-dev Rzeszów 
-* Przeprowadziłem warsztat **Event Storming** w ramach devWarsztatów w PGS Rzeszów.
+* Przeprowadziłem warsztat **EventStorming** w ramach devWarsztatów w PGS Rzeszów.
   
 Jeszcze nie wiem co z tym celem. Możliwe że przejdzie reorganizację.
   
@@ -89,7 +89,7 @@ Jeszcze nie wiem co z tym celem. Możliwe że przejdzie reorganizację.
 
 ## Softwator
 ### I: Posiadam 1 tyś subskrybentów oprogramowania. 
-* Przeprowadziłem warsztaty Event Storming/Modeling w Rzeszowie (PGS). Domena to [Thenv.pl].
+* Przeprowadziłem warsztaty EventStorming/Modeling w Rzeszowie (PGS). Domena to [Thenv.pl].
 * [Moje 5 minut] - vlog, w którym modeluję aplikacje CatchTheFlow z wykorzystaniem EventStorming/EventModeling. Docelowo ma z tego wszystkiego powstać aplikacja do pomodoro.  
   
 ## Hipidriver

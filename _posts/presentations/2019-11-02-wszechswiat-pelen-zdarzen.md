@@ -20,7 +20,7 @@ categories:
   - EventModeling
   - BigPicture
   - DesignLevel
-short: Prezentacja dotyczy bardzo popularnego ostatnio modelowania procesów/domen przy pomocy karteczek samoprzylepnych. W trakcie prelekcji przedstawiam czym jest <b>Event Storming</b> oraz <b>Event Modeling</b>. Uczestnicy będą mieli okazje na żywo zobaczyć Event Storming w trakcie szybkiej eksploracji z wykorzystaniem realnych narzędzi i board'a.
+short: Prezentacja dotyczy bardzo popularnego ostatnio modelowania procesów/domen przy pomocy karteczek samoprzylepnych. W trakcie prelekcji przedstawiam czym jest <b>EventStorming</b> oraz <b>Event Modeling</b>. Uczestnicy będą mieli okazje na żywo zobaczyć EventStorming w trakcie szybkiej eksploracji z wykorzystaniem realnych narzędzi i board'a.
 ---
 ![Wszechświat pełen zdarzeń.][post-big]
 
@@ -28,7 +28,7 @@ Wszędzie są zdarzenia, reagujemy na nie, reagują na nie budowane przez Nas sy
 Jak wykorzystać zdarzenia do odkrywania wiedzy, procesów biznesowych.
  
 * Czym jest?:
-  *  Event Storming
+  *  EventStorming
   *  BigPicture
   *  DesignLevel
   *  Event Modeling 
@@ -36,7 +36,7 @@ Jak wykorzystać zdarzenia do odkrywania wiedzy, procesów biznesowych.
 * Jak używać? 
 * Co daje nam używanie tej techniki? 
 * Czy zawsze potrzebujemy grupy by stosować? 
-* Czy warto robić Event Storming samemu? A może zdalnie?  
+* Czy warto robić EventStorming samemu? A może zdalnie?  
 * Jak to można zrobić w domu? 
 
 Na te i inne pytania zamierzam odpowiedzieć na mojej prezentacji. 
@@ -44,9 +44,9 @@ Na te i inne pytania zamierzam odpowiedzieć na mojej prezentacji.
 ## Materiały
 [Slajdy][slides]
 
-**[Chcesz poznać Event Storming? Kliknij.]**{:.h-event-color}
+**[Chcesz poznać EventStorming? Kliknij.]**{:.h-event-color}
 
-[Chcesz poznać Event Storming? Kliknij.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=post&utm_campaign=szkolaeventstormingu&utm_content=presentation_post
+[Chcesz poznać EventStorming? Kliknij.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=post&utm_campaign=szkolaeventstormingu&utm_content=presentation_post
 
 [slides]: /assets/slides/wszechswiat-pelen-zdarzen.pdf
 

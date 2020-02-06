@@ -1,20 +1,20 @@
 ---
-title: Event Storming - co to takiego?
+title: EventStorming - co to takiego?
 date: 2019-02-21
 author: Krzysztof Owsiany
 layout: post
 tags:
-  - Event Storming
+  - EventStorming
 comments: true
 permalink: eventstorming-co-to-takiego
 published: true
 image: /assets/images/2019/02/eventstorming/co-to-takiego/post.png
 image_big: /assets/images/2019/02/eventstorming/co-to-takiego/post-big.png
 categories:
-  - Event Storming
+  - EventStorming
 short: Coraz szerzej, więcej słyszymy o <b class='event-color'>Event</b><b class='command-color'>Storming</b>-u. Czym tak naprawdę jest ta technika? W dzisiejszym poście postaram się odpowiedzieć na to pytanie. Chciałbym też byście otworzyli umysł i zauroczyli się tą techniką. Gdyż jest bardzo wartościowa!! Zapraszam do świata zdarzeń.
 ---
-![Event Storming - co to takiego?!][post-big]
+![EventStorming - co to takiego?!][post-big]
 Człowiek zazwyczaj boryka się wieloma problemami. Ciągły rozwój technologiczny wymusza na naszym gatunku równoległy rozwój intelektualny. Tworzymy coraz to bardziej zaawansowane urządzenia/oprogramowanie. Wymyślamy sposoby budowania jak najbardziej odzwierciedlające  istotę problemu. 
 
 Jesteśmy jenak istotami ludzkimi, popełniamy błędy. To jest element naszego życia. Nie inaczej jest w przypadku powoływania do życia ambitnych idei.
@@ -107,9 +107,9 @@ Skutkiem będzie wykrycie większości problemów jakie napotkali byśmy w trakc
 Ja jestem zafascynowany tym tematem, jeżeli też wzbudziłem w Tobie pożądanie lub przynajmniej chęć użycia swojego otwartego umysłu do zwiększenia świadomości na temat **Event**{:.event-color}**Storming**{:.command-color}-u. To zapraszam na moją listę, będę się dzielił na niej informacjami na temat tej nowej włoskiej techniki przygotowywania pizzy.
 
 
-**Ruszyła [Szkoła Event Stormingu.] Zapraszam.**{:.h-1}
+**Ruszyła [Szkoła EventStormingu.] Zapraszam.**{:.h-1}
 
-[Szkoła Event Stormingu.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=co_to_takiego
+[Szkoła EventStormingu.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=co_to_takiego
 [Alberto Brandolini]: https://www.eventstorming.com/
 [EventStorming]: {{site.url}}/eventstorming
 

@@ -45,7 +45,7 @@
     - where: 4Developers Kraków
       date: 2019-10-01
       access_date: 2019-09-25
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: https://4developers.org.pl/krakow/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
@@ -58,7 +58,7 @@
     - where: bITconf
       date: 2019-09-20
       access_date: 2019-09-01
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: http://bitconf.pl/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
@@ -78,7 +78,7 @@
     - where: DevCrowd
       date: 2019-06-15
       access_date: 2019-05-20
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: http://devcrowd.pl
       page: wszechswiat-pelen-zdarzen-eventstorming
 
@@ -92,7 +92,7 @@
     - where: OLMUG - Olsztyn Microsoft User Group
       date: 2019-05-16
       access_date: 2019-05-10
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: https://www.meetup.com/ol-mug/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
@@ -106,7 +106,7 @@
     - where: Konferencja GeekWeekWro#5
       date: 2019-04-27
       access_date: 2019-04-25
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: http://geekweekwro.pl/#conference
       page: wszechswiat-pelen-zdarzen-eventstorming
 
@@ -128,14 +128,14 @@
     - where: C_tech Katowice
       date: 2019-02-28
       access_date: 2019-02-10
-      title: Wszechświat pełen zdarzeń - Event Storming.
+      title: Wszechświat pełen zdarzeń - EventStorming.
       link: https://www.meetup.com/C_tech-Katowice/events/258897835/
       page: wszechswiat-pelen-zdarzen-eventstorming
 
     - where: C_tech Wrocław
       date: 2019-02-07
       access_date: 2019-02-04
-      title: Świat pełen zdarzeń - Event Storming.
+      title: Świat pełen zdarzeń - EventStorming.
       link: https://www.meetup.com/C_tech-Wroc%C5%82aw/events/258460773/
       page: swiat-pelen-zdarzen-eventstorming
 

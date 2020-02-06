@@ -42,7 +42,7 @@ short: Ten miesiąc to praktycznie cały poza domem. Podkarpacie, Wielkopolska, 
 ## Bloger
 ### II: Pisałem posty przez 365 dni.
 * Post do After.conf -> [After.conf - S02E02 - Programistok 2018].
-* Post o Event Stormingu -> [Event Storming - przygotowanie do warsztatu].
+* Post o EventStormingu -> [EventStorming - przygotowanie do warsztatu].
 * Podsumowanie sierpnia.
 * Aktualizacja [wystąpień].
 * Dodanie strony [bio].
@@ -97,7 +97,7 @@ Prawie miesiąc poza domem.
 
 ## DevSan
 ### I: Rozumiem i stosuję DDD w swoich projektach. 
-* Modelowanie aplikacji CatchTheFlow w Miro (Event Storming).
+* Modelowanie aplikacji CatchTheFlow w Miro (EventStorming).
 
 ## Zdjęciorób
 ### II: Zrobiłem zdjęcie co dzień przez 365 dni.
@@ -236,7 +236,7 @@ Następny: **[Trzy poziomy - podsumowanie wrzesień 2019][next]**
 
 
 [After.conf - S02E02 - Programistok 2018]: https://mrdev.pl/after-conf-programistok-2018?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=sierpien
-[Event Storming - przygotowanie do warsztatu]: https://mrdev.pl/event-storming-przygotowanie-do-warsztatu?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=sierpien
+[EventStorming - przygotowanie do warsztatu]: https://mrdev.pl/event-storming-przygotowanie-do-warsztatu?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=sierpien
 
 [wystąpień]: https://mrdev.pl/prelekcje?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=sierpien
 [bio]: https://mrdev.pl/bio?utm_source=mrdev&utm_medium=3l_sum&utm_campaign=trzy_poziomy&utm_content=sierpien

@@ -1,8 +1,16 @@
 groups:
   - title: Home
     url: /
-  - title: Thenv
-    url: /thenv
+  - title: Kategorie
+    urls:
+      - page: EventStorming
+        url: /eventstorming
+      - page: EventModeling
+        url: /event-modeling
+      - page: Domain-Driven Design
+        url: /ddd
+      - page: Projekty własne
+        url: /projects
   - title: Podcasty
     urls:
       - page: Podcasty

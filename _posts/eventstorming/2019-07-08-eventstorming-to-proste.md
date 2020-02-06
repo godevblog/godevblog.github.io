@@ -1,10 +1,10 @@
 ---
-title: Event Storming - to proste.
+title: EventStorming - to proste.
 date: 2019-07-08
 author: Krzysztof Owsiany
 layout: post
 tags:
-  - Event Storming
+  - EventStorming
   - Koderek
 comments: true
 permalink: event-storming-to-proste
@@ -12,11 +12,11 @@ published: true
 image: /assets/images/2019/07/eventstorming/to-proste/post.png
 image_big: /assets/images/2019/07/eventstorming/to-proste/post-big.png
 categories:
-  - Event Storming
+  - EventStorming
   - Koderek
 short: <b class='event-color'>Event</b><b class='command-color'>Storming</b> jak bardzo jest prostą techniką. Udało mi się przeprowadzić warsztat-eksperyment na konferencji Koderek 1 czerwca 2019 w Warszawie. W ten dzień dziecka prowadziliśmy warsztat planowania bazując na <b class='event-color'>Event</b><b class='command-color'>Storming</b>'u.
 ---
-![Event Storming - to proste][post-big]
+![EventStorming - to proste][post-big]
 Nie tak dawno temu **1 czerwca** wraz z żoną miałem możliwość uczestnictwa w konferencji **[Koderek](https://koderek.edu.pl/)**.
 
 Wystąpiliśmy wspólnie jako trenerzy. Przeprowadzając dwa warsztaty dla dzieciaków. :D
@@ -38,7 +38,7 @@ Na wstępie został wyznaczony cel <b class='event-color'>Event</b><b class='com
 
 Na wstępie nauczyliśmy dzieciaki, jak poprawnie odrywać karteczki samoprzylepne z bloczka. Po demonstracji zaprosiliśmy uczestników do przetrenowania tej umiejętności.
 
-[![Event Storming - to proste][bigpicture_1]][bigpicture_1-big]{:.post-left-image}
+[![EventStorming - to proste][bigpicture_1]][bigpicture_1-big]{:.post-left-image}
 
 Kolejnym elementem było wyjaśnienie pierwszego building block'u **Event'u**.
 Doś szybko uświadomiłem sobie, że tutaj trzeba iść na ustępstwa i ciężko będzie wyjaśnić tak szybko dzieciakom czym jest czas przeszły dokonany. Zwłaszcza, że grupa była zróżnicowana. Ta zasada <b class='event-color'>Event</b><b class='command-color'>Storming</b>-u dotycząca wypisywania zdarzeń została lekko uproszczona.
@@ -52,7 +52,7 @@ Dzieci się mniej boją i są odważne...
 
 W trakcie klejenia udało się wprowadzić block o nazwie **HotSpot**. Był on związany z brakiem wiedzy co należy zrobić, by sprawdzić autokar, jaki miał służyć do wyjazdu. Ale też bardzo skąd wziąć pieniądze na wycieczkę...
 
-[![Event Storming - to proste][bigpicture_2]][bigpicture_2-big]{:.post-right-image}
+[![EventStorming - to proste][bigpicture_2]][bigpicture_2-big]{:.post-right-image}
 
 Po przejściu pierwszej fazy <b class='event-color'>Event</b><b class='command-color'>Storming</b>'u zaczeliśmy wspólnie układać to, co się ma wydarzyć w odpowiedniej kolejności.
 Jednocześnie zgodnie z drugą fazą **BigPicture** podczas porządkowania odpowiednio też wyznaczaliśmy pogrupowane obszary.
@@ -63,7 +63,7 @@ Tym samym staraliśmy się wytłumaczyć dzieciakom czym są **Aktorzy** i odpow
 
 W pierwszym warsztacie plan bardzo szybko został za modelowany i pomyślałem, że wprowadzimy dodatkowy block oznaczający pomysły na spędzenie czasu w trakcie wycieczki. 
 
-[![Event Storming - to proste][legend]][legend-big]{:.post-left-image}
+[![EventStorming - to proste][legend]][legend-big]{:.post-left-image}
 
 Efektem finalnym był plan. Bardzo prosty i ograniczony do tego, co należy zabrać, spakować. Zarezerwować miejsce. 
 Tematyka była zamknięta w wiedzy domenowej dotyczącej wycieczek, jaką posiadały dzieciaki.
@@ -84,12 +84,12 @@ Jednak udało się. Był to też ciekawy eksperyment i doświadczenie dla mnie.
 
 Być może młode pokolenie przez takie działania będzie częściej myśleć przed działaniem a nie, jak to czasem z własnego doświadczenia mogę pokazać. Najpierw robić, a potem zastanawiać się, czy coś ma sens...
 
-**[Chcesz poznać Event Storming? Kliknij.]**{:.h-event-color}
+**[Chcesz poznać EventStorming? Kliknij.]**{:.h-event-color}
 
 
 **[A może warsztacik? Kliknij.]({{site.url}}/szkolenia)**{:.h-event-color}
 
-[Chcesz poznać Event Storming? Kliknij.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=to_proste
+[Chcesz poznać EventStorming? Kliknij.]: https://szkolaeventstormingu.pl?utm_source=mrdev&utm_medium=article&utm_campaign=szkolaeventstormingu&utm_content=to_proste
 
 [post]: /assets/images/2019/07/eventstorming/to-proste/post.png
 [post-big]: /assets/images/2019/07/eventstorming/to-proste/post-big.png

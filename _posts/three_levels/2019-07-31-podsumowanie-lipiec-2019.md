@@ -46,7 +46,7 @@ Przyznane nagrody:
 ## Bloger
 ### II: Pisałem posty przez 365 dni.
 * Post do After.conf -> [After.conf - S02E01 - Super Prelegent Paweł Tkaczyk]({{site.url}}/after-conf-super-prelegent-pawel-tkaczyk).
-* Post o Event Stormingu -> [Event Storming - to proste]({{site.url}}/event-storming-to-proste).
+* Post o EventStormingu -> [EventStorming - to proste]({{site.url}}/event-storming-to-proste).
 * Podsumowanie lipca.
 
 ## Mnich
@@ -94,12 +94,12 @@ Urlop za granicą - zwiedzanie Gran Canarii jako pasażer.
 
 ## Pisarz
 ### I: Sprzedałem 1000 egzemplarzy książki. 
-* Na Gran Canarii wpadłem na pomysł powieści. Rozpocząłem też tworzyć metę pracy nad opowieściami na bazie Event Stormingu. Pora by też popracować nad jakąś książką (opowiadaniem/ami). A nie tylko gadać pisać i czytać o tym. :D
+* Na Gran Canarii wpadłem na pomysł powieści. Rozpocząłem też tworzyć metę pracy nad opowieściami na bazie EventStorming'u. Pora by też popracować nad jakąś książką (opowiadaniem/ami). A nie tylko gadać pisać i czytać o tym. :D
 * Czytanie "Bazar Złych Snów" - King'a. Ciekawa pozycja gdyż można się dowiedzieć jak autor tworzy swoje opowiadania oraz jak powstały konkretne opowiadania z książki. 
 
 ## DevSan
 ### I: Rozumiem i stosuję DDD w swoich projektach. 
-* Przeprowadziłem wraz z Mikołajem warsztat [Event Storming we Wrocławiu]({{site.url}}/warsztaty).
+* Przeprowadziłem wraz z Mikołajem warsztat [EventStorming we Wrocławiu]({{site.url}}/warsztaty).
 
 ## Zdjęciorób
 ### I: Zrobiłem zdjęcie co dzień przez 30 dni.
@@ -162,7 +162,7 @@ Dużo rozpoczętych książek... :/
 
 ## Społecznik
 ### I: Uczestniczę w 1 spotkaniach ze znajomymi w miesiącu. 
-* Warsztat Event Stormingu.
+* Warsztat EventStorming'u.
  
 ## Talker
 ### I: Wystąpiłem na wszystkich polskich grupach .NET.

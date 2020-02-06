@@ -48,7 +48,7 @@ Przyznane nagrody:
 
 ## Mówca
 ### I: Wystąpiłem przed 200 osobami. 
-* Przeprowadziłem z Mikołajem warsztaty Event Storming na 4Developers w Warszawie 8 kwietnia 2019
+* Przeprowadziłem z Mikołajem warsztaty EventStorming na 4Developers w Warszawie 8 kwietnia 2019
 * Wystąpiłem na [GeekWeekWro] - 27 kwietnia 2019
   
 ## Lingwista
@@ -88,11 +88,11 @@ Objazd polski
 
 ## Pisarz
 ### I: Sprzedałem 1000 egzemplarzy książki. 
-* Myślę nad wykorzystaniem Event Stormingu do tworzenia fabuły książki.
+* Myślę nad wykorzystaniem EventStormingu do tworzenia fabuły książki.
 
 ## DevSan
 ### I: Rozumiem i stosuję DDD w swoich projektach. 
-* Warsztaty z Event Storming-u po 4Developers w Warszawie - Bottega IT Minds.
+* Warsztaty z EventStorming-u po 4Developers w Warszawie - Bottega IT Minds.
 * Rozwój przykładowego projektu z wykorzystaniem CQRS, Ports & Adapters, TDD, DDD.
 
 ## Zdjęciorób

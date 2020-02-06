@@ -158,7 +158,7 @@ Czytane:
  
 ## Talker
 ### I: Wystąpiłem na wszystkich polskich grupach .NET.
-* Prezentacja o Event Stormingu na DevCrowd.
+* Prezentacja o EventStormingu na DevCrowd.
   
 ## Hotelarz
 ### I: Posiadam mieszkania na wynajem w Lesznie.
@@ -187,7 +187,7 @@ Czytane:
 
 ## Modeler
 ### I: Zamodelowałem 1 aplikację z wykorzystaniem ES i DDD. 
-* CatchTheFlow - modelowanie zdarzeń przy pomocy Event Stormingu.
+* CatchTheFlow - modelowanie zdarzeń przy pomocy EventStormingu.
 
 ## eTeacher
 ### I: Stworzyłem 2 kursy online. 

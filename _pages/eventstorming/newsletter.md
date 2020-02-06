@@ -2,7 +2,7 @@
 title: EventStorming - lista.
 date: 2019-01-25
 author: Krzysztof Owsiany
-permalink: eventstorming
+permalink: eventstorming-lista
 layout: page-without-email-subscription
 lang: PL-pl
 description: asdf

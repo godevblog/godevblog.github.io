@@ -1,4 +1,4 @@
-**[Chcesz poznać Event Storming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
+**[Chcesz poznać EventStorming? Kliknij.](https://szkolaeventstormingu.pl)**{:.h-event-color}
 
 <!---
 ----
