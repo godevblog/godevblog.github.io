@@ -9,6 +9,8 @@ groups:
         url: /event-modeling
       - page: Domain-Driven Design
         url: /ddd
+      - page: Reactive Extensions
+        url: /rx        
       - page: Projekty własne
         url: /projects
   - title: Podcasty
