@@ -1,5 +1,6 @@
 <div id="content-wrapper">
   <div class="inner clearfix">
+    {% include left_sidebar.html %}
     <section id="main-content">
       <!-- using the split filter -->
       {% assign relevant = paginator.posts | except:"published","false" %}
@@ -19,6 +20,6 @@
       
       {% include pagination.html %}
     </section>
-    {% include sidebar.html %}
+    {% include right_sidebar.html %}
   </div>
 </div>

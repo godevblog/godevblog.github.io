@@ -1,5 +1,6 @@
 <div id="content-wrapper">
     <div class="inner clearfix">
+      {% include left_sidebar.html %}
       <section id="main-content">
         {% assign vlogs = site.data.my5minutes[page.permalink] %}
         <h1>{{ vlogs.title }}</h1>
@@ -21,6 +22,6 @@
   
         {% include disqus.html %}
       </section>
-      {% include sidebar.html %}
+      {% include right_sidebar.html %}
     </div>
   </div> 

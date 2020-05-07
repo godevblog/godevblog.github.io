@@ -1,5 +1,6 @@
 <div id="content-wrapper">
     <div class="inner clearfix">
+      {% include left_sidebar.html %}
       <section id="main-content">
           {% for post in site.posts | except:"published","false" %}
             {% if post.categories contains page.software %}
@@ -12,6 +13,6 @@
             {% endif %}
           {% endfor %}
       </section>
-      {% include sidebar.html %}
+      {% include right_sidebar.html %}
     </div>
   </div>
