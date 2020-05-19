@@ -1,4 +1,10 @@
-
+moje-5-minut-17h:
+  url: moje-5-minut-17h
+  title: Moje 5 minut 17 godzina
+  episodes:    
+    - title: 16h 5 minut [193]
+      youtube: hUkmodqdFRI
+    
 moje-5-minut-16h:
   url: moje-5-minut-16h
   title: Moje 5 minut 16 godzina
