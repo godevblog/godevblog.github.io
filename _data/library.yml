@@ -213,7 +213,7 @@ books:
   - title: Zaufanie, czyli waluta przyszłości. Moja droga od zera do 7 milionów z bloga. Michał Szafrański.
     image: /assets/images/books/a_04cl.jpg
     url: http://ebookpoint.pl/view/90752/a_04cl.htm
-    category: Rozwój osobisty  
+    category: Biznes-Solopreneur
     readed: 100
     recommendation: 5
 
@@ -307,3 +307,13 @@ books:
     category: Rozwój osobisty
     readed: 30
     recommendation: 4
+
+  - title: Firma, czyli Ty. Jak będąc Małą firmą, możesz robić Wielkie rzeczy w biznesie. Paul Jarvis.
+    image: /assets/images/books/s_00h0.jpg
+    url: http://ebookpoint.pl/view/90752/s_00h0.htm
+    category: Biznes-Solopreneur
+    readed: 100
+    recommendation: 4
+
+
+    
