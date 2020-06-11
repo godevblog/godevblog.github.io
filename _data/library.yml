@@ -186,7 +186,7 @@ books:
     url: http://ebookpoint.pl/view/90752/mispr2.htm
     category: Wystąpienia publiczne
     readed: 100
-    recommendation: 0
+    recommendation: 2
 
   - title: EventStorming - An act of deliberate collective learning. Alberto Brandolini.
     image: /assets/images/books/eventstorming.jpg
@@ -306,4 +306,4 @@ books:
     url: http://ebookpoint.pl/view/90752/e_1fgz.htm
     category: Rozwój osobisty
     readed: 30
-    recommendation: 4    
+    recommendation: 4
