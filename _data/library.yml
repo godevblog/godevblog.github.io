@@ -301,4 +301,9 @@ books:
     readed: 100
     recommendation: 4
 
-    
+  - title: Praca głęboka. Cal Newport.
+    image: /assets/images/books/e_1fgz.jpg
+    url: http://ebookpoint.pl/view/90752/e_1fgz.htm
+    category: Rozwój osobisty
+    readed: 30
+    recommendation: 4    
