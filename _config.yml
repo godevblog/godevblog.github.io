@@ -47,7 +47,7 @@ paginate_path: '/page:num/'
 google_analytics: UA-93197123-1
 google_tag_manager: GTM-WNPRZT9
 
-disqus: godev
+disqus: mrdev
 
 highlighter: rouge
 
