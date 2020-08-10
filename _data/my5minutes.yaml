@@ -1,3 +1,10 @@
+moje-5-minut-24h:
+  url: moje-5-minut-23h
+  title: Moje 5 minut 24 godzina
+  episodes:    
+    - title: 23h 5 minut [277]
+      youtube: QRiSA689byo
+
 moje-5-minut-23h:
   url: moje-5-minut-22h
   title: Moje 5 minut 23 godzina
