@@ -51,28 +51,28 @@ books:
   - title: Getting Things Done, czyli sztuka bezstresowej efektywności. David Allen.
     image: /assets/images/books/getti2.jpg
     url: http://ebookpoint.pl/view/90752/getti2.htm
-    category: Efektywność
+    category: Produktywność
     readed: 100
     recommendation: 4
 
   - title: Getting Things Programmed. Droga do efektywności. Michał Bartyzel.
     image: /assets/images/books/droppp.jpg
     url: http://ebookpoint.pl/view/90752/droppp.htm
-    category: Efektywność
+    category: Produktywność
     readed: 100
-    recommendation: 0
+    recommendation: 5
 
   - title: Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża. Neil Fiore.
     image: /assets/images/books/samodv.jpg
     url: http://ebookpoint.pl/view/90752/samodv.htm
-    category: Efektywność
+    category: Produktywność
     readed: 100
-    recommendation: 0
+    recommendation: 4
 
   - title: Filozofia Kaizen. Jak mały krok może zmienić Twoje życie. Robert Maurer.
     image: /assets/images/books/filokv.jpg
     url: http://ebookpoint.pl/view/90752/filokv.htm
-    category: Efektywność
+    category: Produktywność
     readed: 100
     recommendation: 4
 
@@ -156,7 +156,7 @@ books:
   - title: 4-godzinny tydzień pracy. Timothy Ferriss.
     image: /assets/images/books/4h-work.jpg
     url: https://upolujebooka.pl/oferta,17750,4-godzinny_tydzien_pracy.html
-    category: Efektywność
+    category: Produktywność
     readed: 25
     recommendation: 0
 
@@ -213,7 +213,7 @@ books:
   - title: Zaufanie, czyli waluta przyszłości. Moja droga od zera do 7 milionów z bloga. Michał Szafrański.
     image: /assets/images/books/a_04cl.jpg
     url: http://ebookpoint.pl/view/90752/a_04cl.htm
-    category: Biznes-Solopreneur
+    category: Biznes
     readed: 100
     recommendation: 5
 
@@ -228,14 +228,14 @@ books:
     image: /assets/images/books/budmik.jpg
     url: http://ebookpoint.pl/view/90752/budmik.htm
     category: Architektura 
-    readed: 0
+    readed: 50
     recommendation: 0
 
   - title: DDD. Kompendium wiedzy. Vaughn Vernon.
     image: /assets/images/books/dddpig.jpg
     url: http://ebookpoint.pl/view/90752/dddpig.htm
     category: Domain-Driven Design 
-    readed: 0
+    readed: 20
     recommendation: 0
 
   - title: Medytacja dla zabieganych. Osho.
@@ -304,14 +304,14 @@ books:
   - title: Praca głęboka. Cal Newport.
     image: /assets/images/books/e_1fgz.jpg
     url: http://ebookpoint.pl/view/90752/e_1fgz.htm
-    category: Rozwój osobisty
-    readed: 30
+    category: Produktywność
+    readed: 100
     recommendation: 4
 
   - title: Firma, czyli Ty. Jak będąc Małą firmą, możesz robić Wielkie rzeczy w biznesie. Paul Jarvis.
     image: /assets/images/books/s_00h0.jpg
     url: http://ebookpoint.pl/view/90752/s_00h0.htm
-    category: Biznes-Solopreneur
+    category: Biznes
     readed: 100
     recommendation: 4
 
@@ -321,4 +321,53 @@ books:
     url: http://ebookpoint.pl/view/90752/e_0n6u.htm
     category: Rozwój osobisty
     readed: 25
-    recommendation: 4
+    recommendation: 5
+
+  - title: Sposób na listę to-do. Twórz listy zadań, które nie stresują a pomagają!. Damon Zahariades.
+    image: /assets/images/books/sponal.jpg
+    url: http://ebookpoint.pl/view/90752/sponal.htm
+    category: Produktywność
+    readed: 100
+    recommendation: 5
+
+  - title: Jak radzić sobie z porażką (nie tylko) w biznesie. Marcin Osman.
+    image: /assets/images/books/e_1m0cal.jpg
+    url: http://ebookpoint.pl/view/90752/e_1m0c.htm
+    category: Biznes
+    readed: 100
+    recommendation: 4    
+
+  - title: Stwórz jednorożca. Od idei po startup wart miliony. Grzegorz Kubera.
+    image: /assets/images/books/starpi.jpg
+    url: http://ebookpoint.pl/view/90752/starpi.htm
+    category: Biznes
+    readed: 20
+    recommendation: 0
+
+  - title: Stwórz jednorożca. Od idei po startup wart miliony. Grzegorz Kubera.
+    image: /assets/images/books/starpi.jpg
+    url: http://ebookpoint.pl/view/90752/starpi.htm
+    category: Biznes
+    readed: 20
+    recommendation: 0
+
+  - title: Jedna kampania do wolności. Jak stworzyć produkt online, pozyskać klientów i żyć na własnych warunkach. Magdalena Pawłowska.
+    image: /assets/images/books/jedkam.jpg
+    url: http://ebookpoint.pl/view/90752/jedkam.htm
+    category: Biznes
+    readed: 25
+    recommendation: 5
+
+  - title: Jak pisać. Pamiętnik rzemieślnika. Stephen King.
+    image: /assets/images/books/e_0uo5.jpg
+    url: http://ebookpoint.pl/view/90752/e_0uo5.htm
+    category: Copywriting
+    readed: 0
+    recommendation: 0
+
+  - title: Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów. Robert C. Martin.
+    image: /assets/images/books/mckkov.jpg
+    url: http://ebookpoint.pl/view/90752/mckkov.htm
+    category: Kunszt programisty
+    readed: 10
+    recommendation: 0
