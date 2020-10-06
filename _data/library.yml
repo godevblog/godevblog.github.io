@@ -13,6 +13,13 @@ books:
     readed: 0
     recommendation: 0
    
+  - title: "Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev."
+    image: /assets/images/books/hands_on_ddd_dot_net_core.jpg
+    url: https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097
+    category: Domain-Driven Design
+    readed: 100
+    recommendation: 5    
+
   - title: GRYWALIZACJA. Jak zastosować mechanizmy gier w działaniach marketingowych. Paweł Tkaczyk.
     image: /assets/images/books/grywal.jpg
     url: http://ebookpoint.pl/view/90752/grywal.htm
@@ -364,6 +371,13 @@ books:
     category: Copywriting
     readed: 0
     recommendation: 0
+
+  - title: "On Writing: A Memoir of the Craft. Stephen King."
+    image: /assets/images/books/9781444723250.jpg
+    url: https://www.bookdepository.com/On-Writing-Stephen-King/9781444723250
+    category: Copywriting
+    readed: 10
+    recommendation: 5
 
   - title: Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów. Robert C. Martin.
     image: /assets/images/books/mckkov.jpg
