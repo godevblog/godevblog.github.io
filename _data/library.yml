@@ -146,6 +146,20 @@ books:
     readed: 100
     recommendation: 5
 
+  - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner. Ashlee Vance.
+    image: /assets/images/books/e_0x51.jpg
+    url: http://ebookpoint.pl/view/90752/e_0x51.htm
+    category: Biografia     
+    readed: 100
+    recommendation: 5
+
+  - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner. Ashlee Vance.
+    image: /assets/images/books/e_0x51.jpg
+    url: http://ebookpoint.pl/view/90752/e_0x51.htm
+    category: Biografia     
+    readed: 100
+    recommendation: 5    
+
   - title: Biegiem przez życie. Jerzy Skarżyński.
     image: /assets/images/books/biegiem-przez-zycie.jpg
     url: http://skarzynski.pl/produkt/biegiem-przez-zycie/
@@ -153,12 +167,27 @@ books:
     readed: 100
     recommendation: 5
 
+  - title: Urodzeni biegacze. Tajemnicze plemię Tarahumara, bieganie naturalne i wyścig, jakiego świat nie widział. Christopher Mc Dougall.
+    image: /assets/images/books/e_8503.jpg
+    url: http://ebookpoint.pl/view/90752/e_8503.htm
+    category: Bieganie
+    readed: 0
+    recommendation: 0  
+
   - title: Myśl!... i bogać się. Napoleon Hill.
     image: /assets/images/books/e_580a.jpg
     url: http://ebookpoint.pl/view/90752/e_580a.htm
     category: Rozwój osobisty     
     readed: 100
     recommendation: 4
+
+  - title: Generator charyzmy. Kreowanie osobowości menedżera. Paweł Smółka.
+    image: /assets/images/books/charyz.jpg
+    url: http://ebookpoint.pl/view/90752/charyz.htm
+    category: Rozwój osobisty     
+    readed: 0
+    recommendation: 0
+  
 
   - title: 4-godzinny tydzień pracy. Timothy Ferriss.
     image: /assets/images/books/4h-work.jpg
