@@ -10,7 +10,7 @@ books:
     image: /assets/images/books/dddaro.jpg
     url: http://ebookpoint.pl/view/90752/dddaro.htm
     category: Domain-Driven Design
-    readed: 0
+    readed: 25
     recommendation: 0
    
   - title: "Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev."
@@ -206,7 +206,7 @@ books:
   - title: Narratologia. Paweł Tkaczyk.
     image: /assets/images/books/e_0hal.jpg
     url: http://ebookpoint.pl/view/90752/e_0hal.htm
-    category: Wystąpienia publiczne
+    category: Copywriting
     readed: 100
     recommendation: 5
 
@@ -271,7 +271,7 @@ books:
     image: /assets/images/books/dddpig.jpg
     url: http://ebookpoint.pl/view/90752/dddpig.htm
     category: Domain-Driven Design 
-    readed: 20
+    readed: 0
     recommendation: 0
 
   - title: Medytacja dla zabieganych. Osho.
@@ -398,7 +398,7 @@ books:
     image: /assets/images/books/9781444723250.jpg
     url: https://www.bookdepository.com/On-Writing-Stephen-King/9781444723250
     category: Copywriting
-    readed: 10
+    readed: 100
     recommendation: 5
 
   - title: Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów. Robert C. Martin.
@@ -407,3 +407,38 @@ books:
     category: Kunszt programisty
     readed: 10
     recommendation: 0
+
+  - title: MVVM i XAML w Visual Studio 2015. Jacek Matulewski.
+    image: /assets/images/books/xamlmv.jpg
+    url: http://ebookpoint.pl/view/90752/xamlmv.htm
+    category: Architektura
+    readed: 100
+    recommendation: 4
+
+  - title: Growth Hacker Marketing. O przyszłości PR, marketingu i reklamy. Wydanie rozszerzone. Ryan Holiday.
+    image: /assets/images/books/grhama.jpg
+    url: http://ebookpoint.pl/view/90752/grhama.htm
+    category: Marketing
+    readed: 100
+    recommendation: 4
+
+  - title: TDD. Techniki programowania sterowanego testami. Dariusz Woźniak.
+    image: /assets/images/books/tddppr.jpg
+    url: http://ebookpoint.pl/view/90752/tddppr.htm
+    category: Testowanie
+    readed: 0
+    recommendation: 0
+
+  - title: BDD w działaniu. Sterowanie zachowaniem w rozwoju aplikacji. John Ferguson Smart.
+    image: /assets/images/books/bdddzi.jpg
+    url: http://ebookpoint.pl/view/90752/bdddzi.htm
+    category: Testowanie
+    readed: 0
+    recommendation: 0
+
+  - title: Maszyna do pisania. Katarzyna Bonda.
+    image: /assets/images/books/e_705s.jpg
+    url: http://ebookpoint.pl/view/90752/e_705s.htm
+    category: Copywriting
+    readed: 100
+    recommendation: 5
