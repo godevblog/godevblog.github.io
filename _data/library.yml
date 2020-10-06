@@ -338,18 +338,11 @@ books:
     recommendation: 5
 
   - title: Jak radzić sobie z porażką (nie tylko) w biznesie. Marcin Osman.
-    image: /assets/images/books/e_1m0cal.jpg
+    image: /assets/images/books/e_1m0c.jpg
     url: http://ebookpoint.pl/view/90752/e_1m0c.htm
     category: Biznes
     readed: 100
     recommendation: 4    
-
-  - title: Stwórz jednorożca. Od idei po startup wart miliony. Grzegorz Kubera.
-    image: /assets/images/books/starpi.jpg
-    url: http://ebookpoint.pl/view/90752/starpi.htm
-    category: Biznes
-    readed: 20
-    recommendation: 0
 
   - title: Stwórz jednorożca. Od idei po startup wart miliony. Grzegorz Kubera.
     image: /assets/images/books/starpi.jpg
