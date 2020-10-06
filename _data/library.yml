@@ -13,7 +13,7 @@ books:
     readed: 25
     recommendation: 0
    
-  - title: "Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev."
+  - title: Hands-On Domain-Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev.
     image: /assets/images/books/hands_on_ddd_dot_net_core.jpg
     url: https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097
     category: Domain-Driven Design
@@ -152,13 +152,6 @@ books:
     category: Biografia     
     readed: 100
     recommendation: 5
-
-  - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner. Ashlee Vance.
-    image: /assets/images/books/e_0x51.jpg
-    url: http://ebookpoint.pl/view/90752/e_0x51.htm
-    category: Biografia     
-    readed: 100
-    recommendation: 5    
 
   - title: Biegiem przez życie. Jerzy Skarżyński.
     image: /assets/images/books/biegiem-przez-zycie.jpg
@@ -394,7 +387,7 @@ books:
     readed: 0
     recommendation: 0
 
-  - title: "On Writing: A Memoir of the Craft. Stephen King."
+  - title: On Writing - A Memoir of the Craft. Stephen King.
     image: /assets/images/books/9781444723250.jpg
     url: https://www.bookdepository.com/On-Writing-Stephen-King/9781444723250
     category: Copywriting
