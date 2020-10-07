@@ -49,7 +49,7 @@ Oczywiście nie są to wszystkie możliwe sposoby na wyizolowanie **Modelu Dzied
 **Nadmieniam, tutaj iż głoszę swój osobisty punkt widzenia i sposób prezentacji wiedzy. A jako że nie jestem nieomylny, to mogą i zapewne będą zdarzać się błędy...**
 
 
-{% include posts/ddd/books.md %}
+{% include posts/ddd/books.html %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - Izolacja przy pomocy warstw.][previous]**

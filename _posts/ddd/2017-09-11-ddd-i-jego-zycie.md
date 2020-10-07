@@ -98,7 +98,7 @@ Budowanie aplikacji na bazie **Domain-Driven Design**, wymusza na projgramiście
 
 Po takiej porcji wiedzy rozmyślam (w końcu) nad zastosowaniem w prostym projekcie. Oraz przedstawieniu swoich poczynań w kolejnych postach dotyczących **DDD**.
 
-{% include posts/ddd/books.md %}
+{% include posts/ddd/books.html %}
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - Podstawowe części składowe.][previous]**
 

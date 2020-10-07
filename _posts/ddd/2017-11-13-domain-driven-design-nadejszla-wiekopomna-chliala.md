@@ -77,7 +77,7 @@ Jako młody adept szkolenia przeprowadzonego przez **[Macieja Aniserowicza][proc
     
 Kod wrzuci się na **[GitHub-a][mygithub]**, może ktoś wykona **Code Review**.
 
-{% include posts/ddd/books.md %}
+{% include posts/ddd/books.html %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - DDD i jego życie.][previous]**

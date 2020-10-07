@@ -120,7 +120,7 @@ Powyższe składowe  elementy, stanowią podstawowe konstrukty jakie powinno si
 
 Oczywiście nie jest to wyczerpanie tematu i zachęcam do wielokrotnego zgłębiania wiedzy na ten temat.
     
-{% include posts/ddd/books.md %}
+{% include posts/ddd/books.html %}
 
 ---
 Wcześniejszy artykuł: **[Domain-Driven Design - Izolacja przy pomocy warstw.][previous]**

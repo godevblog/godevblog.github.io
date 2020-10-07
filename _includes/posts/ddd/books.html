@@ -1,0 +1,19 @@
+<h2>Polecane książki</h2>
+
+<table>
+    <tbody>
+        {% assign books = site.data.library.books | where: "category", "Domain-Driven Design" | sort: "recomendation" %}          
+        {% for book in books %}
+        <tr>
+            <td>
+                <a href="{{ book.url }}" class="book-image">
+                    <img src="{{ book.image }}" alt="{{ book.title }}">
+                </a>
+            </td>
+            <td>
+                <a href="{{ book.url }}">{{ book.title }}</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
