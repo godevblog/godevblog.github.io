@@ -1,5 +1,5 @@
 ----
-Artykuł ten jest częścią serii arykułów na temat **Domain-Driven Design**.
+Artykuł ten jest częścią serii artykułów na temat **Domain-Driven Design**.
  
 **Agenda**
 

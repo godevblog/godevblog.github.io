@@ -1,10 +1,18 @@
 ## Polecane książki
 
 |[![Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri-image]][domdri]{:.book-image}|[Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri]|
-|[![DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro-image]][dddaro]{:.book-image}|[DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro]|
+|[![DDD dla architektów oprogramowania. Vaughn Vernon.][dddaro-image]][dddaro]{:.book-image}|[DDD dla architektów oprogramowania. Vaughn Vernon.][dddaro]|
+|[![Hands-On Domain-Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev.][hands_on_ddd-image]][hands_on_ddd]{:.book-image}|[Hands-On Domain-Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev.][hands_on_ddd]|
+|[![DDD. Kompendium wiedzy. Vaughn Vernon.][dddpig-image]][dddpig]{:.book-image}|[DDD. Kompendium wiedzy. Vaughn Vernon.][dddpig]|
 
 [domdri]: http://ebookpoint.pl/view/90752/domdri.htm
-[domdri-image]: https://static01.helion.com.pl/global/okladki/326x466/0ec470d7102b93516012ee4849dc3a41,domdri.jpg
+[domdri-image]: /assets/images/books/domdri.jpg
 
 [dddaro]: http://ebookpoint.pl/view/90752/dddaro.htm
-[dddaro-image]: https://static01.helion.com.pl/global/okladki/326x466/91bb872731d822a7c801afc2b4e9b8cc,dddaro.jpg
+[dddaro-image]: /assets/images/books/dddaro.jpg
+
+[dddpig]: http://ebookpoint.pl/view/90752/dddpig.htm
+[dddpig-image]: /assets/images/books/dddpig.jpg
+
+[hands_on_ddd]: https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097
+[hands_on_ddd-image]: /assets/images/books/hands_on_ddd_dot_net_core.jpg
