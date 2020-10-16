@@ -1,7 +1,9 @@
 moje-5-minut-29h:
   url: moje-5-minut-28h
   title: Moje 5 minut 29 godzina
-  episodes:   
+  episodes: 
+    - title: 28h 40 minut [344]
+      youtube: 7YvHnsK1krA
     - title: 28h 35 minut [343]
       youtube: M9nQ1Sv1IFM
     - title: 28h 30 minut [342]
