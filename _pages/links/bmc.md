@@ -21,3 +21,7 @@ Jeżeli masz ciekawą propozycję odnośnie rozszerzenia listy. Napisz na **[krz
 * [BMC według Polskiej Agencji Rozwoju Przedsiębiorczości](https://youtu.be/EWTs7pdmAzE)
 * [BMC PARP - przykład](https://youtu.be/SV1y6mbXbac)
 * [The Business Model Canvas - 9 Steps to Creating a Successful Business Model - Startup Tips](https://youtu.be/IP0cUBWTgpY)
+
+### Narzędzia
+
+* [Canvanizer](https://canvanizer.com/new/business-model-canvas)
