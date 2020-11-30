@@ -11,6 +11,9 @@ Jeżeli masz ciekawą propozycję odnośnie rozszerzenia listy. Napisz na **[krz
 
 * [Value Proposition Canvas explained through the Uber example](https://www.youtube.com/watch?v=kiWkRiynPAo)
 * [Value Proposition Canvas Tesla](https://www.youtube.com/watch?v=zlf2iRRufGE)
+* [Value Proposition Canvas](https://www.pinterest.com/pin/320037117273536734/)
+* [What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
+
 
 ### Wideo
 
