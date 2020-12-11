@@ -239,6 +239,13 @@ books:
     readed: 10
     recommendation: 0
 
+  - title: Visualise, document and explore your software architecture Software Architecture for Developers - Volume 2. Simon Brown.
+    image: /assets/images/books/modelc4_2.png
+    url: https://leanpub.com/visualising-software-architecture
+    category: Architektura  
+    readed: 30
+    recommendation: 5    
+
   - title: Zaufanie, czyli waluta przyszłości. Moja droga od zera do 7 milionów z bloga. Michał Szafrański.
     image: /assets/images/books/a_04cl.jpg
     url: http://ebookpoint.pl/view/90752/a_04cl.htm
