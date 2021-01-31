@@ -26,7 +26,7 @@ W takiej sytuacji dobrze by było posiadać skondensowaną wiedzę w postaci nar
 
 [![Odręcznie rysowana warstwa modelu Model C4.][c4draw]][c4draw-big]{:.post-center-image}
 
-Jak się okazało. Taki model architektury istniał. Jednak to, w jaki sposób został sporządzony. Jakie informacje zawierał. Pozostawiało wiele do życzenia. Powiem inaczej. Więcej to wprowadzało niezrozumienia, zamieszania niż wartości.
+Jak się okazało, taki model architektury istniał. Jednak to, w jaki sposób został sporządzony i jakie informacje zawierał - pozostawiało wiele do życzenia. Powiem inaczej. Więcej to wprowadzało niezrozumienia, zamieszania niż wartości.
 Diagram był narysowany jak przez dziecko w przedszkolu. Zapewne o średnich zdolnościach artystycznych.
 Kompletnie go nie rozumiałem. Chaotyczne linie łączące różno-kształtne elementy. Skróty, które w zasadzie nic nie mówiły.
 Tylko usiąść i płakać. Jednak jako bohater tej historii. Tego nie uczyniłem. Kilka miesięcy potem zmieniłem pracę :). Diagram nie był głównym powodem.
