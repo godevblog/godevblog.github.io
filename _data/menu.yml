@@ -27,6 +27,8 @@ groups:
         url: /mrdevlog
       - page: MrDeVlog - Moje 5 minut
         url: /mrdevlog_5min
+  - title: Kursy
+    url: https://courses.mrdev.pl/courses 
   - title: Biblioteczka
     url: /biblioteczka
   - title: Trzy poziomy
