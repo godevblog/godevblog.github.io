@@ -3,12 +3,8 @@
     <section id="main-content">
         {% for post in site.posts limit:page.limit | except:"published","false" %}
 
-        {% assign mod = forloop.index | modulo: 2 %}
-            {% if mod == 0 %}            
-              {% include main-right-side.html %}
-            {% else %}
+      
               {% include main-left-side.html %}
-            {% endif %}
         {% endfor %}
     </section>
     {% include right_sidebar.html %}

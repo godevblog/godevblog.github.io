@@ -7,13 +7,7 @@
           {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
         
           {% if post_in_seconds > recent_posts %}
-
-            {% assign mod = forloop.index | modulo: 2 %}
-            {% if mod == 0 %}            
-              {% include main-right-side.html %}
-            {% else %}
               {% include main-left-side.html %}
-            {% endif %}
           {% endif %}
         {% endfor %}
     </section>

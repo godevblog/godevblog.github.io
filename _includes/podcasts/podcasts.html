@@ -3,15 +3,8 @@
       <section id="main-content">
           {% assign podcasts = site.posts | where:"categories", "Podcast" %}
           {% for post in podcasts %}
-              {% assign mod = forloop.index | modulo: 2 %}
-              {% if mod == 0 %}            
-                {% include main-right-side.html %}
-              {% else %}
                 {% include main-left-side.html %}
-              {% endif %}
-            
           {% endfor %}
-        
           
         {% include subscribe_form_minimal.html %}
       </section>

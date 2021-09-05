@@ -3,12 +3,7 @@
       <section id="main-content">
           {% for post in site.posts | except:"published","false" %}
             {% if post.categories contains page.vlog %}
-              {% assign mod = forloop.index | modulo: 2 %}
-              {% if mod == 0 %}            
-                {% include main-right-side.html %}
-              {% else %}
                 {% include main-left-side.html %}
-              {% endif %}
             {% endif %}
           {% endfor %}
       </section>

@@ -2,23 +2,19 @@
   <div class="inner clearfix">
     {% include left_sidebar.html %}
     <section id="main-content">
-      <!-- using the split filter -->
-      {% assign relevant = paginator.posts | except:"published","false" %}
-      {% for post in relevant %}
+        <!-- using the split filter -->
+        {% assign relevant = paginator.posts | except:"published","false" %}
+        {% for post in relevant %}
 
-        {% if forloop.index == 1 and paginator.page == 1 %}
-          {% include main-first.html %}
-        {% else %}
-          {% assign mod = forloop.index | modulo: 2 %}
-          {% if mod == 0 %}            
-            {% include main-right-side.html %}
+          {% if forloop.index == 1 and paginator.page == 1 %}
+            {% include main-first.html %}
           {% else %}
-            {% include main-left-side.html %}
+              {% include main-left-side.html %}
           {% endif %}
-        {% endif %}
-      {% endfor %}
-      
+        {% endfor %}
+        
       {% include pagination.html %}
+
     </section>
     {% include right_sidebar.html %}
   </div>
