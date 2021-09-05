@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 header {
-    height: 220px;
     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+    background:rgb(53, 53, 53);
+    text-align: center
 }
 
 footer{
@@ -20,6 +21,8 @@ footer{
     text-align: justify;
     text-justify: inter-word;
     font-size: 16pt;
+    width: 70%;
+    padding-left:10px;
 }
 
 .highlight-post {
@@ -115,20 +118,19 @@ div.blog_rss {
     color: white;
 }
 
-.inner {
-   // width: 1280px;
+.inner {   
    color: black;
+   width: 100%;
 }
 
 aside#sidebar {
-    max-width: 350px !important;
+    background: transparent;
+    padding-left:10px;
+    float: left;
+    width: 28%;
 }
 
-#main-content {
-    max-width: 900px !important;
-}
-
-#content-wrapper { max-width: 1300px !important; margin: 0 auto; }
+#content-wrapper {  margin: 0 auto; }
 
 .centered {
     width: 100%;
