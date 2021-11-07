@@ -2,7 +2,7 @@
 title: Bio
 date: 2019-01-28
 author: Krzysztof Owsiany
-layout: page
+layout: author/page
 permalink: bio
 ---
 Jako dzieciak zakochałem się w programowaniu, a było to już ponad ćwierć wieku temu.
@@ -19,7 +19,7 @@ Przeprowadziłem też kilkukrotnie warsztaty dotyczące: GIT Flow, TDD, EventSto
 
 Moja najświeższa działalność to modelowanie aplikacji z wykorzystaniem EventStorming i Event Modeling. Można śledzić te poczynania w daily vlog'u Moje 5 minut.
 
-### Aktywności:
+## Aktywności
 * Blog: [https://mrdev.pl],
 * Podcast: [https://mrdev.pl/after-conf],
 * Wystąpienia: [https://mrdev.pl/prelekcje],
@@ -30,7 +30,7 @@ Moja najświeższa działalność to modelowanie aplikacji z wykorzystaniem Even
 * MrDeVlog: [https://mrdev.pl/mrdevlog],
 * Moje 5 Minut: [https://mrdev.pl/mrdevlog_5min].
 
-### Social Media:
+## Social Media
 * Twitter: [https://twitter.com/k_owsiany]
 * Facebook: [https://www.facebook.com/mrdev.pl]
 * LinkedIn: [https://www.linkedin.com/in/krzysztof-owsiany-1a218876/]

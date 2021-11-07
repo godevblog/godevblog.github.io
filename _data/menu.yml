@@ -30,10 +30,10 @@ groups:
   - title: Kursy
     url: https://courses.mrdev.pl/courses
   - title: Biblioteczka
-    disabled: true
+    disabled: false
     url: /biblioteczka
   - title: Trzy poziomy
-    disabled: true
+    disabled: false
     urls:
       - page: Cele -  Trzy Poziomy
         url: /cele
@@ -46,7 +46,7 @@ groups:
       - page: Nagrody dla poziomu 4
         url: /nagrody-poziom-4
   - title: Autor
-    disabled: true
+    disabled: false
     urls:
       - page: O mnie
         url: /o-mnie      

@@ -1,5 +1,6 @@
-<div id="content-wrapper">
-    <div class="inner clearfix">
+<div class="container-fluid">
+    <div class="row justify-content-md-center">       
+        <div class="col col-xs-9 col-sm-9 col-md-9">
             <h1>Biblioteczka</h1>
 
             <p>Więcej na temat książek dowiesz się z mojego newslettera.</p>
@@ -17,14 +18,16 @@
 
             <h2 id="Top">Kategorie</h2>
             <div>
+                <div class="btn-group flex-wrap" role="group" aria-label="Kategorie książek">
                 {% assign books = site.data.library.books | sort: 'category' %}          
                 {% assign last_category = '' %}
                 {% for book in books %}
                     {% if last_category != book.category %}
-                        <a href="#{{ book.category }}">{{ book.category }}</a>&nbsp;|&nbsp;
+                        <a href="#{{ book.category }}" class="btn btn-primary">{{ book.category }}</a>
                     {% assign last_category = book.category %} 
                     {% endif %}
                 {% endfor %}
+            </div>
 
                 {% assign last_category = '' %}      
                 {% for book in books %}
@@ -80,4 +83,5 @@
             </div>
             {% include disqus.html %}
     </div>
+</div>
 </div>

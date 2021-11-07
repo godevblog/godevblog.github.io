@@ -2,7 +2,7 @@
 title: Liczniki
 date: 2019-01-28
 author: Krzysztof Owsiany
-layout: page
+layout: author/page
 permalink: liczniki
 ---
 

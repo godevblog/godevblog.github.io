@@ -12,8 +12,6 @@
       {% endif %}
     </li>
 
-    
-
     {% for page in (2..paginator.total_pages) %}
       {% if page == paginator.page %}
         <li class="page-item bg-primary"><strong><a class="page-link" href="{{ site.url }}/page{{ page }}">{{ page }}</a></strong></li>    

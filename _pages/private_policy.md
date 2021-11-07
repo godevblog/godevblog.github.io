@@ -2,7 +2,7 @@
 title: Polityka Prywatności
 date: 2018-01-29
 author: Krzysztof Owsiany
-layout: page
+layout: author/page
 permalink: private-policy
 ---
 # Polityka Prywatności

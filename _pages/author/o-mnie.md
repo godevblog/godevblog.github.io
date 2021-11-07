@@ -3,9 +3,9 @@ title: O mnie
 date: 2018-01-05
 author: Krzysztof Owsiany
 permalink: o-mnie
-layout: page
+layout: author/page
 ---
-![Krzysztof Owsiany][mrdev_black]
+![Krzysztof Owsiany][mrdev_black]{:.center-image}
 **Programista**{:.h-1}
 
 Mój pierwszy program powstał na **Commodore C64**{:.color_4}, była to dwu-klatkowa animacja ludzika wykonana ze znaków dostępnych z klawiatury. Napisana oczywiście w języku **BASIC**{:.color_4}, gdzieś  ok. 93r. Od tamtego czasu walcząc z przeciwnościami losu, dorastając skakałem po różnych językach i technologiach. Moja historia jest myślę, bardzo ciekawa i może być dla wielu inspirująca. Myślę, że w końcu spiszę i udostępnię.

@@ -1,12 +1,12 @@
-<div id="content-wrapper">
-  <div class="inner clearfix">
-    <section id="main-content">
-        {% for post in site.posts limit:page.limit | except:"published","false" %}
-
-      
-              {% include main-left-side.html %}
-        {% endfor %}
-    </section>
-    {% include right_sidebar.html %}
+<div class="container-fluid">
+  <div class="row justify-content-md-center">
+    <div class="col col-xs-9 col-sm-9 col-md-9">
+      {% for post in site.posts limit:page.limit | except:"published","false" %}
+      {% include main-left-side.html %} {% endfor %}
+    </div>
+    
+    <div class="col col-xs-3 col-md-3 col-sm-3">
+      {% include right_sidebar.html %}
+    </div>
   </div>
 </div>
