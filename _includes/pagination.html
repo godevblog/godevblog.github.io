@@ -11,14 +11,34 @@
         </a>
       {% endif %}
     </li>
+    
+    {% assign a1 = paginator.page | minus:3 %}
+    {% assign b1 = paginator.page | minus:1 %}
 
-    {% for page in (2..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <li class="page-item bg-primary"><strong><a class="page-link" href="{{ site.url }}/page{{ page }}">{{ page }}</a></strong></li>    
-      {% else %}
+    {% assign a2 = paginator.page | plus:1 %}
+    {% assign b2 = paginator.page | plus:3 %}
+
+    {% if b1 > paginator.total_pages %}
+      {% assign b1 = paginator.total_pages %}
+    {% endif %}
+
+    {% if b2 > paginator.total_pages %}
+      {% assign b2 = paginator.total_pages %}
+    {% endif %}
+
+    {% if b1 >= a1 %}
+      {% for page in (a1..b1) %}
+          <li class="page-item"><a class="page-link" href="{{ site.url }}/page{{ page }}">{{ page }}</a></li>    
+      {% endfor %}
+    {% endif %}
+    
+    <li>&nbsp;&nbsp;</li>
+
+    {% if b2 >= a2 %}
+      {% for page in (a2..b2) %}
         <li class="page-item"><a class="page-link" href="{{ site.url }}/page{{ page }}">{{ page }}</a></li>    
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
 
     {% if paginator.next_page %}
       <li class="page-item">

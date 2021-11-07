@@ -1,2 +1,2 @@
 #!/bin/bash
-bundler exec jekyll s --port 9000 --trace
+bundler exec jekyll s --port 9000

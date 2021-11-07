@@ -1,15 +1,19 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light mb-5 mt-5">
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
         {% for item in site.data.menu.groups %}
             {% if item.disabled == true %}
             {% else %}
                 <ul class="navbar-nav">
                     {% if item.urls != nil %}
                     <li class="nav-item dropdown">
-                        <a class="navbar-brand dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarNavMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             {{ item.title }}
                         </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <div class="dropdown-menu" aria-labelledby="navbarNavMenuLink">
                             {% for entry in item.urls %}
                                 {% if entry.disabled == true %}
                                 {% else %}
@@ -20,7 +24,7 @@
                     </li>
                     {% else %}
                     <li class="nav-item">
-                        <a class="navbar-brand" href="{{ item.url }}">{{ item.title }}</a>
+                        <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
                     </li>
                     {% endif %}
                 </ul>
