@@ -28,10 +28,12 @@ groups:
       - page: MrDeVlog - Moje 5 minut
         url: /mrdevlog_5min
   - title: Kursy
-    url: https://courses.mrdev.pl/courses 
+    url: https://courses.mrdev.pl/courses
   - title: Biblioteczka
+    disabled: true
     url: /biblioteczka
   - title: Trzy poziomy
+    disabled: true
     urls:
       - page: Cele -  Trzy Poziomy
         url: /cele
@@ -44,6 +46,7 @@ groups:
       - page: Nagrody dla poziomu 4
         url: /nagrody-poziom-4
   - title: Autor
+    disabled: true
     urls:
       - page: O mnie
         url: /o-mnie      

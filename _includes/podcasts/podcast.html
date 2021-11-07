@@ -1,6 +1,6 @@
-<div id="content-wrapper">
-    <div class="inner clearfix">
-      <section id="main-content">
+<div class="container-fluid">
+  <div class="row justify-content-md-center">       
+      <div class="col col-xs-9 col-sm-9 col-md-9">
           <h1>{{ page.title }}</h1>
 
           <span>{{ content }}</span>
@@ -8,12 +8,36 @@
           <hr/>
           
           {% assign podcasts = site.posts | where:"categories", page.podcast %}
+          {% assign pcount = 0  %} 
           {% for post in podcasts %}
-                {% include main-left-side.html %}
-          {% endfor %}
-          
-        {% include subscribe_form_minimal.html %}
-      </section>
-      {% include right_sidebar.html %}
-    </div>
+            {% if pcount == 0 %}
+            <div class="row">
+              <div class="card-group">
+          {% endif %}
+
+          {% include main-post.html %}
+                    
+          {% assign pcount = pcount|plus:1 %}
+
+          {% if pcount >= site.post_in_row %}
+              </div>      
+            </div>
+            {% assign pcount = 0 %}
+          {% endif %}
+        {% endfor %}
+
+        {% if pcount < site.post_in_row and pcount > 0 %}
+        {% assign missingposts = site.post_in_row|minus:pcount %}
+        {% for i in (1..missingposts) %}
+          <div class="card m-1">
+          </div>      
+        {% endfor %}     
+        </div>
+      </div>  
+    {% endif %}
+
   </div>
+  <div class="col col-xs-3 col-md-3 col-sm-3">
+    {% include right_sidebar.html %}
+  </div>
+</div>

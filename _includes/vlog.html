@@ -1,12 +1,37 @@
-<div id="content-wrapper">
-    <div class="inner clearfix">
-      <section id="main-content">
-          {% for post in site.posts | except:"published","false" %}
-            {% if post.categories contains page.vlog %}
-                {% include main-left-side.html %}
-            {% endif %}
-          {% endfor %}
-      </section>
-      {% include right_sidebar.html %}
-    </div>
+<div class="container-fluid">
+  <div class="row justify-content-md-center">
+      <div class="col col-xs-9 col-sm-9 col-md-9">
+          {% assign pcount = 0  %} 
+          {% assign podcasts = site.posts | where:"categories", page.vlog | except:"published","false" %}
+          {% for post in podcasts %}
+            {% if pcount == 0 %}
+            <div class="row">
+              <div class="card-group">
+          {% endif %}
+
+          {% include main-post.html %}
+                    
+          {% assign pcount = pcount|plus:1 %}
+
+          {% if pcount >= site.post_in_row %}
+              </div>      
+            </div>
+            {% assign pcount = 0 %}
+          {% endif %}
+        {% endfor %}
+
+        {% if pcount < site.post_in_row and pcount > 0 %}
+        {% assign missingposts = site.post_in_row|minus:pcount %}
+        {% for i in (1..missingposts) %}
+          <div class="card m-1">
+          </div>      
+        {% endfor %}     
+        </div>
+      </div>  
+    {% endif %}
+
   </div>
+  <div class="col col-xs-3 col-md-3 col-sm-3">
+    {% include right_sidebar.html %}
+  </div>
+</div>

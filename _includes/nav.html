@@ -1,21 +1,30 @@
-<nav>
-    <ul class="nav">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
         {% for item in site.data.menu.groups %}
-            {% if item.urls != nil %}
-                <li class="dropdown">
-                    <a href="javascript:void(0)" class="dropbtn">{{ item.title }}</a>
-                    <div class="dropdown-content">
-                        {% for entry in item.urls %}
-                            <a href="{{ entry.url }}">{{ entry.page }}</a>
-                        {% endfor %}
-                    </div>
-                </li>
+            {% if item.disabled == true %}
             {% else %}
-                <li class="nav">
-                    <a href="{{ item.url }}">{{ item.title }}</a>
-                </li>
+                <ul class="navbar-nav">
+                    {% if item.urls != nil %}
+                    <li class="nav-item dropdown">
+                        <a class="navbar-brand dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            {{ item.title }}
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            {% for entry in item.urls %}
+                                {% if entry.disabled == true %}
+                                {% else %}
+                                    <a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {% else %}
+                    <li class="nav-item">
+                        <a class="navbar-brand" href="{{ item.url }}">{{ item.title }}</a>
+                    </li>
+                    {% endif %}
+                </ul>
             {% endif %}
         {% endfor %}
-    </ul>
+    </div>
 </nav>
-   

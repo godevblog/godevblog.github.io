@@ -1,7 +1,19 @@
-<div id="content-wrapper">
-    <div class="inner clearfix">
-        <section id="main-content">
-            {{ content }}
-        </section>
+<div class="container-fluid">
+    <div class="row justify-content-md-center">
+      <div class="col col-xs-2 col-sm-2 col-md-2">
+      </div>
+      <div class="col col-xs-7 col-sm-7 col-md-7">
+        <div class="row text-justify">
+          {{ content }} 
+        </div>
+        <div class="row">
+          {% include disqus.html %}
+        </div>
+      </div>
+  
+      <div class="col col-xs-3 col-md-3 col-sm-3">
+        {% include right_sidebar.html %}
+      </div>
     </div>
-</div>
+  </div>
+  
