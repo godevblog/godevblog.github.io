@@ -1,27 +1,43 @@
-<div id="content-wrapper">
-    <div class="inner clearfix">
-      {% include left_sidebar.html %}
-      <section id="main-content">
-        {% assign vlogs = site.data.my5minutes[page.permalink] %}
+<div class="container-fluid">
+  <div class="row justify-content-md-center">       
+    <div class="col col-xs-2 col-sm-2 col-md-2">
+    </div>
+
+    <div class="col col-xs-7 col-sm-7 col-md-7">
+      {% assign vlogs = site.data.my5minutes[page.permalink] %}
+      <div class="row">
         <h1>{{ vlogs.title }}</h1>
-  
         {{ content }} 
-        
         {% include posts/my5minutes/miro.html %}
-        
-        {% for episode in vlogs.episodes %}
+      </div>
+
+      {% for episode in vlogs.episodes %}
+        <div class="row m-2">
             <h3>Moje 5 minut - {{ episode.title }}</h3>
+            <br/>
             <embed class="youtube_5min" src="https://www.youtube.com/embed/{{episode.youtube}}"/>
-        {% endfor %}
-
+        </div>
+      {% endfor %}
+      
+      <div class="row">
         {% include promotions/szkolaeventstormingu-inside-post.html %}
+      </div>
 
-        <!--{% include posts/my5minutes/preface.html %}-->
+      <!--{% include posts/my5minutes/preface.html %}-->
 
-        {% include subscribe_form_centered.html %}
-  
+      <div class="row text-justify">
+        {% include subscribe_form_centered.html %} 
+      </div>
+
+      <div class="row">
         {% include disqus.html %}
-      </section>
+      </div>
+    </div>
+
+    <div class="col col-xs-3 col-md-3 col-sm-3">
       {% include right_sidebar.html %}
     </div>
-  </div> 
+
+  </div>
+</div>
+  

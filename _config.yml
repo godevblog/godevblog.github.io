@@ -49,6 +49,12 @@ google_tag_manager: GTM-WNPRZT9
 disqus: mrdev
 
 highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM #Github Flavored Markdown
+  hard_wrap: false  
+  syntax_highlighter: rouge
 
 linenos: true
 
@@ -57,3 +63,7 @@ highlight:
 
 highlight_options:
   linenos: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
