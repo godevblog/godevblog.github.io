@@ -16,6 +16,17 @@
     padding: 10px;
 }
 
+
+.post-center-image {
+    width: 100%;
+  }
+
+  @media (min-width: 1280px) {
+    .post-center-image {
+        width: 50%;
+    }
+  }
+
 .center-image {
     display: block;
     margin: 0 auto;
