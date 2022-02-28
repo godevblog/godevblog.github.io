@@ -22,8 +22,10 @@ np.:
 - [Siepomaga - Polska Akcja Humanitarna - Ukraina](https://www.siepomaga.pl/pah-ukraina)
 - [NBU - wsparcie wojska](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
 - znasz inne, daj znać w komentarzu.
-  
-## Co dalej?
+
+Ja nadam Ci dostęp do wybranego kursu.
+
+## Jak to zrobić?
 1. Wybierz kurs.
 2. Przelej 500 PLN na wybraną formę wsparcia Ukrainy.
 3. Prześlij mi e-maila na [krzysztof@mrdev.pl](mailto:krzysztof@mrdev.pl?subject=Pomoc Ukrainie) zawierającego potwierdzenie takiej transakcji. Czy to z banku, czy z platformy.
@@ -56,6 +58,7 @@ PS:
   * Narzędzia dla prowadzących online i offline.
   * Rozszerzenia do BigPicture.
   * 14 modułów w programie.
+  * Obecnie kurs jest w trakcie nagrywania - nie jest jeszcze ukończony.
 
 [post]: /assets/images/2022/02/pomoc-ukrainie/post.png
 [post-big]: /assets/images/2022/02/pomoc-ukrainie/post-big.png
