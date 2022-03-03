@@ -21,6 +21,7 @@ np.:
 - [Siepomaga - Ukraina](https://www.siepomaga.pl/ukraina?fbclid=IwAR0WHHNOBuC-jnW-vniBE1vmEh-mgS31dsj2cpO2VMGkl0yAg5SMjvB6IvY)
 - [Siepomaga - Polska Akcja Humanitarna - Ukraina](https://www.siepomaga.pl/pah-ukraina)
 - [NBU - wsparcie wojska](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+- [Pomoc dla obrońców Lwowa i Sambora!](https://zrzutka.pl/pomoc-dla-obroncow-lwowa-i-sambora)
 - znasz inne, daj znać w komentarzu.
 
 Ja nadam Ci dostęp do wybranego kursu.
