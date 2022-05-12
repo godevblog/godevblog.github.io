@@ -93,36 +93,8 @@ div.disqus {
     margin: 0;
 }
 
-.h1 {
-    display:inline-block;
-    padding-bottom: 2pt;
-}
 
-.h2 {
-    display:inline-block;
-    padding-bottom: 2pt;
-}
-
-.h3 {
-    display:inline-block;
-}
-
-.h4 {
-    display:inline-block;
-}
-
-.h5 {
-    display:inline-block;
-}
-
-.h6 {
-    display:inline-block;
-}
-
-p {
-    font-size:x-large;
-}
-
+@import 'posts';
 @import 'images';
 @import 'highlights';
 @import 'eventstorming';
