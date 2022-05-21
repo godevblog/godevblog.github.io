@@ -15,7 +15,8 @@ tags:
   - Zawód programista
 short: 'Autora książki mam przyjemność znać osobiście. I w moim przypadku to wystarczyło do zakupu książki Zawód: Programista. Byłem pewny, że będzie zawierała w sobie wiele wartościowych informacji. Po przeczytaniu nie zawiodłem się i jestem zadowolony z zakupu.'
 ---
-[![Zawód: Programista - Maciej Aniserowicz.][post]][post-big]{:.post-left-image}
+[![Zawód: Programista - Maciej Aniserowicz.][post]{:.post-left-image}][post-big]
+
 **[Autora]** książki mam przyjemność znać osobiście. I w moim przypadku to wystarczyło do zakupu książki **[Zawód: Programista]**. Byłem pewny, że będzie zawierała w sobie wiele wartościowych informacji.
 Po przeczytaniu nie zawiodłem się i jestem zadowolony z zakupu. 
 

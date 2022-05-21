@@ -16,7 +16,8 @@ categories:
   - Koderek
 short: <b class='event-color'>Event</b><b class='command-color'>Storming</b> jak bardzo jest prostą techniką. Udało mi się przeprowadzić warsztat-eksperyment na konferencji Koderek 1 czerwca 2019 w Warszawie. W ten dzień dziecka prowadziliśmy warsztat planowania bazując na <b class='event-color'>Event</b><b class='command-color'>Storming</b>'u.
 ---
-![EventStorming - to proste][post-big]
+![EventStorming - to proste][post-big]{:.post-left-image}
+
 Nie tak dawno temu **1 czerwca** wraz z żoną miałem możliwość uczestnictwa w konferencji **[Koderek](https://koderek.edu.pl/)**.
 
 Wystąpiliśmy wspólnie jako trenerzy. Przeprowadzając dwa warsztaty dla dzieciaków. :D

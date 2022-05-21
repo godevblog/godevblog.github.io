@@ -24,7 +24,8 @@ short: Chwilami rozmyślałem na temat projektu, jaki chciałbym zmaltretować. 
 {% include posts/ddd/preface.md %}
 
 ## Wstęp
-[![Domain-Driven Design][post]][post-big]{:.post-left-image}
+[![Domain-Driven Design][post]{:.post-left-image}][post-big]
+
 Długo tutaj mnie nie było, wiele się działo, zmiana pracy, konferencje, wyjazdy. Blog-abstynencja.
 
 Liznąwszy nieco wiedzy na temat **[Domain-Driven Design][ddd]**, pora wrzucić jakiegoś kota do wora:

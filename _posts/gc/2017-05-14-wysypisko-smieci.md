@@ -20,7 +20,7 @@ short: Nasz wspaniały język C#, znosi z nas prawie pełną odpowiedzialność 
 ---
 {% include posts/gc/preface.md %}
 
-[![Garbage Collector][post]][post-big]{:.post-left-image}
+[![Garbage Collector][post]{:.post-left-image}][post-big]
  
 Nasz wspaniały język C#, znosi z nas prawie pełną odpowiedzialność za sprzątanie po sobie.
 

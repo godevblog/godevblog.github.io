@@ -24,7 +24,8 @@ short: Odwiecznym problemem jaki napotykają na swojej drodze dwie ścierające 
 {% include posts/ddd/preface.md %}
 
 ## Wstęp
-[![Domain-Driven Design][post]][post-big]{:.post-left-image}
+[![Domain-Driven Design][post]{:.post-right-image}][post-big]
+
 Odwiecznym problemem jaki napotykają na swojej drodze dwie ścierające się siły: zlecający i wykonawca, jest wzajemna komunikacji i zrozumienie. Problem narasta gdy obie persony obracają się w odseparowanych środowiskach. Przykładem takiej sytuacji jest klient (**Ekspert Domenowy**, eng. **Domain Expert**) definiujący wymagania aplikacji i wykonawca (np.: zespół programistów, programista).
 
 Dobrym przykładem takiej sytuacji jest często komunikacja pomiędzy kobietą i mężczyzną wprowadzająca zamęt, poprzez niejednoznaczne rozumienie wypowiadanych słów.

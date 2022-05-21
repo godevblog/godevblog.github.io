@@ -18,7 +18,8 @@ short: Niniejszym otwieram cykl postów związanych z rozkminianiem architektury
 {% include posts/ddd/preface.md %}
 
 ## Wstęp
-[![Domain-Driven Design][post]][post-big]{:.post-right-image}
+[![Domain-Driven Design][post]{:.post-right-image}][post-big]
+
 Niniejszym otwieram cykl postów związanych z rozkminianiem architektury wytwarzania oprogramowania o nazwie **DDD => Domain-Driven Design**. Jest to temat jaki od pewnego czasu dręczy mnie, i chcę rozwinąć swoje zdolności w tym konkretnym obszarze.
 
 W tym celu zaopatrzyłem się w dwie pozycje:

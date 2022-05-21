@@ -21,7 +21,8 @@ short: Poprawne modelowanie dziedziny skutkuje bezwzględnym wymaganiem dotyczą
 {% include posts/ddd/preface.md %}
 
 ## Wstęp
-[![loose-coupling][post]][post-big]{:.post-left-image}
+[![Domain-Driven Design][post]{:.post-right-image}][post-big]
+
 Poprawne modelowanie dziedziny skutkuje bezwzględnym wymaganiem dotyczą jej izolacji od reszty systemu. Z pomocą przychodzi architektura warstwowa wyodrębniająca z aplikacji spójne ze sobą pod względem działania obszary. Zebrane w ten sposób funkcjonalności są składowymi warstw. Przy czym bazowy zestaw warstw został zdefiniowany i zawiera:
 
 * **interfejsu Użytkownika** (ang. **User Interface**) - warstwa ta odpowiedzialna jest za kontakt ze światem zewnętrznym. Służy obsłudze funkcjonalności aplikacji przez użytkownika. Oczywiście warstwa ta może także być w formie **API** (**Application Programming Interface**). Czyli usługi udostępnionej innym aplikacjom, Np. **WebSerwisy**, **WebSockety**. Warstwa **Interfejsu  Użytkownika** korzysta z publicznych interfejsów upublicznionych w warstwach niższego rzędu.    

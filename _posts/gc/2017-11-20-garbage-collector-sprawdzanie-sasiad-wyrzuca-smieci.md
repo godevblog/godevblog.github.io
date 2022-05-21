@@ -23,7 +23,8 @@ short: Garbage Collector ma zaimplementowaną pewną funkcjonalność. Daje nam 
 ---
 {% include posts/gc/preface.md %}
 
-[![Dispose][post]][post-big]{:.post-left-image}
+[![Dispose][post]{:.post-left-image}][post-big]
+
 **Garbage Collector** ma zaimplementowaną pewną funkcjonalność. Daje nam ona kontrolę nad procesem niszczenia obiektów. Jako że do zarządzania pamięcią wykorzystywany jest specjalny agent i nie musimy się martwić o niszczenie obiektów. Tym samym nie wiemy, kiedy to nastąpi.
 
 

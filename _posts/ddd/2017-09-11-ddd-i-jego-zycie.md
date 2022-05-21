@@ -25,7 +25,8 @@ short: Domain-Driven Design charakteryzuje komponenty wykorzystywane przy budowi
 
 ## Wstęp
 
-[![Domain-Driven Design][post]][post-big]{:.post-left-image}
+[![Domain-Driven Design][post]{:.post-left-image}][post-big]
+
 Domain-Driven Design charakteryzuje komponenty wykorzystywane przy budowie złożonych modelów dziedziny (ang. **Domain Model**).
 
 Jednak owe komponenty wchodzą w skład większego bytu, posiadają swój cykl życia.

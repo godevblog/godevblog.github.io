@@ -16,7 +16,7 @@ categories:
   - BigPicture
 short: Najczęściej by przeprowadzić warsztat <b class='event-color'>Event</b><b class='command-color'>Storming'u</b> wystarczy jego częściowa wiedza. Mam tutaj dla ciebie 5 kroków do wyznaczenia i przeprowadzenia strategicznej części <b class='event-color'>Event</b><b class='command-color'>Storming'u</b> o nazwie <b>BigPicture</b>.
 ---
-![EventStorming - 5 kroków do celu][post-big]
+![EventStorming - 5 kroków do celu][post-big]{:.post-left-image}
 
 Wszędzie się słyszy **Event**{:.event-color} **Storming**{:.command-color}, **Event**{:.event-color} **Storming**{:.command-color}, ale jak do tego podejść? Gdzie co kleić? Co pisać?
 No cóż, nie ma lekko. Dlatego zapraszam do 5 kroków, jakie musisz wykonać, by osiągnąć cel, jaki sobie obierzesz na tapetę w trakcie sesji **Event**{:.event-color} **Storming'u**{:.command-color}.

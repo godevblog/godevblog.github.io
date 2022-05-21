@@ -33,7 +33,8 @@ short: Do budowy Modelu Dziedziny (ang. Domain Model), wykorzystujemy kilka baz
 Do budowy **Modelu Dziedziny** (ang. **Domain Model**), wykorzystujemy kilka bazowych składowych powiązanych ze sobą relacjami.
     
 ## Asocjacje (ang. associations)
-[![Asocjacje (ang. associations)][post]][post-big]{:.post-left-image}
+[![Asocjacje (ang. associations)][post]{:.post-left-image}][post-big]
+
 Asocjacja to swoista abstrakcja stanowiąca o związku pomiędzy bytami wchodzącymi w skład **Modelu Dziedziny** (ang. **Domain Model**), jaką twórca uznał za odpowiednią.
 
 O czym należy pamiętać tworząc asocjacje:

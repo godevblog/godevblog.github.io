@@ -16,7 +16,9 @@ tags:
 short: Ostatnimi czasy natknąłem się w internetach na model pracy z repozytorium GIT wykreowany przez http://nvie.com Vincenta Driessena. Jego podejście sugeruje by trzymać się dwóch głównych gałęzi o nazwach master i jej podgałęzi rozwojowej develop.
 ---
 ## Model pracy z GITem od Vincenta Driessena
-[![Model pracy z GITem od Vincenta Driessena][image1]][image1-big]{:.post-right-image}
+
+[![Model pracy z GITem od Vincenta Driessena][image1]{:.post-right-image}][image1-big]
+
 Ostatnimi czasy natknąłem się w internetach na model pracy z repozytorium GIT wykreowany przez **[Vincenta Driessena](http://nvie.com)**. Jego podejście sugeruje by trzymać się dwóch głównych gałęzi o nazwach **master** i jej podgałęzi rozwojowej **develop**.
 
 Gałąź master odzwierciedla docelowy kod programu jaki znajduje się na produkcji z niej wyciągane są podgałęzie w przypadku wymagania poprawek jest to warstwa gałęzi **hotfix branches**.

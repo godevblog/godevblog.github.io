@@ -24,7 +24,7 @@ System miał obsługiwać sporą bazę pracowników oraz klientów w całej Pols
 Pomyślisz sobie. Pewnie był skomplikowany. I słusznie był...
 W takiej sytuacji dobrze by było posiadać skondensowaną wiedzę w postaci narysowanego diagramu. Komponentów systemu było wiele.
 
-[![Odręcznie rysowana warstwa modelu Model C4.][c4draw]][c4draw-big]{:.post-center-image}
+[![Odręcznie rysowana warstwa modelu Model C4.][c4draw]{:.post-center-image}][c4draw-big]
 
 Jak się okazało, taki model architektury istniał. Jednak to, w jaki sposób został sporządzony i jakie informacje zawierał - pozostawiało wiele do życzenia. Powiem inaczej. Więcej to wprowadzało niezrozumienia, zamieszania niż wartości.
 Diagram był narysowany jak przez dziecko w przedszkolu. Zapewne o średnich zdolnościach artystycznych.
