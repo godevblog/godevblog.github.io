@@ -1,0 +1,15 @@
+eventmodeling:
+  title: EventModeling
+  url: /assets/images/tag_images/em.png
+
+eventstorming:
+  title: EventStorming
+  url: /assets/images/tag_images/es.png
+
+c4:
+  title: Model C4
+  url: /assets/images/tag_images/c4.png
+
+after.conf:
+  title: After.conf
+  url: /assets/images/tag_images/after.conf.png
