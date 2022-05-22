@@ -14,7 +14,7 @@ categories:
   - EventStorming
 short: Coraz szerzej, więcej słyszymy o <b class='event-color'>Event</b><b class='command-color'>Storming</b>-u. Czym tak naprawdę jest ta technika? W dzisiejszym poście postaram się odpowiedzieć na to pytanie. Chciałbym też byście otworzyli umysł i zauroczyli się tą techniką. Gdyż jest bardzo wartościowa!! Zapraszam do świata zdarzeń.
 ---
-![EventStorming - co to takiego?!][post-big]{:.post-left-image}
+![EventStorming - co to takiego?!][post-big]{:.post-center-image}
 
 Człowiek zazwyczaj boryka się wieloma problemami. Ciągły rozwój technologiczny wymusza na naszym gatunku równoległy rozwój intelektualny. Tworzymy coraz to bardziej zaawansowane urządzenia/oprogramowanie. Wymyślamy sposoby budowania jak najbardziej odzwierciedlające  istotę problemu. 
 
