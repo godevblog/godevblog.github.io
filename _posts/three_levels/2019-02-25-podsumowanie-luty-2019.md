@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Luty nie wypadł za dobrze, plan legł w gruzach. Brakło sił by podnieść się z kolan. Pomimo tego faktu udało się pewne zadania doprowadzić do końca. Niemniej jednak nie jestem zadowolony z przebiegu tego miesiąca...
 ---
-![Podsumowanie Trzy Poziomy - luty 2019][post-big]
+![Podsumowanie Trzy Poziomy - luty 2019][post-big]{:.post-left-image}
 
 {% include posts/three_levels/head.md %}
 

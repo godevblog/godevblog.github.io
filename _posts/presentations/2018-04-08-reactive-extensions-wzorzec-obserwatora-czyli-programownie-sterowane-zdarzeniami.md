@@ -17,7 +17,7 @@ categories:
   - Prezentacja
 short: Materiały do prezentacji na temat <b>Reactive Extensions</b> oraz programowania sterowanego zdarzeniami. Wzorzec obserwatora. Podstawowe informacje. Idea działania.
 ---
-![Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.!][post-big]
+![Reactive Extensions - wzorzec obserwatora, czyli programowanie sterowane zdarzeniami.!][post-big]{:.post-center-image}
 
 Witaj
 Oto materiały do mojej prezentacji.

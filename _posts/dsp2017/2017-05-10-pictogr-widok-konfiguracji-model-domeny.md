@@ -22,7 +22,7 @@ Ważnym elementem PictOgr-a jest konfiguracja, w niej właśnie będzie definiow
 * nazwa pliku,
 * podstawowe znaki jak: -, _, / i inne jakie dojdą w trakcie.
     
-[![Widok konfiguracji][pictogr-config]][pictogr-config-big]{:.post-center-image}
+[![Widok konfiguracji][pictogr-config]{:.post-center-image}][pictogr-config-big]
 
 Widok dość prosty, zawiera zakładkę &#8222;Formats&#8221;, w której to będzie posortowana według kolejności dodawania lista modułów nazw z lewej strony natomiast z prawej pogrupowane moduły nazw z jakich będzie można zdefiniować nazwę i lokalizację pliku.
 

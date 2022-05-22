@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: To już moje piąte podsumowanie. Jak ten czas leci. Niedługo planowanie roku. Przewiduję pewne rewolucje w celach. Ale puki co zapraszam do podsumowania października.
 ---
-![Podsumowanie Trzy Poziomy - październik 2018][post-big]
+![Podsumowanie Trzy Poziomy - październik 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

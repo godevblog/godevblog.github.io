@@ -22,7 +22,7 @@ categories:
   - DesignLevel
 short: Prezentacja dotyczy bardzo popularnego ostatnio modelowania procesów/domen przy pomocy karteczek samoprzylepnych. W trakcie prelekcji przedstawiam czym jest <b>EventStorming</b> oraz <b>Event Modeling</b>. Uczestnicy będą mieli okazje na żywo zobaczyć EventStorming w trakcie szybkiej eksploracji z wykorzystaniem realnych narzędzi i board'a.
 ---
-![Wszechświat pełen zdarzeń.][post-big]
+![Wszechświat pełen zdarzeń.][post-big]{:.post-center-image}
 
 Wszędzie są zdarzenia, reagujemy na nie, reagują na nie budowane przez Nas systemy. 
 Jak wykorzystać zdarzenia do odkrywania wiedzy, procesów biznesowych.

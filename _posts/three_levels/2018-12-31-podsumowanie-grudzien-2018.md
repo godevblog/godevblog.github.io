@@ -18,7 +18,7 @@ categories:
 short: Ostatni miesiąc 2018 roku przyniósł Mi osiągnięcie kilku pierwszych poziomów. Z czytaniem nawet zaszedłem dalej i udało mi się w czasie świąt zamknąć temat czytania 12 książek. Poprawka przeczytałem 13 i postanowiłem 14 pożreć w kilka ostatnich dni.
 
 ---
-![Podsumowanie Trzy Poziomy - grudzień 2018][post-big]
+![Podsumowanie Trzy Poziomy - grudzień 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

@@ -17,7 +17,7 @@ categories:
   - EventStorming
 short: To moja nowa prezentacja na temat <b>EventStormingu</b>. Przedstawiam w niej podstawy i elementy składowe tego narzędzia. Jak korzystać także zdalnie i samodzielnie. Zapraszam do kosmicznego świata.
 ---
-![Świat pełen zdarzeń - EventStorming.][post-big]
+![Świat pełen zdarzeń - EventStorming.][post-big]{:.post-center-image}
 
 Prezentacja dotyczy **[EventStormingu]** z wykorzystaniem wielu zdjęć starałem się przedstawić jak rozumiem [EventStorming], gdzie go można wykorzystać.
 Przede wszystkim jak używać oraz z jakich komponentów się składa.

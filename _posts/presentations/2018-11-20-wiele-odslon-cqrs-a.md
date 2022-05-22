@@ -15,7 +15,7 @@ categories:
   - Prezentacja
 short: Zapraszam na moją kolejną prezentacje. Tym razem opowiadam o CQRS-ie, CQS-ie. Wielu bibliotekach powiązanych z CQRS-em dla różnych języków programowania. Jak zbudowany jest dlaczego warto go stosować. 
 ---
-![Wiele odsłon CQRS-a.!][post-big]
+![Wiele odsłon CQRS-a.!][post-big]{:.post-center-image}
 
 Witaj tutaj slajdy z mojej prezentacji na 4Developers Wrocław dotyczącej CQRS-a.
 

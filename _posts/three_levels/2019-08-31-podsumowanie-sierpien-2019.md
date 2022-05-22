@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Ten miesiąc to praktycznie cały poza domem. Podkarpacie, Wielkopolska, Podlasie, Pomorze. Bardzo intensywny w obszarze jeżdżenia samochodem. Odwiedziłem wielu znajomych oczywiście w raz z żoną. Zaliczona pętla bieszczadzka samochodem :).
 ---
-![Podsumowanie Trzy Poziomy - sierpień 2019][post-big]
+![Podsumowanie Trzy Poziomy - sierpień 2019][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

@@ -16,7 +16,7 @@ categories:
   - Podsumowanie
 short: Oto stanąłem kolejny raz przed wyzwaniem podsumowania poczynań w sferze Trzech Poziomów. Zapraszam do wglądu w to co mi się udało a co nie.
 ---
-![Podsumowanie Trzy Poziomy - lipiec 2018][post-big]
+![Podsumowanie Trzy Poziomy - lipiec 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

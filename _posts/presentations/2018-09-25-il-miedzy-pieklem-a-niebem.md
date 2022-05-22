@@ -15,7 +15,7 @@ categories:
   - Prezentacja
 short: Oto i moje kolejna prezentacja. Tym razem dotycząca języka IL i ogólnie działania całego .NET-u. Zawiera wiele moich rysunków;). Premiera prezentacji miała miejsce na konferencji 4Developer Gdańsk 2018.
 ---
-![IL - między piekłem a niebem.!][post-big]
+![IL - między piekłem a niebem.!][post-big]{:.post-center-image}
 
 Witaj
 

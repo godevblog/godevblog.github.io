@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Kolejny miesiąc w mojej ocenie słaby. Całkiem upadł nawyk korzystania z Todoist-a. To mnie najbardziej boli :(. Zamierzam w maju powrócić do korzystania i planowania.
 ---
-![Podsumowanie Trzy Poziomy - kwiecień 2019][post-big]
+![Podsumowanie Trzy Poziomy - kwiecień 2019][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

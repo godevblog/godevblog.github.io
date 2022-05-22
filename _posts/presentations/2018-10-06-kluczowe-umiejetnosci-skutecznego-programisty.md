@@ -14,7 +14,7 @@ categories:
   - Prezentacja
 short: Materiały do prezentacji. Przedstawienie najważniejszych umiejętności jakie powinien posiadać skuteczny programista. Wiele buzzwordów. Uniwersalna tematyka nie zależna od orientacji językowej. Co warto było by wiedzieć by być odbieranym jako specjalista w sferze kreowania kodu.
 ---
-![Kluczowe umiejętności skutecznego programisty!][post-big]
+![Kluczowe umiejętności skutecznego programisty!][post-big]{:.post-center-image}
 
 Witaj
 Oto materiały do mojej prezentacji.

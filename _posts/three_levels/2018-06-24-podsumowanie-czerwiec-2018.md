@@ -16,7 +16,7 @@ categories:
   - Podsumowanie
 short: Oto i moje pierwsze podsumowanie w ramach osiągania celów w programie Trzy Poziomy. Jestem bardzo zadowolony z uczestnictwa w szkoleniu. Już widzę duże zmiany w moim dotychczasowym działaniu. Zdecydowanie to nie ostatnia moja retrospektywa...
 ---
-![Podsumowanie Trzy Poziomy - czerwiec 2018][post-big]
+![Podsumowanie Trzy Poziomy - czerwiec 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

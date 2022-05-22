@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Wrzesień to miesiąc wyjazdów, i konferencji. Ciężkiej pracy w dużej mierze nie zaplanowanej w trzech poziomach. Wynikło to w trakcie miesiąca. Dużo pracy ale widać zajawki efektów takiego działania. Fakt nie osiągam celów, jednak to wynika z agresywnych celów. Ale myślę, że do końca roku przynajmniej 2 pierwsze poziomy pękną. :D
 ---
-![Podsumowanie Trzy Poziomy - wrzesień 2018][post-big]
+![Podsumowanie Trzy Poziomy - wrzesień 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

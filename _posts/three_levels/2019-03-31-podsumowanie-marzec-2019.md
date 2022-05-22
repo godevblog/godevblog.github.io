@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Marzec ponownie słabo, nie mogę się pozbierać. Popycham tylko kilka tematów regularnie do przodu. Za dużo tematów na głowie powoduje blokadę realizacji. Prawdopodobnie muszę zaktualizować cele/terminy.
 ---
-![Podsumowanie Trzy Poziomy - marzec 2019][post-big]
+![Podsumowanie Trzy Poziomy - marzec 2019][post-big]{:.post-left-image}
 
 {% include posts/three_levels/head.md %}
 

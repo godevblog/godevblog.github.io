@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: I nadszedł nowy rok, a w raz z nim zmiany celów. Pierwszy miesiąc 2019 roku wypadł bardzo intensywnie. Pomimo tego nie udało się doprowadzić do realizacji części celów. Odebrałem też nagrodę za pierwszy poziom:).
 ---
-![Podsumowanie Trzy Poziomy - styczeń 2019][post-big]
+![Podsumowanie Trzy Poziomy - styczeń 2019][post-big]{:.post-left-image}
 
 {% include posts/three_levels/head.md %}
 

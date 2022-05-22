@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Sierpień, był dla mnie interesującym miesiącem. Szczególnie pod względem wypoczynkowo-objazdowym. Niestety to negatywnie wpłynęło na realizację celów. Był to miesiąc pewnych prób, analiz, wniosków. Pojawiły się też nowe ciekawe pomysły.
 ---
-![Podsumowanie Trzy Poziomy - sierpień 2018][post-big]
+![Podsumowanie Trzy Poziomy - sierpień 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

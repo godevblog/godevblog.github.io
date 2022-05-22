@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: SzkolaEventStormingu.pl wystartowała. Zakupiłem samochód. By mieć czym jeździć :D. Prace nad After.conf i DDDFreak trwają. Jest zmiana na lepsze. Więcej pracuję z Todoistem. Ten miesiąc był dobry...
 ---
-![Podsumowanie Trzy Poziomy - czerwiec 2019][post-big]
+![Podsumowanie Trzy Poziomy - czerwiec 2019][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

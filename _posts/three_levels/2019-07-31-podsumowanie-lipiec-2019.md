@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: W lipcu postanowiłem złamać jeden z celi dotyczący robienia zdjęć i tak się stało. Był to też miesiąc odpoczynku i zwiedzania jednej z wysp kanaryjskich. Małego kontynentu (Gran Canaria). Wiele wspomnień, pamiątek i ponad 1.5 tyś zdjęć.
 ---
-![Podsumowanie Trzy Poziomy - lipiec 2019][post-big]
+![Podsumowanie Trzy Poziomy - lipiec 2019][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

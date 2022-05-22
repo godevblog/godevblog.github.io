@@ -13,7 +13,7 @@ tags:
   - Pomoc 
 short: Dołączam się do pomocy. Możesz uzyskać dostęp do mojego kursu wpłacając minimum 500 PLN na akcję wsparcia Ukrainy. Po opłaceniu ja nadam Ci dostęp do mojego kursu.
 ---
-![Pomoc Ukrainie][post-big]{:.center_big}
+![Pomoc Ukrainie][post-big]{:.post-center-image}
 
 ## Jak możesz pomóc?
 Wpłać minimum 500 PLN na wybraną akcję wspierającą Ukrainę w obecnej sytuacji.

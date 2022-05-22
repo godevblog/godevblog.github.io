@@ -18,7 +18,7 @@ categories:
 short: Zapraszam do najcięższego miesiąca jak na ten czas w tym roku listopada. Wiele wyjazdów, aktywności dodatkowych prezentacji. Ogrom włożonej pracy. Wiele niezrealizowanych zadań. Płynę nadal do przodu!
 
 ---
-![Podsumowanie Trzy Poziomy - listopad 2018][post-big]
+![Podsumowanie Trzy Poziomy - listopad 2018][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

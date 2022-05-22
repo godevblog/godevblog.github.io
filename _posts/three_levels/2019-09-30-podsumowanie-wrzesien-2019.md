@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Kolejny miesiąc w trasie. Wiele odwiedzonych konferencji BB Days 4 IT, Programistok, bitConf, 4Developers Kraków, Pozitive Technologies. Udało się też odwiedzić słynną Białowieżę. Rok 2020 będzie mnie mniej na konferencjach. Ewentualnie z prelekcją. Taką decyzję podjąłem.
 ---
-![Podsumowanie Trzy Poziomy - wrzesień 2019][post-big]
+![Podsumowanie Trzy Poziomy - wrzesień 2019][post-big]{:.post-center-image}
 
 Ten miesiąc był bardzo objazdowy. Intensywny ze względu na odwiedzenie wielu konferencji także jako prelegent. 
 

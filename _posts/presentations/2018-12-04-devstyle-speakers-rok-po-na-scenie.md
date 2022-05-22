@@ -15,7 +15,8 @@ categories:
   - Prezentacja
 short: Ponownie miałem przyjemność uczestniczyć w warsztatach organizowanych przez <b>Macieja Aniserowicza</b> o nazwie <b>Devstyle Speakers</b>. Z tej okazji powstała nowa prezentacja dotycząca mojej działalności prelegenckiej.
 ---
-![Devstyle Speakers 2018 - Rok po/na scenie.][post-big]
+![Devstyle Speakers 2018 - Rok po/na scenie.][post-big]{:.post-center-image}
+
 Jak najprościej zaktywizować ok 50 osób do przyjścia/przyjazdu do Warszawy i spędzenia we wspólnym gronie prawie całego weekendu?
 
 To proste można zorganizować niezłą imprezę za free, darmowe drinki, rozrywki ;) śpiew.  Tak to jest jedno z wyjść.

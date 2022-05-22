@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Jest zmiana, ruszyłem do przodu. Znowu zacząłem korzystać z Todoista. Nagrałem dwa podcasty i tym samym osiągnąłem kolejny poziom w celu Podcaster.
 ---
-![Podsumowanie Trzy Poziomy - maj 2019][post-big]
+![Podsumowanie Trzy Poziomy - maj 2019][post-big]{:.post-center-image}
 
 {% include posts/three_levels/head.md %}
 

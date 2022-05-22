@@ -17,7 +17,7 @@ categories:
   - Podsumowanie
 short: Długo nie było podsumowania. Załamał mi się system. Przestałem też odbierać wyznaczone cele jako własne. To spowodowało zaprzestanie realizacji.
 ---
-![Podsumowanie Trzy Poziomy - grudzień 2019][post-big]
+![Podsumowanie Trzy Poziomy - grudzień 2019][post-big]{:.post-center-image}
 
 Myślę, że to będzie ostatnie podsumowanie w tej formie. Od nowego roku ulegnie to wszystko zmianie. Bardzo dużej zmianie.
 Doszedłem do wniosku, że większość celów jakie określiłem są sztuczne. I realizuję je tylko dlatego by podtrzymać kryteria kursu.

@@ -15,7 +15,7 @@ categories:
   - Prezentacja
 short: Poprawiona prezentacja Wiele odsłon CQRSa. Ujrzała właśnie światło dzienne, a raczej piwniczne na Krakowskiej Grupie Deweloperów .NET. 
 ---
-![Wiele odsłon CQRS-a.!][post-big]
+![Wiele odsłon CQRS-a.!][post-big]{:.post-center-image}
 
 Poprawiona wersja prezentacji jaką debiutowałem na 4Developers Wrocław 2018.
 

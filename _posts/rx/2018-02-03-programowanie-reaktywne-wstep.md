@@ -27,6 +27,7 @@ short: Od dawien dawna, tworzenie oprogramowania zwłaszcza związanego z grafic
 
 ## Wstęp
 [![Wyścig do sekcji krytycznej!][post]][post-big]{:.post-left-image}
+
 Od dawien dawna, tworzenie oprogramowania zwłaszcza związanego z graficznymi interfejsami użytkownika (na potrzeby uproszczenia będę odnosił się właśnie do problemów z GUI). 
 Boryka się z problemem, zacinania, lagów, przechodzenia programów w stan nieokreślony aż do momentu zakończenia przetwarzania pewnego obszaru w kodzie.
 

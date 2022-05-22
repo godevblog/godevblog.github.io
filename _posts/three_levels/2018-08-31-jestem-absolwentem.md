@@ -19,6 +19,7 @@ short: Dla mnie kurs się zakończył. Jestem absolwentem! Ale mam coś dla Cieb
 
 ---
 [![Kurs Zbuduj Swoje Trzy Poziomy][post]][post-big]{:.post-left-image}
+
 Zawsze miałem problem, problem z wyznaczeniem swoich celów. Były marzenia, były pomysły. Szły jednak one znacznie prościej niż realizacje. 
 
 Przez wiele lat taki stan rozwijał się, i utrwalał we mnie poczucie, że nie mogę dotrwać w swoich zamysłach do końca.
