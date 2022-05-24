@@ -17,3 +17,7 @@ after.conf:
 git:
   title: GIT
   url: /assets/images/tag_images/git.png
+
+DDD:
+  title: Domain-Driven Design
+  url: /assets/images/tag_images/ddd.png
