@@ -1,192 +1,220 @@
 books:
-  - title: "Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software. Stefan Hofer, Henning Schwentner."
+  - title: "Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software"
+    author: Stefan Hofer, Henning Schwentner
     image: /assets/images/books/0137458916.jpg
     url: https://www.amazon.pl/Domain-Storytelling-Collaborative-Domain-Driven-Software/dp/0137458916
     category: Domain-Driven Design
     readed: 0   
     
-  - title: "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy. Vlad Khononov."
+  - title: "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy"
+    author: Vlad Khononov
     image: /assets/images/books/1098100131.webp
     url: https://www.amazon.pl/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131
     category: Domain-Driven Design
     readed: 10   
 
-  - title: Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.
+  - title: Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym
+    author: Eric Evans
     image: /assets/images/books/domdri.jpg
     url: http://ebookpoint.pl/view/90752/domdri.htm
     category: Domain-Driven Design
     readed: 100
     recommendation: 4
    
-  - title: DDD dla architektów oprogramowania. Vaughn Vernon.
+  - title: DDD dla architektów oprogramowania
+    author: Vaughn Vernon
     image: /assets/images/books/dddaro.jpg
     url: http://ebookpoint.pl/view/90752/dddaro.htm
     category: Domain-Driven Design
     readed: 25
     recommendation: 0
    
-  - title: Hands-On Domain-Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD principles into practice. Alexey Zimarev.
+  - title: Hands-On Domain-Driven Design with .NET Core - Tackling complexity in the heart of software by putting DDD principles into practice
+    author: Alexey Zimarev
     image: /assets/images/books/hands_on_ddd_dot_net_core.jpg
     url: https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097
     category: Domain-Driven Design
     readed: 100
     recommendation: 5    
 
-  - title: GRYWALIZACJA. Jak zastosować mechanizmy gier w działaniach marketingowych. Paweł Tkaczyk.
+  - title: GRYWALIZACJA. Jak zastosować mechanizmy gier w działaniach marketingowych
+    author: Paweł Tkaczyk
     image: /assets/images/books/grywal.jpg
     url: http://ebookpoint.pl/view/90752/grywal.htm
     category: Grywalizacja
     readed: 100
     recommendation: 5
 
-  - title: Grywalizacja. Mechanika gry na stronach WWW i w aplikacjach mobilnych. Gabe Zichermann, Christopher Cunningham.
+  - title: Grywalizacja. Mechanika gry na stronach WWW i w aplikacjach mobilnych
+    author: Gabe Zichermann, Christopher Cunningham
     image: /assets/images/books/grymeg.jpg
     url: http://ebookpoint.pl/view/90752/grymeg.htm
     category: Grywalizacja
     readed: 100
     recommendation: 4
 
-  - title: Ograć nawyki. Jak zastosować mechanizmy gier w procesie zmiany osobistej. Jadwiga Korzeniewska.
+  - title: Ograć nawyki. Jak zastosować mechanizmy gier w procesie zmiany osobistej
+    author: Jadwiga Korzeniewska
     image: /assets/images/books/ograna.jpg
     url: http://ebookpoint.pl/view/90752/ograna.htm
     category: Grywalizacja
     readed: 0
     recommendation: 0
 
-  - title: Kontrola wersji z systemem Git. Narzędzia i techniki programistów. Jon Loeliger, Matthew McCullough.
+  - title: Kontrola wersji z systemem Git. Narzędzia i techniki programistów
+    author: Jon Loeliger, Matthew McCullough
     image: /assets/images/books/koweg2.jpg
     url: http://ebookpoint.pl/view/90752/koweg2.htm
     category: System kontroli wersji
     readed: 80
     recommendation: 0
 
-  - title: Git. Rozproszony system kontroli wersji. Włodzimierz Gajda.
+  - title: Git. Rozproszony system kontroli wersji
+    author: Włodzimierz Gajda
     image: /assets/images/books/gitroz.jpg
     url: http://ebookpoint.pl/view/90752/gitroz.htm
     category: System kontroli wersji
     readed: 0
     recommendation: 0
 
-  - title: Getting Things Done, czyli sztuka bezstresowej efektywności. David Allen.
+  - title: Getting Things Done, czyli sztuka bezstresowej efektywności
+    author: David Allen
     image: /assets/images/books/getti2.jpg
     url: http://ebookpoint.pl/view/90752/getti2.htm
     category: Produktywność
     readed: 100
     recommendation: 4
 
-  - title: Getting Things Programmed. Droga do efektywności. Michał Bartyzel.
+  - title: "Getting Things Programmed: Droga do efektywności"
+    author: Michał Bartyzel
     image: /assets/images/books/droppp.jpg
     url: http://ebookpoint.pl/view/90752/droppp.htm
     category: Produktywność
     readed: 100
     recommendation: 5
 
-  - title: Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża. Neil Fiore.
+  - title: "Nawyk samodyscypliny: Zaprogramuj wewnętrznego stróża"
+    author: Neil Fiore
     image: /assets/images/books/samodv.jpg
     url: http://ebookpoint.pl/view/90752/samodv.htm
     category: Produktywność
     readed: 100
     recommendation: 4
 
-  - title: Filozofia Kaizen. Jak mały krok może zmienić Twoje życie. Robert Maurer.
+  - title: "Filozofia Kaizen: Jak mały krok może zmienić Twoje życie"
+    author: Robert Maurer
     image: /assets/images/books/filokv.jpg
     url: http://ebookpoint.pl/view/90752/filokv.htm
     category: Produktywność
     readed: 100
     recommendation: 4
 
-  - title: Czysty kod. Podręcznik dobrego programisty. Robert C. Martin.
+  - title: "Czysty kod: Podręcznik dobrego programisty"
+    author: Robert C. Martin
     image: /assets/images/books/czykov.jpg
     url: http://ebookpoint.pl/view/90752/czykov.htm
     category: Kunszt programisty
     readed: 20
     recommendation: 0
 
-  - title: Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania. Jez Humble, David Farley.
+  - title: "Ciągłe dostarczanie oprogramowania: Automatyzacja kompilacji, testowania i wdrażania"
+    author: Jez Humble, David Farley
     image: /assets/images/books/cidoop.jpg
     url: http://ebookpoint.pl/view/90752/cidoop.htm
     category: Kunszt programisty
     readed: 20
     recommendation: 0
 
-  - title: Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
+  - title: "Wzorce projektowe: Elementy oprogramowania obiektowego wielokrotnego użytku"
+    author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     image: /assets/images/books/wzoelv.jpg
     url: http://ebookpoint.pl/view/90752/wzoelv.htm
     category: Kunszt programisty
     readed: 100
     recommendation: 4
 
-  - title: 'Zawód: Programista. Maciej Aniserowicz.'
+  - title: "Zawód: Programista"
+    author: Maciej Aniserowicz
     image: /assets/images/books/zawod-programista.jpg
     url: https://zawodprogramista.pl/
     category: Kunszt programisty
     readed: 100
     recommendation: 4
 
-  - title: 'Programista... I co dalej? Maciej Aniserowicz.'
+  - title: Programista... I co dalej?
+    author: Maciej Aniserowicz
     image: /assets/images/books/programista_i_co_dalej.png
     url: https://zawodprogramista.pl/
     category: Więcej niż programista
     readed: 100
     recommendation: 4
 
-  - title: TDD. Sztuka tworzenia dobrego kodu. Kent Beck.
+  - title: "TDD: Sztuka tworzenia dobrego kodu"
+    author: Kent Beck
     image: /assets/images/books/tddszt.jpg
     url: http://ebookpoint.pl/view/90752/tddszt.htm
     category: Testowanie
     readed: 100
     recommendation: 4
 
-  - title: Testy jednostkowe. Świat niezawodnych aplikacji. Roy Osherove.
+  - title: "Testy jednostkowe: Świat niezawodnych aplikacji"
+    author: Roy Osherove
     image: /assets/images/books/tesjed.jpg
     url: http://ebookpoint.pl/view/90752/tesjed.htm
     category: Testowanie
     readed: 30
     recommendation: 0
 
-  - title: JavaScript. Wzorce. Stoyan Stefanov
+  - title: "JavaScript: Wzorce"
+    author: Stoyan Stefanov
     image: /assets/images/books/jascwz.jpg
     url: http://ebookpoint.pl/view/90752/jascwz.htm
     category: Java Script
     readed: 100
     recommendation: 4
   
-  - title: Pamięć absolutna. Arnold Schwarzenegger.
+  - title: Pamięć absolutna
+    author: Arnold Schwarzenegger
     image: /assets/images/books/arnold.jpg
     url: http://lubimyczytac.pl/ksiazka/169173/pamiec-absolutna
     category: Biografia     
     readed: 100
     recommendation: 5
 
-  - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner. Ashlee Vance.
+  - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner
+    author: Ashlee Vance
     image: /assets/images/books/e_0x51.jpg
     url: http://ebookpoint.pl/view/90752/e_0x51.htm
     category: Biografia     
     readed: 100
     recommendation: 5
 
-  - title: Biegiem przez życie. Jerzy Skarżyński.
+  - title: Biegiem przez życie
+    author: Jerzy Skarżyński
     image: /assets/images/books/biegiem-przez-zycie.jpg
     url: http://skarzynski.pl/produkt/biegiem-przez-zycie/
     category: Bieganie
     readed: 100
     recommendation: 5
 
-  - title: Urodzeni biegacze. Tajemnicze plemię Tarahumara, bieganie naturalne i wyścig, jakiego świat nie widział. Christopher Mc Dougall.
+  - title: "Urodzeni biegacze: Tajemnicze plemię Tarahumara, bieganie naturalne i wyścig, jakiego świat nie widział"
+    author: Christopher Mc Dougall
     image: /assets/images/books/e_8503.jpg
     url: http://ebookpoint.pl/view/90752/e_8503.htm
     category: Bieganie
     readed: 0
     recommendation: 0  
 
-  - title: Myśl!... i bogać się. Napoleon Hill.
+  - title: Myśl!... i bogać się
+    author: Napoleon Hill
     image: /assets/images/books/e_580a.jpg
     url: http://ebookpoint.pl/view/90752/e_580a.htm
     category: Rozwój osobisty     
     readed: 100
     recommendation: 4
 
-  - title: Generator charyzmy. Kreowanie osobowości menedżera. Paweł Smółka.
+  - title: "Generator charyzmy: Kreowanie osobowości menedżera"
+    author: Paweł Smółka
     image: /assets/images/books/charyz.jpg
     url: http://ebookpoint.pl/view/90752/charyz.htm
     category: Rozwój osobisty     
@@ -194,42 +222,48 @@ books:
     recommendation: 0
   
 
-  - title: 4-godzinny tydzień pracy. Timothy Ferriss.
+  - title: 4-godzinny tydzień pracy
+    author: Timothy Ferriss
     image: /assets/images/books/4h-work.jpg
     url: https://upolujebooka.pl/oferta,17750,4-godzinny_tydzien_pracy.html
     category: Produktywność
     readed: 25
     recommendation: 0
 
-  - title: Dochodząc do TAK. Negocjowanie bez poddawania się. Fisher Roger, Ury William, Patton Bruce.
+  - title: "Dochodząc do TAK: Negocjowanie bez poddawania się"
+    author: Fisher Roger, Ury William, Patton Bruce
     image: /assets/images/books/a_03u1.jpg
     url: http://ebookpoint.pl/view/90752/a_03u1.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Narratologia. Paweł Tkaczyk.
+  - title: Narratologia
+    author: Paweł Tkaczyk
     image: /assets/images/books/e_0hal.jpg
     url: http://ebookpoint.pl/view/90752/e_0hal.htm
     category: Copywriting
     readed: 100
     recommendation: 5
 
-  - title: Mów i zwyciężaj. Brian Tracy.
+  - title: Mów i zwyciężaj
+    author: Brian Tracy
     image: /assets/images/books/e_596v.jpg
     url: http://ebookpoint.pl/view/90752/e_596v.htm
     category: Wystąpienia publiczne
     readed: 15
     recommendation: 0
     
-  - title: Mistrzowskie prezentacje. Slajdowy poradnik mówcy doskonałego. Wydanie 2. Agata Rzędowska, Jerzy Rzędowski.
+  - title: "Mistrzowskie prezentacje: Slajdowy poradnik mówcy doskonałego"
+    author: Agata Rzędowska, Jerzy Rzędowski
     image: /assets/images/books/mispr2.jpg
     url: http://ebookpoint.pl/view/90752/mispr2.htm
     category: Wystąpienia publiczne
     readed: 100
     recommendation: 2
 
-  - title: EventStorming - An act of deliberate collective learning. Alberto Brandolini.
+  - title: EventStorming - An act of deliberate collective learning
+    author: Alberto Brandolini
     image: /assets/images/books/eventstorming.jpg
     url: https://www.eventstorming.com/
     category: Domain-Driven Design
@@ -237,126 +271,144 @@ books:
     recommendation: 4
 
 
-  - title: Rework. Jason Fried, David Heinemeier Hansson.
+  - title: Rework
+    author: Jason Fried, David Heinemeier Hansson
     image: /assets/images/books/reworv.jpg
     url: http://ebookpoint.pl/view/90752/reworv.htm
     category: Rozwój osobisty    
     readed: 100
     recommendation: 5
 
-  - title: Systemy reaktywne. Wzorce projektowe i ich stosowanie. Roland Kuhn Dr., Brian Hanafee, Jamie Allen.
+  - title: "Systemy reaktywne: Wzorce projektowe i ich stosowanie"
+    author: Roland Kuhn Dr., Brian Hanafee, Jamie Allen
     image: /assets/images/books/sysrea.jpg
     url: http://ebookpoint.pl/view/90752/sysrea.htm
     category: Architektura  
     readed: 10
     recommendation: 0
 
-  - title: Visualise, document and explore your software architecture Software Architecture for Developers - Volume 2. Simon Brown.
+  - title: Visualise, document and explore your software architecture Software Architecture for Developers - Volume 2
+    author: Simon Brown
     image: /assets/images/books/modelc4_2.png
     url: https://leanpub.com/visualising-software-architecture
     category: Architektura  
     readed: 30
     recommendation: 5    
 
-  - title: Zaufanie, czyli waluta przyszłości. Moja droga od zera do 7 milionów z bloga. Michał Szafrański.
+  - title: "Zaufanie, czyli waluta przyszłości: Moja droga od zera do 7 milionów z bloga"
+    author: Michał Szafrański
     image: /assets/images/books/a_04cl.jpg
     url: http://ebookpoint.pl/view/90752/a_04cl.htm
     category: Biznes
     readed: 100
     recommendation: 5
 
-  - title: Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki. Paweł Tkaczyk.
+  - title: "Zakamarki marki: Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"
+    author: Paweł Tkaczyk
     image: /assets/images/books/markaw.jpg
     url: http://ebookpoint.pl/view/90752/markaw.htm
     category: Marketing 
     readed: 100
     recommendation: 5
 
-  - title: Budowanie mikrousług. Sam Newman.
+  - title: Budowanie mikrousług
+    author: Sam Newman
     image: /assets/images/books/budmik.jpg
     url: http://ebookpoint.pl/view/90752/budmik.htm
     category: Architektura 
     readed: 50
     recommendation: 0
 
-  - title: DDD. Kompendium wiedzy. Vaughn Vernon.
+  - title: "DDD: Kompendium wiedzy"
+    author: Vaughn Vernon
     image: /assets/images/books/dddpig.jpg
     url: http://ebookpoint.pl/view/90752/dddpig.htm
     category: Domain-Driven Design 
     readed: 0
     recommendation: 0
 
-  - title: Medytacja dla zabieganych. Osho.
+  - title: Medytacja dla zabieganych
+    author: Osho
     image: /assets/images/books/e_0tr9.jpg
     url: http://ebookpoint.pl/view/90752/e_0tr9.htm
     category: Medytacja
     readed: 100
     recommendation: 3
 
-  - title: Wybij się! Gary Vaynerchuk.
+  - title: Wybij się!
+    author: Gary Vaynerchuk
     image: /assets/images/books/e_179i.jpg
     url: http://ebookpoint.pl/view/90752/e_179i.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Przebij się! Gary Vaynerchuk.
+  - title: Przebij się!
+    author: Gary Vaynerchuk  
     image: /assets/images/books/e_0wz2.jpg
     url: http://ebookpoint.pl/view/90752/e_0wz2.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Ekonomia wdzięczności. Gary Vaynerchuk.
+  - title: Ekonomia wdzięczności
+    author: Gary Vaynerchuk
     image: /assets/images/books/e_0xjt.jpg
     url: http://ebookpoint.pl/view/90752/e_0xjt.htm
     category: Rozwój osobisty
     readed: 0
     recommendation: 0
 
-  - title: Krótka historia czasu. Stephen Hawking.
+  - title: Krótka historia czasu
+    author: Stephen Hawking
     image: /assets/images/books/e_239o.jpg
     url: http://ebookpoint.pl/view/90752/e_239o.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Architektura ewolucyjna. Projektowanie oprogramowania i wsparcie zmian. Neal Ford, Rebecca Parsons, Patrick Kua.
+  - title: "Architektura ewolucyjna: Projektowanie oprogramowania i wsparcie zmian"
+    author: Neal Ford, Rebecca Parsons, Patrick Kua
     image: /assets/images/books/archew.jpg
     url: http://ebookpoint.pl/view/90752/archew.htm
     category: Architektura
     readed: 100
     recommendation: 4
 
-  - title: Reguła 10X. Grant Cardone.
+  - title: Reguła 10X
+    author: Grant Cardone
     image: /assets/images/books/e_0d5c.jpg
     url: http://ebookpoint.pl/view/90752/e_0d5c.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Finansowy Ninja. Michał Szafrański.
+  - title: Finansowy Ninja
+    author: Michał Szafrański
     image: /assets/images/books/finninja.jpg
     url: https://finansowyninja.pl/
     category: Finanse
     readed: 100
     recommendation: 5
 
-  - title: Czego najbardziej żałują umierający. Bronnie Ware.
+  - title: Czego najbardziej żałują umierający
+    author: Bronnie Ware
     image: /assets/images/books/e_34an.jpg
     url: http://ebookpoint.pl/view/90752/e_34an.htm
     category: Rozwój osobisty
     readed: 100
     recommendation: 4
 
-  - title: Praca głęboka. Cal Newport.
+  - title: Praca głęboka
+    author: Cal Newport  
     image: /assets/images/books/e_1fgz.jpg
     url: http://ebookpoint.pl/view/90752/e_1fgz.htm
     category: Produktywność
     readed: 100
     recommendation: 4
 
-  - title: Firma, czyli Ty. Jak będąc Małą firmą, możesz robić Wielkie rzeczy w biznesie. Paul Jarvis.
+  - title: "Firma, czyli Ty: Jak będąc Małą firmą, możesz robić Wielkie rzeczy w biznesie"
+    author: Paul Jarvis
     image: /assets/images/books/s_00h0.jpg
     url: http://ebookpoint.pl/view/90752/s_00h0.htm
     category: Biznes
@@ -364,91 +416,104 @@ books:
     recommendation: 4
 
 
-  - title: Narzędzia Tytanów. Timothy Ferriss.
+  - title: Narzędzia Tytanów
+    author: Timothy Ferriss
     image: /assets/images/books/e_0n6u.jpg
     url: http://ebookpoint.pl/view/90752/e_0n6u.htm
     category: Rozwój osobisty
     readed: 25
     recommendation: 5
 
-  - title: Sposób na listę to-do. Twórz listy zadań, które nie stresują a pomagają!. Damon Zahariades.
+  - title: "Sposób na listę to-do: Twórz listy zadań, które nie stresują a pomagają!"
+    author: Damon Zahariades
     image: /assets/images/books/sponal.jpg
     url: http://ebookpoint.pl/view/90752/sponal.htm
     category: Produktywność
     readed: 100
     recommendation: 5
 
-  - title: Jak radzić sobie z porażką (nie tylko) w biznesie. Marcin Osman.
+  - title: Jak radzić sobie z porażką (nie tylko) w biznesie
+    author: Marcin Osman
     image: /assets/images/books/e_1m0c.jpg
     url: http://ebookpoint.pl/view/90752/e_1m0c.htm
     category: Biznes
     readed: 100
     recommendation: 4    
 
-  - title: Stwórz jednorożca. Od idei po startup wart miliony. Grzegorz Kubera.
+  - title: "Stwórz jednorożca: Od idei po startup wart miliony"
+    author: Grzegorz Kubera
     image: /assets/images/books/starpi.jpg
     url: http://ebookpoint.pl/view/90752/starpi.htm
     category: Biznes
     readed: 20
     recommendation: 0
 
-  - title: Jedna kampania do wolności. Jak stworzyć produkt online, pozyskać klientów i żyć na własnych warunkach. Magdalena Pawłowska.
+  - title: "Jedna kampania do wolności: Jak stworzyć produkt online, pozyskać klientów i żyć na własnych warunkach"
+    author: Magdalena Pawłowska
     image: /assets/images/books/jedkam.jpg
     url: http://ebookpoint.pl/view/90752/jedkam.htm
     category: Biznes
     readed: 25
     recommendation: 5
 
-  - title: Jak pisać. Pamiętnik rzemieślnika. Stephen King.
+  - title: "Jak pisać: Pamiętnik rzemieślnika"
+    author: Stephen King
     image: /assets/images/books/e_0uo5.jpg
     url: http://ebookpoint.pl/view/90752/e_0uo5.htm
     category: Copywriting
     readed: 0
     recommendation: 0
 
-  - title: On Writing - A Memoir of the Craft. Stephen King.
+  - title: On Writing - A Memoir of the Craft
+    author: Stephen King
     image: /assets/images/books/9781444723250.jpg
     url: https://www.bookdepository.com/On-Writing-Stephen-King/9781444723250
     category: Copywriting
     readed: 100
     recommendation: 5
 
-  - title: Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów. Robert C. Martin.
+  - title: "Mistrz czystego kodu: Kodeks postępowania profesjonalnych programistów"
+    author: Robert C. Martin
     image: /assets/images/books/mckkov.jpg
     url: http://ebookpoint.pl/view/90752/mckkov.htm
     category: Kunszt programisty
     readed: 10
     recommendation: 0
 
-  - title: MVVM i XAML w Visual Studio 2015. Jacek Matulewski.
+  - title: MVVM i XAML w Visual Studio 2015
+    author: Jacek Matulewski
     image: /assets/images/books/xamlmv.jpg
     url: http://ebookpoint.pl/view/90752/xamlmv.htm
     category: Architektura
     readed: 100
     recommendation: 4
 
-  - title: Growth Hacker Marketing. O przyszłości PR, marketingu i reklamy. Wydanie rozszerzone. Ryan Holiday.
+  - title: "Growth Hacker Marketing: O przyszłości PR, marketingu i reklamy. Wydanie rozszerzone"
+    author: Ryan Holiday
     image: /assets/images/books/grhama.jpg
     url: http://ebookpoint.pl/view/90752/grhama.htm
     category: Marketing
     readed: 100
     recommendation: 4
 
-  - title: TDD. Techniki programowania sterowanego testami. Dariusz Woźniak.
+  - title: "TDD: Techniki programowania sterowanego testami"
+    author: Dariusz Woźniak
     image: /assets/images/books/tddppr.jpg
     url: http://ebookpoint.pl/view/90752/tddppr.htm
     category: Testowanie
     readed: 0
     recommendation: 0
 
-  - title: BDD w działaniu. Sterowanie zachowaniem w rozwoju aplikacji. John Ferguson Smart.
+  - title: "BDD w działaniu: Sterowanie zachowaniem w rozwoju aplikacji"
+    author: John Ferguson Smart
     image: /assets/images/books/bdddzi.jpg
     url: http://ebookpoint.pl/view/90752/bdddzi.htm
     category: Testowanie
     readed: 0
     recommendation: 0
 
-  - title: Maszyna do pisania. Katarzyna Bonda.
+  - title: Maszyna do pisania
+    author: Katarzyna Bonda
     image: /assets/images/books/e_705s.jpg
     url: http://ebookpoint.pl/view/90752/e_705s.htm
     category: Copywriting
