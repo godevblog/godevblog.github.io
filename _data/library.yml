@@ -1,4 +1,16 @@
 books:
+  - title: "Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software. Stefan Hofer, Henning Schwentner."
+    image: /assets/images/books/0137458916.jpg
+    url: https://www.amazon.pl/Domain-Storytelling-Collaborative-Domain-Driven-Software/dp/0137458916
+    category: Domain-Driven Design
+    readed: 0   
+    
+  - title: "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy. Vlad Khononov."
+    image: /assets/images/books/1098100131.webp
+    url: https://www.amazon.pl/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131
+    category: Domain-Driven Design
+    readed: 10   
+
   - title: Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.
     image: /assets/images/books/domdri.jpg
     url: http://ebookpoint.pl/view/90752/domdri.htm

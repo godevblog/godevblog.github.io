@@ -51,6 +51,8 @@
                     {% endif %}
 
                     <div class="book_main">
+                        <div class="book_readed" id="color-{{book.readed}}">Przeczytane: <b>{{ book.readed }}%</b></div>
+                        
                         <div class="book_link">
                             <a href="{{ book.url }}">
                                
@@ -69,11 +71,8 @@
                                     <span>{{ book.title }}</span>                            
                                 </div>
                             </a>
-                        </div>
-
-                        <div class="book_readed" id="color-{{book.readed}}">Przeczytane: <b>{{ book.readed }}%</b></div>
-
-                       
+                        </div>                    
+                      
                     </div>
                 {% endfor %}        
 
