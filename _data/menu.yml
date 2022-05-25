@@ -28,7 +28,7 @@ groups:
       - page: MrDeVlog - Moje 5 minut
         url: /mrdevlog_5min
   - title: Kursy
-    url: https://courses.mrdev.pl/courses
+    url: https://courses.mrdev.pl/
   - title: Biblioteczka
     disabled: false
     url: /biblioteczka
