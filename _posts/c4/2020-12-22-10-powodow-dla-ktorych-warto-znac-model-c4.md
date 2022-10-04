@@ -9,7 +9,7 @@ comments: true
 image: /assets/images/2020/12/10-powodow-dla-ktorych-warto-znac-model-c4/post.png
 image_big: /assets/images/2020/12/10-powodow-dla-ktorych-warto-znac-model-c4/post-big.png
 categories:
-  - Model C4
+  - Architektura
 tags:
   - Architektura
   - Model C4

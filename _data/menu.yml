@@ -3,6 +3,8 @@ groups:
     url: /
   - title: Kategorie
     urls:
+      - page: Architektura
+        url: /architecture
       - page: EventStorming
         url: /eventstorming
       - page: EventModeling
