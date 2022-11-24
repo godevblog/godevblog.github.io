@@ -115,11 +115,12 @@ Numeracja wprowadzi hierarchię do loga. Przedstawi prawdziwy bieg wydarzeń.
 
 Jeżeli przykładowy wzorzec nie jest dla Ciebie satysfakcjonujący. To dodaj, co potrzebujesz:
 
-Autora zmiany, datę zmiany, odniesienia do diagramów architektonicznych np. [Modelu C4]({{site.url}}/10-powodow-dla-ktorych-warto-znac-model-c4).
+Autora zmiany, datę zmiany, odniesienia do diagramów architektonicznych.
 
 PS: Warto, także w repozytorium utrzymywać diagramy zgodnie z ADLem. Czyli tak zwane **Diagram as Code**. Czy to będzie kod C#, Java, PlantUML to już twoja decyzja. Jednak ważne by ADL szedł zgodnie z diagramami.
 
-Zainteresował cię temat? Zajrzyj do mojego newslettera: [Model C4](https://modelc4.pl).
+PS: Zainteresował cię temat? Zajrzyj do mojego newslettera: [Model C4](https://modelc4.pl).
+PS: Przeczytaj też mój post o używaniu ADLi z wykorzystaniem adr-tools w VSCode -> [Jak utrzymywać ADL z wykorzystaniem VSCode?]({{site.url}}/jak-utrzymywac-adl-z-wykorzystaniem-vscode)
 
 ---
 [post]: /assets/images/2022/10/jak-uzywac-adl-i-adr-w-projekcie/post.jpg
