@@ -120,6 +120,7 @@ Autora zmiany, datę zmiany, odniesienia do diagramów architektonicznych.
 PS: Warto, także w repozytorium utrzymywać diagramy zgodnie z ADLem. Czyli tak zwane **Diagram as Code**. Czy to będzie kod C#, Java, PlantUML to już twoja decyzja. Jednak ważne by ADL szedł zgodnie z diagramami.
 
 PS: Zainteresował cię temat? Zajrzyj do mojego newslettera: [Model C4](https://modelc4.pl).
+
 PS: Przeczytaj też mój post o używaniu ADLi z wykorzystaniem adr-tools w VSCode -> [Jak utrzymywać ADL z wykorzystaniem VSCode?]({{site.url}}/jak-utrzymywac-adl-z-wykorzystaniem-vscode)
 
 ---
