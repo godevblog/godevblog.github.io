@@ -4,7 +4,8 @@ books:
     image: /assets/images/books/0137458916.jpg
     url: https://www.amazon.pl/Domain-Storytelling-Collaborative-Domain-Driven-Software/dp/0137458916
     category: Domain-Driven Design
-    readed: 0   
+    readed: 60
+    recommendation: 5
     
   - title: "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy"
     author: Vlad Khononov
@@ -180,6 +181,14 @@ books:
     category: Biografia     
     readed: 100
     recommendation: 5
+  
+  - title: Nigdy się nie poddawaj! Receptura sukcesu według Donalda Trumpa
+    author: Donald J. Trump, Meredith McIver
+    image: /assets/images/books/nisinv_3.png
+    url: http://ebookpoint.pl/view/90752/nisini.htm
+    category: Biografia     
+    readed: 100
+    recommendation: 4
 
   - title: Elon Musk - Jak myśli i działa przedsiębiorca wizjoner
     author: Ashlee Vance
@@ -212,6 +221,14 @@ books:
     category: Rozwój osobisty     
     readed: 100
     recommendation: 4
+
+  - title: Atomowe nawyki. Drobne zmiany, niezwykłe efekty
+    author: James Clear
+    image: /assets/images/books/e_1er4.jfif
+    url: http://ebookpoint.pl/view/90752/e_1er4.htm
+    category: Rozwój osobisty     
+    readed: 100
+    recommendation: 5
 
   - title: "Generator charyzmy: Kreowanie osobowości menedżera"
     author: Paweł Smółka
