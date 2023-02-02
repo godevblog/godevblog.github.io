@@ -123,6 +123,8 @@ PS: Zainteresował cię temat? Zajrzyj do mojego newslettera: [Model C4](https:/
 
 PS: Przeczytaj też mój post o używaniu ADLi z wykorzystaniem adr-tools w VSCode -> [Jak utrzymywać ADL z wykorzystaniem VSCode?]({{site.url}}/jak-utrzymywac-adl-z-wykorzystaniem-vscode)
 
+PS: Chcesz wykorzystywać GITa jako twój ADL? Piszę o tym w poście: [Jak utrzymywać ADL w GITcie?]({{site.url}}/jak-utrzymywac-adl-w-gitcie)
+
 ---
 [post]: /assets/images/2022/10/jak-uzywac-adl-i-adr-w-projekcie/post.jpg
 [post-big]:/assets/images/2022/10/jak-uzywac-adl-i-adr-w-projekcie/post-big.jpg

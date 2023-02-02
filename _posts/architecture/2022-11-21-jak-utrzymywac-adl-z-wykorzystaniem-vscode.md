@@ -111,6 +111,8 @@ PS: Więcej o ADL i ADR znajdziesz w moim poście: [Jak używać ADL i ADR w pro
 
 PS: Zainteresował cię temat? Zajrzyj do mojego newslettera: [Model C4](https://modelc4.pl).
 
+PS: Chcesz wykorzystywać GITa jako twój ADL? Piszę o tym w poście: [Jak utrzymywać ADL w GITcie?]({{site.url}}/jak-utrzymywac-adl-w-gitcie)
+
 ---
 [post]: /assets/images/2022/11/jak-utrzymywac-adl-z-wykorzystaniem-vscode/post.jpg
 [post-big]:/assets/images/2022/11/jak-utrzymywac-adl-z-wykorzystaniem-vscode/post-big.jpg
