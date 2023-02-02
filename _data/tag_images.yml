@@ -21,3 +21,7 @@ git:
 ddd:
   title: Domain-Driven Design
   url: /assets/images/tag_images/ddd.png
+
+vscode:
+  title: Visual Studio Code
+  url: /assets/images/tag_images/vscode.png

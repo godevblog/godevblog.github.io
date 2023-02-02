@@ -14,6 +14,7 @@ tags:
   - Architektura
   - ADR
   - ADL
+  - VSCode
 short: Jak dzięki VSCode i adr-tools utrzymywać ADL/ADR w swoim projekcie? Odpowiedź na to pytanie znajdziesz w treści artykułu. Praktyczne porady i polecenia prosto z wymienionych narzędzi. Po przeczytaniu będziesz miał wiedzę, by dokumentować decyzje architektoniczne prosto z VSCode.
 ---
 Jako programista często wykorzystuję różne narzędzia. Tak było tym razem, gdy MS wypuścił swoje nowe LEKKIE narzędzie **Visual Studio Code**. Nie czekałem zbyt długo by skosztować.
