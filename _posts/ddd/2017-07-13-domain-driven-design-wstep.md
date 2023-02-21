@@ -24,8 +24,8 @@ Niniejszym otwieram cykl postów związanych z rozkminianiem architektury wytwar
 
 W tym celu zaopatrzyłem się w dwie pozycje:
     
-|[![Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri-image]][domdri]{:.book-image}|[Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri]|
-|[![DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro-image]][dddaro]{:.book-image}|[DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro]|
+|[![Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri-image]{:.book-image}][domdri]|[Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym. Eric Evans.][domdri]|
+|[![DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro-image]{:.book-image}][dddaro]|[DDD dla architektów oprogramowania, Vaughn Vernon.][dddaro]|
     
 ## Czym jest Domain-Driven Design?
 Jest to podejście do budowania aplikacji, w którym zaczynamy od stworzenia tak zwanego **Modelu Domeny** (eng. **Domain Model**). Sam model nie jest niczym innym jak wyodrębnionym głównym zachowaniem aplikacji jaki ma zostać zaimplementowany.

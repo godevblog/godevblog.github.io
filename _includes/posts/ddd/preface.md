@@ -13,7 +13,7 @@ Artykuł ten jest częścią serii artykułów na temat **Domain-Driven Design**
 ----
 
 [1]: {{ site.url }}/domain-driven-design-wstep
-[2]: {{ site.url }}/ domain-driven-design-jezyk-wszechobecny
+[2]: {{ site.url }}/domain-driven-design-jezyk-wszechobecny
 [3]: {{ site.url }}/domain-driven-design-izolacja-przy-pomocy-warstw
 [4]: {{ site.url }}/domain-driven-design-podstawowe-czesci-skladowe
 [5]: {{ site.url }}/ddd-i-jego-zycie

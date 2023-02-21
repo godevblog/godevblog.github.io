@@ -47,8 +47,9 @@
 }
 
 .book-image {
-    width: 70px;
-    height: 100px;
+    display: block;
+    max-width: 210px;
+    max-height: 300px;
     float: left;
     padding: 10px;
 }
