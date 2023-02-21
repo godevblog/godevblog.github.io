@@ -3,7 +3,7 @@ title: Daj Się Poznać 2017 - to już jest koniec&#8230;.
 date: 2017-06-20
 author: Krzysztof Owsiany
 layout: post
-published: false
+published: true
 permalink: /daj-sie-poznac-2017-juz-koniec
 image: /assets/images/2017/06/daj-sie-poznac-2017-juz-koniec/post.jpg
 categories:

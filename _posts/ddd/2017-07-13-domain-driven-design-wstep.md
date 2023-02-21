@@ -58,7 +58,7 @@ Następny artykuł: **[Domain-Driven Design - Język Wszechobecny.][next]**
 
 ----
 
-[next]: {{site.url}}/domain-driven-design-jezyk-wszechobecny
+[next]: {{site.url}}/domain-driven-design-jezyk-wszechobecny        
 
 [unbiquitous]: {{site.url}}/domain-driven-design-jezyk-wszechobecny
 

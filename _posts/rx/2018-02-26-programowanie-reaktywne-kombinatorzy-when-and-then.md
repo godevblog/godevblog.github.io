@@ -4,7 +4,7 @@ date: 2018-03-04
 author: Krzysztof Owsiany
 layout: post
 permalink: programowanie-reaktywne-kombinatorzy-when-and-then
-published: false
+published: true
 comments: true        
 image: /assets/images/2018/02/programowanie-reaktywne/kombinatorzy-when-and-then/post.jpg
 image_big: /assets/images/2018/02/programowanie-reaktywne/kombinatorzy-when-and-then/post-big.jpg
