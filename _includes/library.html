@@ -43,14 +43,18 @@
                         {% endif %}
 
                         <h2 class="book_category" id="{{ book.category }}">{{ book.category }}</h2>    
-
+                        {% if book.product_url != nil && book.product_title != nil %}
+                             <h3><center><a href="{{ book.product_url }}">{{ book.product_title }}</a></center></h3>
+                             <hr/>
+                        {% endif %}
                         <div class="book_category">
 
                         {% assign last_category = book.category %} 
 
                     {% endif %}
 
-                    <div class="book_main">
+                    <div class="book_main">    
+
                         <div class="book_readed" id="color-{{book.readed}}">Przeczytane: <b>{{ book.readed }}%</b></div>
 
                         <div class="book_link">
@@ -70,8 +74,10 @@
                                     </div>
                                     <div>{{ book.title }}</div>                                    
                                     <div><strong>{{ book.author }}</strong></div>
+                                    
                                 </div>
                             </a>
+               
                         </div>                    
                       
                     </div>

@@ -39,8 +39,8 @@ tag_page_data:
 
 mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=2123c1f8978fd64d7bf7612072d81977a-us15;id=32b5575059"
 
-paginate: 12
-post_in_row: 4
+paginate: 9
+post_in_row: 3
 paginate_path: '/page:num/'
 
 google_analytics: UA-93197123-1

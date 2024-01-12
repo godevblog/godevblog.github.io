@@ -4,15 +4,17 @@ books:
     image: /assets/images/books/0137458916.jpg
     url: https://www.amazon.pl/Domain-Storytelling-Collaborative-Domain-Driven-Software/dp/0137458916
     category: Domain-Driven Design
-    readed: 60
+    readed: 100
     recommendation: 5
+    product_title: ==>> Naucz się korzystać z EventStorming BigPicture. Kliknij. <<==
+    product_url: https://szkolaeventstormingu.pl/kup
     
   - title: "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy"
     author: Vlad Khononov
     image: /assets/images/books/1098100131.webp
     url: https://www.amazon.pl/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131
     category: Domain-Driven Design
-    readed: 10   
+    readed: 70
 
   - title: Domain-Driven Design. Zapanuj nad złożonym systemem informatycznym
     author: Eric Evans
@@ -287,7 +289,6 @@ books:
     readed: 100
     recommendation: 4
 
-
   - title: Rework
     author: Jason Fried, David Heinemeier Hansson
     image: /assets/images/books/reworv.jpg
@@ -303,14 +304,16 @@ books:
     category: Architektura  
     readed: 10
     recommendation: 0
+    product_title: ==>> Naucz się korzystać z EventStorming BigPicture. Kliknij. <<==
+    product_url: https://szkolaeventstormingu.pl/kup
 
   - title: Visualise, document and explore your software architecture Software Architecture for Developers - Volume 2
     author: Simon Brown
     image: /assets/images/books/modelc4_2.png
     url: https://leanpub.com/visualising-software-architecture
     category: Architektura  
-    readed: 30
-    recommendation: 5    
+    readed: 100
+    recommendation: 5
 
   - title: "Zaufanie, czyli waluta przyszłości: Moja droga od zera do 7 milionów z bloga"
     author: Michał Szafrański
@@ -341,8 +344,8 @@ books:
     image: /assets/images/books/dddpig.jpg
     url: http://ebookpoint.pl/view/90752/dddpig.htm
     category: Domain-Driven Design 
-    readed: 0
-    recommendation: 0
+    readed: 100
+    recommendation: 4
 
   - title: Medytacja dla zabieganych
     author: Osho
@@ -447,7 +450,7 @@ books:
     url: http://ebookpoint.pl/view/90752/sponal.htm
     category: Produktywność
     readed: 100
-    recommendation: 5
+    recommendation: 4
 
   - title: Jak radzić sobie z porażką (nie tylko) w biznesie
     author: Marcin Osman
@@ -503,7 +506,7 @@ books:
     url: http://ebookpoint.pl/view/90752/xamlmv.htm
     category: Architektura
     readed: 100
-    recommendation: 4
+    recommendation: 2
 
   - title: "Growth Hacker Marketing: O przyszłości PR, marketingu i reklamy. Wydanie rozszerzone"
     author: Ryan Holiday
